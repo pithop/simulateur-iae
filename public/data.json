@@ -3,7 +3,7 @@
     "id": 1,
     "test_id": 1,
     "category": "Culture Générale",
-    "question": "Lors des élections municipales de mars 2026 en France, qui a été élu pour diriger la mairie de Paris, succédant ainsi à Anne Hidalgo et conservant la capitale sous la bannière de la gauche?",
+    "question": "Lors des élections municipales de mars 2026 en France, qui a été élu pour diriger la mairie de Paris, succédant ainsi à Anne Hidalgo et conservant la capitale sous la bannière de la gauche ?",
     "options": [
       "A) Rachida Dati",
       "B) Grégory Doucet",
@@ -12,34 +12,34 @@
       "E) Sophia Chikirou"
     ],
     "correct_answer": "D",
-    "explanation": "Emmanuel Grégoire s'est imposé avec plus de 50 % des suffrages face à ses concurrentes directes, Rachida Dati (droite) et Sophia Chikirou (LFI), actant la continuité de l'alliance PS-Écologistes-PCF à Paris."
+    "explanation": "Emmanuel Grégoire s'est imposé avec 50,5 % des suffrages face à Rachida Dati (41,5 %) et Sophia Chikirou (7,9 %), actant la continuité de l'alliance PS-Écologistes-PCF à Paris. Grégory Doucet et Benoît Payan ont respectivement été reconduits à Lyon et Marseille."
   },
   {
     "id": 2,
     "test_id": 1,
     "category": "Culture Générale",
-    "question": "Pour quels travaux de recherche l'Académie royale des sciences de Suède a-t-elle décerné le Prix Nobel de Chimie 2025 à Susumu Kitagawa, Richard Robson et Omar M. Yaghi?",
+    "question": "Pour quels travaux de recherche l'Académie royale des sciences de Suède a-t-elle décerné le Prix Nobel de Chimie 2025 à Susumu Kitagawa, Richard Robson et Omar M. Yaghi ?",
     "options": [
-      "A) L'invention et la synthèse des points quantiques (quantum dots).",
-      "B) La découverte de la structure de l'ADN polymérase.",
-      "C) L'élaboration des réseaux métallo-organiques (MOFs), matériaux poreux utilisés pour le stockage des gaz.",
-      "D) Le développement de thérapies ciblant les cellules T régulatrices.",
-      "E) Les avancées sur les théories de la destruction créatrice."
+      "A) L'invention et la synthèse des points quantiques (quantum dots)",
+      "B) La découverte de la structure de l'ADN polymérase",
+      "C) L'élaboration des réseaux métallo-organiques (MOFs), matériaux poreux utilisés pour le stockage des gaz",
+      "D) Le développement de thérapies ciblant les cellules T régulatrices",
+      "E) Les avancées sur les théories de la destruction créatrice"
     ],
     "correct_answer": "C",
-    "explanation": "Les chercheurs ont été couronnés pour leur rôle pionnier dans la création des MOFs (Metal-Organic Frameworks), ouvrant des perspectives industrielles colossales pour la transition environnementale."
+    "explanation": "Les chercheurs ont été couronnés pour leur rôle pionnier dans la création des MOFs (Metal-Organic Frameworks), ouvrant des perspectives industrielles colossales pour la transition environnementale. L'option D fait référence au Nobel de Médecine, et l'option E au Prix de la Banque de Suède en sciences économiques."
   },
   {
     "id": 3,
     "test_id": 1,
     "category": "Culture Générale",
-    "question": "Dans le cadre de l'effervescence du marché des fusions-acquisitions (M&A) début 2026, quelle opération stratégique a vu le géant américain Cadence Design Systems renforcer ses capacités en cybersécurité embarquée?",
+    "question": "Dans le cadre de l'effervescence du marché des fusions-acquisitions (M&A) début 2026, quelle opération stratégique a vu le géant américain Cadence Design Systems renforcer ses capacités en cybersécurité embarquée ?",
     "options": [
-      "A) Le rachat du logiciel allemand sevDesk.",
-      "B) L'investissement massif de 100 milliards de dollars dans OpenAI.",
-      "C) L'offre d'acquisition hostile sur Warner Bros Discovery.",
-      "D) L'acquisition de la start-up rennaise Secure-IC.",
-      "E) Le financement institutionnel de Trade Republic."
+      "A) Le rachat du logiciel allemand sevDesk",
+      "B) L'investissement massif de 100 milliards de dollars dans OpenAI",
+      "C) L'offre d'acquisition hostile sur Warner Bros Discovery",
+      "D) L'acquisition de la start-up rennaise Secure-IC",
+      "E) Le financement institutionnel de Trade Republic"
     ],
     "correct_answer": "D",
     "explanation": "Cadence a ciblé Secure-IC pour internaliser des compétences critiques en IP de sécurité. L'acquisition de sevDesk a été opérée par le groupe français Cegid, et la dynamique autour d'OpenAI concerne Nvidia."
@@ -48,22 +48,22 @@
     "id": 4,
     "test_id": 1,
     "category": "Culture Générale",
-    "question": "Quelle a été la performance historique de l'Équipe de France lors des Jeux Olympiques d'hiver de Milano-Cortina en février 2026?",
+    "question": "Quelle a été la performance historique de l'Équipe de France lors des Jeux Olympiques d'hiver de Milano-Cortina en février 2026 ?",
     "options": [
-      "A) Elle a remporté 15 médailles, égalant tout juste son précédent record de Sotchi.",
-      "B) Elle a terminé première au classement final grâce à 10 médailles d'or en ski alpin.",
-      "C) Elle a pulvérisé son record absolu en cumulant 23 médailles, dont 8 en or, la hissant à la 6e place mondiale.",
-      "D) Elle n'a obtenu aucune médaille d'or, une première depuis 1994.",
-      "E) Elle a refusé de participer à l'épreuve de relais mixte en biathlon."
+      "A) Elle a remporté 15 médailles, égalant tout juste son précédent record de Sotchi",
+      "B) Elle a terminé première au classement final grâce à 10 médailles d'or en ski alpin",
+      "C) Elle a pulvérisé son record absolu en cumulant 23 médailles, dont 8 en or, la hissant à la 6e place mondiale",
+      "D) Elle n'a obtenu aucune médaille d'or, une première depuis 1994",
+      "E) Elle a refusé de participer à l'épreuve de relais mixte en biathlon"
     ],
     "correct_answer": "C",
-    "explanation": "La France a réalisé une moisson inédite de 23 médailles (8 or, 9 argent, 6 bronze), portée par les exploits de figures comme Quentin Fillon Maillet, Julia Simon, et le duo Cizeron/Fournier Beaudry."
+    "explanation": "La France a réalisé une moisson inédite de 23 médailles (8 or, 9 argent, 6 bronze), pulvérisant l'ancien record de 15 médailles établi à Sotchi en 2014. Elle s'est hissée à la 6e place du tableau final des médailles."
   },
   {
     "id": 5,
     "test_id": 1,
     "category": "Culture Générale",
-    "question": "Quel auteur a été récompensé par l'Académie Goncourt en 2025 pour son roman \"La Maison vide\"?",
+    "question": "Quel auteur a été récompensé par l'Académie Goncourt en 2025 pour son roman « La Maison vide » ?",
     "options": [
       "A) Adélaïde de Clermont-Tonnerre",
       "B) Emmanuel Carrère",
@@ -72,7 +72,7 @@
       "E) Laurent Mauvignier"
     ],
     "correct_answer": "E",
-    "explanation": "Laurent Mauvignier a remporté le prestigieux Prix Goncourt. Adélaïde de Clermont-Tonnerre a reçu le Renaudot, Emmanuel Carrère le Médicis, et Nathacha Appanah le Femina."
+    "explanation": "Laurent Mauvignier a remporté le prestigieux Prix Goncourt pour « La Maison vide » (Éditions de Minuit). Adélaïde de Clermont-Tonnerre a reçu le Renaudot, Emmanuel Carrère le Médicis, et Nathacha Appanah le Femina."
   },
   {
     "id": 6,
@@ -80,35 +80,35 @@
     "category": "Français",
     "question": "Identifiez l'unique proposition grammaticalement irréprochable :",
     "options": [
-      "A) Les cantatrices que nous avons entendu chanter ont livré une performance exceptionnelle.",
-      "B) Les dossiers, le jury les a examinés avec une grande attention, et des erreurs, il en a remarquées plusieurs.",
-      "C) Les efforts qu'elle a fait pour réussir sont remarquables.",
-      "D) La cantatrice que nous avons entendue chanter a livré une performance exceptionnelle.",
-      "E) Elles se sont parlées longuement avant la réunion."
+      "A) Les cantatrices que nous avons entendu chanter ont livré une performance exceptionnelle",
+      "B) Les dossiers, le jury les a examinés avec une grande attention, et des erreurs, il en a remarquées plusieurs",
+      "C) Les efforts qu'elle a fait pour réussir sont remarquables",
+      "D) La cantatrice que nous avons entendue chanter a livré une performance exceptionnelle",
+      "E) Elles se sont parlées longuement avant la réunion"
     ],
     "correct_answer": "D",
-    "explanation": "La règle stipule que le participe passé suivi d'un infinitif s'accorde si le COD antéposé (\"la cantatrice\") fait l'action de l'infinitif (\"chanter\"). La cantatrice chantant bien, l'accord s'opère."
+    "explanation": "Le participe passé suivi d'un infinitif s'accorde si le COD antéposé fait l'action de l'infinitif. « La cantatrice » chante → accord (entendue). Option A : les cantatrices chantent aussi → il faudrait « entendues ». Option B : le pronom « en » neutralise l'accord → « remarqué ». Option C : « qu'elle a faits » (COD « efforts » antéposé). Option E : « se parler à » → COI → invariable « parlé »."
   },
   {
     "id": 7,
     "test_id": 1,
     "category": "Français",
-    "question": "Quelle phrase est exempte de toute altération orthographique ou sémantique?",
+    "question": "Quelle phrase est exempte de toute altération orthographique ou sémantique ?",
     "options": [
-      "A) Il est censé résoudre ce problème sans atermoyer davantage.",
-      "B) Le gouvernement a décidé d'agraver les sanctions contre la fraude fiscale.",
-      "C) J'allais, sens le savoir, m'engager dans une négociation complexe.",
-      "D) L'entreprise doit ce moderniser pour faire face à la concurrence.",
-      "E) Au jour d'aujourd'hui, l'intelligence artificielle révolutionne les fusions-acquisitions."
+      "A) Il est censé résoudre ce problème sans atermoyer davantage",
+      "B) Le gouvernement a décidé d'agraver les sanctions contre la fraude fiscale",
+      "C) J'allais, sens le savoir, m'engager dans une négociation complexe",
+      "D) L'entreprise doit ce moderniser pour faire face à la concurrence",
+      "E) Au jour d'aujourd'hui, l'intelligence artificielle révolutionne les fusions-acquisitions"
     ],
     "correct_answer": "A",
-    "explanation": "L'usage de \"censé\" (supposé), de \"atermoyer\" (repousser, différer) et de \"davantage\" (adverbe) est parfait. Les autres options contiennent des erreurs (agraver -> aggraver, sens -> sans, ce -> se, Au jour d'aujourd'hui est un pléonasme)."
+    "explanation": "L'usage de « censé » (supposé), « atermoyer » (différer) et « davantage » (adverbe = plus) est correct. Option B : il manque le redoublement → « aggraver ». Option C : confusion « sens/sans » → il faut la préposition « sans ». Option D : confusion « ce/se » → pronom réfléchi « se ». Option E : pléonasme rédhibitoire (« Au jour d'aujourd'hui »)."
   },
   {
     "id": 8,
     "test_id": 1,
     "category": "Logique",
-    "question": "Un véhicule de livraison effectue un trajet de 120 kilomètres pour relier un entrepôt à un client. À l'aller, le trafic permet de maintenir une vitesse de 60 km/h. Au retour, sur la même distance, la fluidité de la route autorise une vitesse de 90 km/h. Quelle est la vitesse moyenne exacte du véhicule sur la totalité de son parcours?",
+    "question": "Un véhicule effectue un trajet de 120 km. À l'aller, il roule à 60 km/h. Au retour, sur la même distance, il roule à 90 km/h. Quelle est la vitesse moyenne exacte sur la totalité du parcours ?",
     "options": [
       "A) 75 km/h",
       "B) 72 km/h",
@@ -117,13 +117,13 @@
       "E) 78 km/h"
     ],
     "correct_answer": "B",
-    "explanation": "L'approche rigoureuse nécessite la moyenne harmonique ou la déconstruction par les durées. Temps aller : 2h. Temps retour : 1,33h. Distance totale : 240 km. Temps total : 10/3 d'heure. Vitesse moyenne = 240 / (10/3) = 72 km/h."
+    "explanation": "Le piège est de calculer la moyenne arithmétique (60+90)/2 = 75. Il faut utiliser la moyenne harmonique : Vmoy = 2×V1×V2/(V1+V2) = 2×60×90/150 = 10800/150 = 72 km/h. Vérification par les durées : aller = 2h, retour = 4/3h, total = 10/3h pour 240 km → 240/(10/3) = 72 km/h."
   },
   {
     "id": 9,
     "test_id": 1,
     "category": "Logique",
-    "question": "Une entreprise place un excédent de trésorerie de 15 000 euros sur un compte rémunéré à un taux d'intérêts simples de 3 % par an. Au bout de combien de mois la valeur totale du compte (capital initial + intérêts) s'élèvera-t-elle à 15 675 euros?",
+    "question": "Une entreprise place 15 000 € à un taux d'intérêts simples de 3 % par an. Au bout de combien de mois la valeur totale atteindra-t-elle 15 675 € ?",
     "options": [
       "A) 12 mois",
       "B) 15 mois",
@@ -132,13 +132,13 @@
       "E) 24 mois"
     ],
     "correct_answer": "C",
-    "explanation": "Le montant des intérêts purs générés est de 675 euros. Les intérêts pour un an (3% de 15 000) sont de 450 euros. Il faut donc 1,5 an (675 / 450) pour générer 675 euros. Converti en mois, 1,5 x 12 aboutit à 18 mois."
+    "explanation": "Intérêts générés = 15 675 − 15 000 = 675 €. Formule intérêts simples : I = C × t × n. Donc 675 = 15 000 × 0,03 × n → 675 = 450 × n → n = 1,5 an = 18 mois."
   },
   {
     "id": 10,
     "test_id": 1,
     "category": "Logique",
-    "question": "L'action d'une entreprise subit une violente décote de 25 % lors d'une crise de marché. De quel pourcentage exact l'action devra-t-elle augmenter pour retrouver scrupuleusement sa valeur initiale?",
+    "question": "L'action d'une entreprise subit une décote de 25 %. De quel pourcentage exact doit-elle augmenter pour retrouver sa valeur initiale ?",
     "options": [
       "A) 25 %",
       "B) 30 %",
@@ -147,13 +147,13 @@
       "E) 50 %"
     ],
     "correct_answer": "C",
-    "explanation": "Une baisse de 25 % équivaut à un coefficient multiplicateur de 0,75 (3/4). Pour que le produit des évolutions soit égal à 1, le CM de hausse doit être l'inverse de 3/4, soit 4/3. La fraction 4/3 correspond à une valeur de 1,3333, soit une augmentation de 33,33 %."
+    "explanation": "Une baisse de 25 % correspond à un coefficient multiplicateur de 0,75 (soit 3/4). Pour revenir à la valeur initiale, il faut l'inverse : 1/0,75 = 4/3 ≈ 1,3333, soit une hausse de 33,33 %. Les pourcentages ne sont pas symétriques : une baisse de x % n'est jamais compensée par une hausse de x %."
   },
   {
     "id": 11,
     "test_id": 1,
     "category": "Anglais",
-    "question": "Select the grammatically correct completion for the following corporate statement: \"The board of directors strongly objects _______ the integration of the new financial software due to excessive costs.\"",
+    "question": "Select the grammatically correct completion: \"The board of directors strongly objects _______ the integration of the new financial software due to excessive costs.\"",
     "options": [
       "A) against implementing",
       "B) to implement",
@@ -162,7 +162,7 @@
       "E) implementing"
     ],
     "correct_answer": "D",
-    "explanation": "La structure verbale anglaise \"to object\" est phrasale et exige la préposition \"to\". Ce \"to\" conserve ici sa nature prépositionnelle, ce qui contraint obligatoirement le verbe subséquent à adopter la forme du gérondif (-ing). Ainsi, \"to implementing\" est correct."
+    "explanation": "Le verbe « to object » exige la préposition « to ». Contrairement à l'intuition francophone, « to » est ici une préposition (pas un marqueur d'infinitif), ce qui impose le gérondif (-ing) après. Seule la forme « to implementing » est normative."
   },
   {
     "id": 12,
@@ -170,2379 +170,2383 @@
     "category": "Anglais",
     "question": "Identify the erroneous sentence regarding the use of countable and uncountable nouns:",
     "options": [
-      "A) He provided me with a highly valuable piece of advice.",
-      "B) The new office furniture has finally been delivered.",
-      "C) The economic news are not as disastrous as the analysts predicted.",
-      "D) We need to purchase new equipment for the laboratory.",
-      "E) She carried too much luggage for a short business trip."
+      "A) He provided me with a highly valuable piece of advice",
+      "B) The new office furniture has finally been delivered",
+      "C) The economic news are not as disastrous as the analysts predicted",
+      "D) We need to purchase new equipment for the laboratory",
+      "E) She carried too much luggage for a short business trip"
     ],
     "correct_answer": "C",
-    "explanation": "En grammaire anglophone, le substantif \"news\" (les nouvelles, l'actualité) est strictement indénombrable. Malgré sa terminaison en \"s\", il requiert un accord verbal au singulier : \"The economic news is not...\""
+    "explanation": "« News » est strictement indénombrable en anglais. Malgré sa terminaison en -s, il exige un verbe au singulier : « The economic news is not as disastrous… ». Les autres options gèrent correctement l'indénombrabilité de advice, furniture, equipment et luggage."
   },
   {
     "id": 13,
     "test_id": 1,
     "category": "Culture Générale",
-    "question": "Quelle technologie est au cœur du produit ChatGPT d'OpenAI ?",
+    "question": "Quel est le montant global des transactions de fusions-acquisitions (M&A) enregistré en 2025, faisant de cette année la deuxième plus prolifique de l'histoire ?",
     "options": [
-      "A) La Blockchain",
-      "B) Les LLM (Large Language Models)",
-      "C) L'informatique quantique",
-      "D) Le Cloud Computing",
-      "E) La Réalité Virtuelle"
+      "A) 2 500 milliards de dollars",
+      "B) 3 200 milliards de dollars",
+      "C) 4 900 milliards de dollars",
+      "D) 6 100 milliards de dollars",
+      "E) 7 800 milliards de dollars"
     ],
-    "correct_answer": "B",
-    "explanation": "La bonne réponse est Les LLM (Large Language Models)."
+    "correct_answer": "C",
+    "explanation": "Le marché mondial du M&A a franchi le seuil des 4 900 milliards de dollars en 2025, soit une progression de 40 à 41 % par rapport à 2024. C'est la deuxième année la plus active de l'histoire après 2021, portée par l'IA et l'assouplissement des doctrines antitrust."
   },
   {
     "id": 14,
     "test_id": 1,
     "category": "Culture Générale",
-    "question": "Quel est le nom du nouveau Premier ministre français nommé début 2024 (avant la dissolution) ?",
+    "question": "Quel investissement stratégique colossal Nvidia a-t-il réalisé dans le secteur de l'intelligence artificielle en 2025 ?",
     "options": [
-      "A) Élisabeth Borne",
-      "B) Gabriel Attal",
-      "C) Jean Castex",
-      "D) Edouard Philippe",
-      "E) Gérald Darmanin"
+      "A) L'acquisition de Google DeepMind pour 50 milliards de dollars",
+      "B) Un investissement d'environ 100 milliards de dollars dans OpenAI",
+      "C) Le rachat de Tesla pour 200 milliards de dollars",
+      "D) La fusion avec AMD pour 75 milliards de dollars",
+      "E) L'acquisition de Meta AI pour 120 milliards de dollars"
     ],
     "correct_answer": "B",
-    "explanation": "La bonne réponse est Gabriel Attal."
+    "explanation": "Nvidia a réalisé un investissement stratégique avoisinant les 100 milliards de dollars dans OpenAI, visant à sécuriser la fourniture de capacités de calcul massif pour l'entraînement des modèles d'IA."
   },
   {
     "id": 15,
     "test_id": 1,
-    "category": "Français",
-    "question": "Identifiez l'unique proposition grammaticalement irréprochable concernant l'accord du participe passé :",
+    "category": "Culture Générale",
+    "question": "Quelle méga-transaction a illustré la consolidation du marché mondial du streaming en 2025 ?",
     "options": [
-      "A) les chansons que nous avons entendue sont magnifiques.",
-      "B) Ils se sont parlé longuement.",
-      "C) les chansons qu'elle a fait pour réussir.",
-      "D) les chansons, il en a beaucoup entendues.",
-      "E) Nous avons entendues les chansons."
+      "A) Disney a racheté Amazon Prime Video pour 60 milliards de dollars",
+      "B) Apple a acquis Spotify pour 45 milliards de dollars",
+      "C) Netflix a formulé une offre d'acquisition de Warner Bros Discovery valorisée à 82 milliards de dollars",
+      "D) Paramount a fusionné avec HBO pour 30 milliards de dollars",
+      "E) YouTube a racheté Twitch pour 25 milliards de dollars"
     ],
-    "correct_answer": "B",
-    "explanation": "La règle des verbes pronominaux (se parler) implique que le 'se' est un COI (parler 'à' quelqu'un), donc le participe passé reste invariable. Avec le pronom 'en', le participe passé ne s'accorde pas."
+    "correct_answer": "C",
+    "explanation": "Netflix a formulé une offre d'acquisition majeure valorisée à 82 milliards de dollars pour Warner Bros Discovery, témoignant de la consolidation extrême du marché du streaming mondial."
   },
   {
     "id": 16,
     "test_id": 1,
     "category": "Culture Générale",
-    "question": "Quel est le nom du nouveau Premier ministre français nommé début 2024 (avant la dissolution) ?",
+    "question": "Quelle valorisation phénoménale a atteint la fintech européenne Trade Republic lors de sa levée de fonds institutionnelle en 2025 ?",
     "options": [
-      "A) Élisabeth Borne",
-      "B) Jean Castex",
-      "C) Edouard Philippe",
-      "D) Gabriel Attal",
-      "E) Gérald Darmanin"
+      "A) 3,5 milliards de dollars",
+      "B) 7 milliards de dollars",
+      "C) 12,5 milliards de dollars",
+      "D) 18 milliards de dollars",
+      "E) 25 milliards de dollars"
     ],
-    "correct_answer": "D",
-    "explanation": "La bonne réponse est Gabriel Attal."
+    "correct_answer": "C",
+    "explanation": "Trade Republic, le courtier en ligne européen, a confirmé une valorisation de 12,5 milliards de dollars lors d'une levée de fonds institutionnelle, faisant de lui l'une des fintech les plus valorisées du continent."
   },
   {
     "id": 17,
     "test_id": 1,
-    "category": "Logique",
-    "question": "L'action d'une entreprise subit une violente décote de 40 %. De quel pourcentage exact l'action devra-t-elle augmenter pour retrouver sa valeur initiale ?",
+    "category": "Culture Générale",
+    "question": "Quel fleuron français du cloud a acquis le logiciel de facturation allemand sevDesk début 2026, renforçant sa présence dans la région DACH ?",
     "options": [
-      "A) 40 %",
-      "B) 45 %",
-      "C) 77 %",
-      "D) 81.67 %",
-      "E) 66.67 %"
+      "A) OVHcloud",
+      "B) Dassault Systèmes",
+      "C) Cegid",
+      "D) Atos",
+      "E) Capgemini"
     ],
-    "correct_answer": "E",
-    "explanation": "Une baisse de 40 % correspond à un coefficient de 0.6. L'augmentation requise est l'inverse : 1/0.6 = 1.6666666666666667, soit une hausse de 66.67 %."
+    "correct_answer": "C",
+    "explanation": "Cegid a finalisé l'acquisition de sevDesk en février 2026, consolidant sa position dans le segment des logiciels de gestion comptable en Allemagne, Autriche et Suisse (région DACH)."
   },
   {
     "id": 18,
     "test_id": 1,
-    "category": "Logique",
-    "question": "Une entreprise place un excédent de 37000 euros à un taux d'intérêts simples de 3 % par an. Au bout de combien de mois la valeur totale du compte s'élèvera-t-elle à 38110 euros ?",
+    "category": "Culture Générale",
+    "question": "Le Prix Nobel de Physique 2025 a été attribué à John Clarke, Michel H. Devoret et John M. Martinis. Pour quelles découvertes ?",
     "options": [
-      "A) 12 mois",
-      "B) 15 mois",
-      "C) 20 mois",
-      "D) 24 mois",
-      "E) 15 mois"
+      "A) La détection des ondes gravitationnelles",
+      "B) Les phénomènes quantiques macroscopiques et le contrôle des qubits supraconducteurs",
+      "C) L'invention du transistor à effet de champ",
+      "D) La théorie de la relativité restreinte appliquée aux accélérateurs de particules",
+      "E) La découverte du boson de Higgs"
     ],
-    "correct_answer": "A",
-    "explanation": "Intérêts purs = 38110 - 37000 = 1110€. Intérêts pour 1 an = 37000 × 3% = 1110€. Il faut donc 1 an(s), soit 12 mois."
+    "correct_answer": "B",
+    "explanation": "Clarke, Devoret et Martinis ont été récompensés pour leurs découvertes fondamentales sur les phénomènes quantiques macroscopiques et le contrôle des qubits supraconducteurs, ouvrant la voie à l'informatique quantique."
   },
   {
     "id": 19,
     "test_id": 1,
-    "category": "Français",
-    "question": "Identifiez l'unique proposition grammaticalement irréprochable concernant l'accord du participe passé :",
+    "category": "Culture Générale",
+    "question": "Le Prix Nobel de Médecine 2025 a récompensé des travaux sur la tolérance immunitaire. Quels chercheurs ont été distingués ?",
     "options": [
-      "A) les lettres que nous avons écrite sont magnifiques.",
-      "B) Ils se sont parlé longuement.",
-      "C) les lettres qu'elle a fait pour réussir.",
-      "D) les lettres, il en a beaucoup écrites.",
-      "E) Nous avons écrites les lettres."
+      "A) Katalin Karikó et Drew Weissman",
+      "B) Mary E. Brunkow, Fred Ramsdell et Shimon Sakaguchi",
+      "C) Jennifer Doudna et Emmanuelle Charpentier",
+      "D) David Julius et Ardem Patapoutian",
+      "E) Svante Pääbo et Yoshinori Ohsumi"
     ],
     "correct_answer": "B",
-    "explanation": "La règle des verbes pronominaux (se parler) implique que le 'se' est un COI (parler 'à' quelqu'un), donc le participe passé reste invariable. Avec le pronom 'en', le participe passé ne s'accorde pas."
+    "explanation": "Brunkow, Ramsdell et Sakaguchi ont été couronnés pour leurs découvertes sur la tolérance immunitaire périphérique et l'identification des cellules T régulatrices, ouvrant de nouvelles thérapies contre le cancer et les maladies auto-immunes."
   },
   {
     "id": 20,
     "test_id": 1,
-    "category": "Français",
-    "question": "Identifiez l'unique proposition grammaticalement irréprochable concernant l'accord du participe passé :",
+    "category": "Culture Générale",
+    "question": "Quel écrivain hongrois a reçu le Prix Nobel de Littérature 2025 pour son œuvre visionnaire et sa prose mélancolique ?",
     "options": [
-      "A) les lettres que nous avons écrite sont magnifiques.",
-      "B) Ils se sont parlé longuement.",
-      "C) les lettres qu'elle a fait pour réussir.",
-      "D) les lettres, il en a beaucoup écrites.",
-      "E) Nous avons écrites les lettres."
+      "A) Imre Kertész",
+      "B) Péter Nádas",
+      "C) László Krasznahorkai",
+      "D) Sándor Márai",
+      "E) Magda Szabó"
     ],
-    "correct_answer": "B",
-    "explanation": "La règle des verbes pronominaux (se parler) implique que le 'se' est un COI (parler 'à' quelqu'un), donc le participe passé reste invariable. Avec le pronom 'en', le participe passé ne s'accorde pas."
+    "correct_answer": "C",
+    "explanation": "László Krasznahorkai a reçu le Nobel de Littérature 2025 pour son œuvre qui, au milieu d'une terreur apocalyptique, réaffirme la puissance de l'art. Il est considéré comme l'un des plus grands prosateurs contemporains."
   },
   {
     "id": 21,
     "test_id": 1,
-    "category": "Logique",
-    "question": "L'action d'une entreprise subit une violente décote de 10 %. De quel pourcentage exact l'action devra-t-elle augmenter pour retrouver sa valeur initiale ?",
+    "category": "Culture Générale",
+    "question": "Le Prix Nobel d'Économie 2025 a été décerné pour des travaux sur la croissance stimulée par l'innovation. Quels économistes ont été récompensés ?",
     "options": [
-      "A) 10 %",
-      "B) 15 %",
-      "C) 21 %",
-      "D) 26.11 %",
-      "E) 11.11 %"
+      "A) Paul Krugman, Joseph Stiglitz et Amartya Sen",
+      "B) Thomas Piketty, Esther Duflo et Abhijit Banerjee",
+      "C) Joel Mokyr, Philippe Aghion et Peter Howitt",
+      "D) Robert Shiller, Eugene Fama et Lars Hansen",
+      "E) Daron Acemoglu, Simon Johnson et James Robinson"
     ],
-    "correct_answer": "E",
-    "explanation": "Une baisse de 10 % correspond à un coefficient de 0.9. L'augmentation requise est l'inverse : 1/0.9 = 1.1111111111111112, soit une hausse de 11.11 %."
+    "correct_answer": "C",
+    "explanation": "Mokyr, Aghion et Howitt ont été distingués pour leurs avancées théoriques majeures sur les mécanismes de la croissance économique stimulée par l'innovation et le processus de destruction créatrice schumpétérienne."
   },
   {
     "id": 22,
     "test_id": 1,
-    "category": "Logique",
-    "question": "L'action d'une entreprise subit une violente décote de 40 %. De quel pourcentage exact l'action devra-t-elle augmenter pour retrouver sa valeur initiale ?",
+    "category": "Culture Générale",
+    "question": "Le Prix Nobel de la Paix 2025 a été attribué à une figure politique latino-américaine. De qui s'agit-il ?",
     "options": [
-      "A) 66.67 %",
-      "B) 40 %",
-      "C) 45 %",
-      "D) 77 %",
-      "E) 81.67 %"
+      "A) Luiz Inácio Lula da Silva (Brésil)",
+      "B) Gustavo Petro (Colombie)",
+      "C) María Corina Machado (Venezuela)",
+      "D) Gabriel Boric (Chili)",
+      "E) Juan Guaidó (Venezuela)"
     ],
-    "correct_answer": "A",
-    "explanation": "Une baisse de 40 % correspond à un coefficient de 0.6. L'augmentation requise est l'inverse : 1/0.6 = 1.6666666666666667, soit une hausse de 66.67 %."
+    "correct_answer": "C",
+    "explanation": "María Corina Machado a reçu le Nobel de la Paix pour son travail acharné en faveur des droits démocratiques et sa lutte pour une transition pacifique de la dictature à la démocratie au Venezuela."
   },
   {
     "id": 23,
     "test_id": 1,
     "category": "Culture Générale",
-    "question": "Qui a remporté l'élection présidentielle américaine en 2024 ?",
+    "question": "Quel roman a valu à Adélaïde de Clermont-Tonnerre le Prix Renaudot 2025 ?",
     "options": [
-      "A) Joe Biden",
-      "B) Donald Trump",
-      "C) Kamala Harris",
-      "D) Ron DeSantis",
-      "E) Nikki Haley"
+      "A) La Maison vide",
+      "B) Kolkhoze",
+      "C) Je voulais vivre",
+      "D) La nuit au cœur",
+      "E) L'Amour moderne"
     ],
-    "correct_answer": "B",
-    "explanation": "La bonne réponse est Donald Trump."
+    "correct_answer": "C",
+    "explanation": "Adélaïde de Clermont-Tonnerre a remporté le Renaudot 2025 pour « Je voulais vivre » (Grasset). Ne pas confondre avec le Goncourt (Mauvignier), le Médicis (Carrère) ou le Femina (Appanah)."
   },
   {
     "id": 24,
     "test_id": 1,
     "category": "Culture Générale",
-    "question": "Où se sont déroulés les Jeux Olympiques d'été en 2024 ?",
+    "question": "Quel auteur a reçu le Prix Médicis 2025 pour son roman « Kolkhoze » ?",
     "options": [
-      "A) Los Angeles",
-      "B) Paris",
-      "C) Tokyo",
-      "D) Londres",
-      "E) Pékin"
+      "A) Laurent Mauvignier",
+      "B) Nathacha Appanah",
+      "C) Yanick Lahens",
+      "D) Emmanuel Carrère",
+      "E) Adélaïde de Clermont-Tonnerre"
     ],
-    "correct_answer": "B",
-    "explanation": "La bonne réponse est Paris."
+    "correct_answer": "D",
+    "explanation": "Emmanuel Carrère a été récompensé par le Prix Médicis 2025 pour « Kolkhoze » (P.O.L.). Carrère est un écrivain et réalisateur reconnu, auteur de « L'Adversaire » et « Limonov »."
   },
   {
     "id": 25,
     "test_id": 1,
-    "category": "Anglais",
-    "question": "Identify the grammatically INACCURATE sentence regarding countable and uncountable nouns:",
+    "category": "Culture Générale",
+    "question": "Quel roman de Nathacha Appanah a été couronné par le Prix Femina 2025 ?",
     "options": [
-      "A) He gave me some valuable advice.",
-      "B) We bought a lot of new advice.",
-      "C) The new advice are arriving tomorrow.",
-      "D) She carries too much advice.",
-      "E) I need a piece of advice."
+      "A) Tropique de la violence",
+      "B) Le dernier frère",
+      "C) La nuit au cœur",
+      "D) Rien ne t'appartient",
+      "E) Je voulais vivre"
     ],
     "correct_answer": "C",
-    "explanation": "Le mot \"advice\" est indénombrable en anglais. Il ne prend jamais de 's' au pluriel et le verbe qui l'accompagne doit être conjugué au singulier (ex: The advice IS arriving). L'option C est donc incorrecte."
+    "explanation": "Nathacha Appanah a reçu le Prix Femina 2025 pour « La nuit au cœur » (Gallimard). L'autrice d'origine mauricienne est également connue pour « Tropique de la violence »."
   },
   {
     "id": 26,
     "test_id": 1,
     "category": "Culture Générale",
-    "question": "Quel est le nom du nouveau Premier ministre français nommé début 2024 (avant la dissolution) ?",
+    "question": "Quel auteur a reçu le Prix Interallié 2025 pour « L'Amour moderne » ?",
     "options": [
-      "A) Élisabeth Borne",
-      "B) Jean Castex",
-      "C) Edouard Philippe",
-      "D) Gérald Darmanin",
-      "E) Gabriel Attal"
+      "A) Laurent Mauvignier",
+      "B) Louis-Henri de la Rochefoucauld",
+      "C) Emmanuel Carrère",
+      "D) Yanick Lahens",
+      "E) Adélaïde de Clermont-Tonnerre"
     ],
-    "correct_answer": "E",
-    "explanation": "La bonne réponse est Gabriel Attal."
+    "correct_answer": "B",
+    "explanation": "Louis-Henri de la Rochefoucauld a remporté le Prix Interallié 2025 pour « L'Amour moderne » (Robert Laffont)."
   },
   {
     "id": 27,
     "test_id": 1,
-    "category": "Logique",
-    "question": "L'action d'une entreprise subit une violente décote de 25 %. De quel pourcentage exact l'action devra-t-elle augmenter pour retrouver sa valeur initiale ?",
+    "category": "Culture Générale",
+    "question": "Quelle autrice a reçu le Grand Prix du Roman de l'Académie française 2025 pour « Passagères de nuit » ?",
     "options": [
-      "A) 25 %",
-      "B) 30 %",
-      "C) 43 %",
-      "D) 33.33 %",
-      "E) 48.33 %"
+      "A) Nathacha Appanah",
+      "B) Adélaïde de Clermont-Tonnerre",
+      "C) Yanick Lahens",
+      "D) Leïla Slimani",
+      "E) Virginie Despentes"
     ],
-    "correct_answer": "D",
-    "explanation": "Une baisse de 25 % correspond à un coefficient de 0.75. L'augmentation requise est l'inverse : 1/0.75 = 1.3333333333333333, soit une hausse de 33.33 %."
+    "correct_answer": "C",
+    "explanation": "Yanick Lahens a reçu le Grand Prix du Roman de l'Académie française pour « Passagères de nuit » (Sabine Wespieser). Autrice haïtienne majeure de la littérature francophone."
   },
   {
     "id": 28,
     "test_id": 1,
-    "category": "Logique",
-    "question": "L'action d'une entreprise subit une violente décote de 20 %. De quel pourcentage exact l'action devra-t-elle augmenter pour retrouver sa valeur initiale ?",
+    "category": "Culture Générale",
+    "question": "À quelles dates se sont déroulés les Jeux Olympiques d'hiver de Milano-Cortina 2026 ?",
     "options": [
-      "A) 20 %",
-      "B) 35 %",
-      "C) 40 %",
-      "D) 25 %"
+      "A) Du 1er au 17 janvier 2026",
+      "B) Du 6 au 22 février 2026",
+      "C) Du 15 février au 3 mars 2026",
+      "D) Du 10 au 26 mars 2026",
+      "E) Du 20 janvier au 5 février 2026"
     ],
-    "correct_answer": "D",
-    "explanation": "Une baisse de 20 % correspond à un coefficient de 0.8. L'augmentation requise est l'inverse : 1/0.8 = 1.25, soit une hausse de 25 %."
+    "correct_answer": "B",
+    "explanation": "Les JO d'hiver 2026 se sont tenus du 6 au 22 février à Milano-Cortina, en Italie. Cette édition était remarquable par son organisation multi-sites innovante."
   },
   {
     "id": 29,
     "test_id": 1,
-    "category": "Français",
-    "question": "Identifiez l'unique proposition grammaticalement irréprochable concernant l'accord du participe passé :",
+    "category": "Culture Générale",
+    "question": "Quel était le précédent record de médailles de la France aux JO d'hiver avant Milano-Cortina 2026 ?",
     "options": [
-      "A) les fleurs que nous avons cueillie sont magnifiques.",
-      "B) Ils se sont parlé longuement.",
-      "C) les fleurs qu'elle a fait pour réussir.",
-      "D) les fleurs, il en a beaucoup cueillies.",
-      "E) Nous avons cueillies les fleurs."
+      "A) 11 médailles à Albertville 1992",
+      "B) 15 médailles à Sotchi 2014",
+      "C) 12 médailles à PyeongChang 2018",
+      "D) 14 médailles à Vancouver 2010",
+      "E) 9 médailles à Turin 2006"
     ],
     "correct_answer": "B",
-    "explanation": "La règle des verbes pronominaux (se parler) implique que le 'se' est un COI (parler 'à' quelqu'un), donc le participe passé reste invariable. Avec le pronom 'en', le participe passé ne s'accorde pas."
+    "explanation": "Le précédent record était de 15 médailles établi à Sotchi en 2014. La France a pulvérisé ce record avec 23 médailles à Milano-Cortina 2026."
   },
   {
     "id": 30,
     "test_id": 1,
-    "category": "Français",
-    "question": "Identifiez l'unique proposition grammaticalement irréprochable concernant l'accord du participe passé :",
+    "category": "Culture Générale",
+    "question": "Quel biathlète français a décroché l'or individuel aux JO de Milano-Cortina 2026 ?",
     "options": [
-      "A) les fleurs que nous avons cueillie sont magnifiques.",
-      "B) Ils se sont parlé longuement.",
-      "C) les fleurs qu'elle a fait pour réussir.",
-      "D) les fleurs, il en a beaucoup cueillies.",
-      "E) Nous avons cueillies les fleurs."
+      "A) Martin Fourcade",
+      "B) Émilien Jacquelin",
+      "C) Quentin Fillon Maillet",
+      "D) Simon Desthieux",
+      "E) Fabien Claude"
     ],
-    "correct_answer": "B",
-    "explanation": "La règle des verbes pronominaux (se parler) implique que le 'se' est un COI (parler 'à' quelqu'un), donc le participe passé reste invariable. Avec le pronom 'en', le participe passé ne s'accorde pas."
+    "correct_answer": "C",
+    "explanation": "Quentin Fillon Maillet a été sacré champion olympique en biathlon à Milano-Cortina. Émilien Jacquelin et Lou Jeanmonnot ont obtenu le bronze."
   },
   {
     "id": 31,
     "test_id": 1,
-    "category": "Logique",
-    "question": "L'action d'une entreprise subit une violente décote de 20 %. De quel pourcentage exact l'action devra-t-elle augmenter pour retrouver sa valeur initiale ?",
+    "category": "Culture Générale",
+    "question": "Quel duo français a remporté l'or en danse sur glace aux JO de Milano-Cortina 2026 ?",
     "options": [
-      "A) 20 %",
-      "B) 35 %",
-      "C) 25 %",
-      "D) 40 %"
+      "A) Gabriella Papadakis et Guillaume Cizeron",
+      "B) Guillaume Cizeron et Laurence Fournier Beaudry",
+      "C) Vanessa James et Morgan Ciprès",
+      "D) Marie-Jade Lauriault et Romain Le Gac",
+      "E) Adelina Galyavieva et Louis Thauron"
     ],
-    "correct_answer": "C",
-    "explanation": "Une baisse de 20 % correspond à un coefficient de 0.8. L'augmentation requise est l'inverse : 1/0.8 = 1.25, soit une hausse de 25 %."
+    "correct_answer": "B",
+    "explanation": "Guillaume Cizeron et Laurence Fournier Beaudry ont été sacrés en danse sur glace. Cizeron avait précédemment concouru avec Gabriella Papadakis."
   },
   {
     "id": 32,
     "test_id": 1,
     "category": "Culture Générale",
-    "question": "Quel est le nom du nouveau Premier ministre français nommé début 2024 (avant la dissolution) ?",
+    "question": "Quelle discipline émergente a permis au relais mixte français (Anselmet/Harrop) de décrocher l'or à Milano-Cortina ?",
     "options": [
-      "A) Élisabeth Borne",
-      "B) Jean Castex",
-      "C) Edouard Philippe",
-      "D) Gabriel Attal",
-      "E) Gérald Darmanin"
+      "A) Le ski de fond",
+      "B) Le biathlon",
+      "C) Le ski-alpinisme",
+      "D) Le snowboard cross",
+      "E) Le combiné nordique"
     ],
-    "correct_answer": "D",
-    "explanation": "La bonne réponse est Gabriel Attal."
+    "correct_answer": "C",
+    "explanation": "Le ski-alpinisme, discipline nouvelle aux JO, a vu le relais mixte français (Thibault Anselmet et Emily Harrop) décrocher la médaille d'or."
   },
   {
     "id": 33,
     "test_id": 1,
-    "category": "Logique",
-    "question": "L'action d'une entreprise subit une violente décote de 50 %. De quel pourcentage exact l'action devra-t-elle augmenter pour retrouver sa valeur initiale ?",
+    "category": "Culture Générale",
+    "question": "Qui a été reconduit à la mairie de Marseille lors des municipales de mars 2026 ?",
     "options": [
-      "A) 50 %",
-      "B) 100 %",
-      "C) 55 %",
-      "D) 110 %",
-      "E) 115 %"
+      "A) Jean-Claude Gaudin",
+      "B) Samia Ghali",
+      "C) Benoît Payan",
+      "D) Renaud Muselier",
+      "E) Martine Vassal"
     ],
-    "correct_answer": "B",
-    "explanation": "Une baisse de 50 % correspond à un coefficient de 0.5. L'augmentation requise est l'inverse : 1/0.5 = 2, soit une hausse de 100 %."
+    "correct_answer": "C",
+    "explanation": "Benoît Payan a été reconduit dans ses fonctions de maire de Marseille, confirmant l'ancrage de la gauche dans la cité phocéenne."
   },
   {
     "id": 34,
     "test_id": 1,
-    "category": "Logique",
-    "question": "Une entreprise place un excédent de 29000 euros à un taux d'intérêts simples de 4 % par an. Au bout de combien de mois la valeur totale du compte s'élèvera-t-elle à 31320 euros ?",
+    "category": "Culture Générale",
+    "question": "Quel ancien Premier ministre a remporté les municipales 2026 au Havre ?",
     "options": [
-      "A) 12 mois",
-      "B) 15 mois",
-      "C) 20 mois",
-      "D) 24 mois",
-      "E) 29 mois"
+      "A) Jean-Pierre Raffarin",
+      "B) Dominique de Villepin",
+      "C) Manuel Valls",
+      "D) Édouard Philippe",
+      "E) Jean Castex"
     ],
     "correct_answer": "D",
-    "explanation": "Intérêts purs = 31320 - 29000 = 2320€. Intérêts pour 1 an = 29000 × 4% = 1160€. Il faut donc 2 an(s), soit 24 mois."
+    "explanation": "Édouard Philippe, ancien Premier ministre (2017-2020), a remporté les élections municipales au Havre, consolidant la droite dans cette ville normande."
   },
   {
     "id": 35,
     "test_id": 1,
-    "category": "Anglais",
-    "question": "Identify the grammatically INACCURATE sentence regarding countable and uncountable nouns:",
+    "category": "Culture Générale",
+    "question": "Quel maire écologiste a été reconduit à Lyon lors des municipales de mars 2026 ?",
     "options": [
-      "A) He gave me some valuable luggage.",
-      "B) We bought a lot of new luggage.",
-      "C) The new luggage are arriving tomorrow.",
-      "D) She carries too much luggage.",
-      "E) I need a piece of luggage."
+      "A) Gérard Collomb",
+      "B) Grégory Doucet",
+      "C) Bruno Bernard",
+      "D) David Kimelfeld",
+      "E) Georges Képénékian"
     ],
-    "correct_answer": "C",
-    "explanation": "Le mot \"luggage\" est indénombrable en anglais. Il ne prend jamais de 's' au pluriel et le verbe qui l'accompagne doit être conjugué au singulier (ex: The luggage IS arriving). L'option C est donc incorrecte."
+    "correct_answer": "B",
+    "explanation": "Grégory Doucet, maire écologiste, a maintenu son ancrage à Lyon. Cette victoire illustre la conservation des bastions métropolitains par la gauche."
   },
   {
     "id": 36,
     "test_id": 1,
-    "category": "Anglais",
-    "question": "Identify the grammatically INACCURATE sentence regarding countable and uncountable nouns:",
+    "category": "Culture Générale",
+    "question": "Quel parti politique a remporté les municipales 2026 à Carcassonne, Menton, Orange et Carpentras ?",
     "options": [
-      "A) He gave me some valuable information.",
-      "B) We bought a lot of new information.",
-      "C) The new information are arriving tomorrow.",
-      "D) She carries too much information.",
-      "E) I need a piece of information."
+      "A) Les Républicains",
+      "B) Le Parti Socialiste",
+      "C) La France Insoumise",
+      "D) Le Rassemblement National",
+      "E) Renaissance"
     ],
-    "correct_answer": "C",
-    "explanation": "Le mot \"information\" est indénombrable en anglais. Il ne prend jamais de 's' au pluriel et le verbe qui l'accompagne doit être conjugué au singulier (ex: The information IS arriving). L'option C est donc incorrecte."
+    "correct_answer": "D",
+    "explanation": "Le RN a poursuivi sa stratégie de maillage territorial en s'emparant de villes intermédiaires : Carcassonne, Menton, Orange et Carpentras, bien qu'il ait été freiné à Toulon et Nîmes."
   },
   {
     "id": 37,
     "test_id": 1,
-    "category": "Anglais",
-    "question": "Identify the grammatically INACCURATE sentence regarding countable and uncountable nouns:",
+    "category": "Culture Générale",
+    "question": "Éric Ciotti a remporté les municipales 2026 dans quelle grande ville du sud de la France ?",
     "options": [
-      "A) He gave me some valuable luggage.",
-      "B) We bought a lot of new luggage.",
-      "C) The new luggage are arriving tomorrow.",
-      "D) She carries too much luggage.",
-      "E) I need a piece of luggage."
+      "A) Marseille",
+      "B) Toulon",
+      "C) Nice",
+      "D) Montpellier",
+      "E) Cannes"
     ],
     "correct_answer": "C",
-    "explanation": "Le mot \"luggage\" est indénombrable en anglais. Il ne prend jamais de 's' au pluriel et le verbe qui l'accompagne doit être conjugué au singulier (ex: The luggage IS arriving). L'option C est donc incorrecte."
+    "explanation": "Éric Ciotti a consolidé sa position à Nice lors des municipales 2026, confirmant l'ancrage de la droite dans cette métropole azuréenne."
   },
   {
     "id": 38,
     "test_id": 1,
-    "category": "Anglais",
-    "question": "Identify the grammatically INACCURATE sentence regarding countable and uncountable nouns:",
+    "category": "Culture Générale",
+    "question": "Dans quelles villes les alliances intégrant La France Insoumise (LFI) ont-elles échoué aux municipales 2026 ?",
     "options": [
-      "A) He gave me some valuable information.",
-      "B) We bought a lot of new information.",
-      "C) The new information are arriving tomorrow.",
-      "D) She carries too much information.",
-      "E) I need a piece of information."
+      "A) Paris, Lyon et Marseille",
+      "B) Toulouse, Clermont-Ferrand et Limoges",
+      "C) Bordeaux, Nantes et Rennes",
+      "D) Strasbourg, Lille et Grenoble",
+      "E) Nice, Toulon et Cannes"
     ],
-    "correct_answer": "C",
-    "explanation": "Le mot \"information\" est indénombrable en anglais. Il ne prend jamais de 's' au pluriel et le verbe qui l'accompagne doit être conjugué au singulier (ex: The information IS arriving). L'option C est donc incorrecte."
+    "correct_answer": "B",
+    "explanation": "Les coalitions intégrant LFI ont échoué à Toulouse, Clermont-Ferrand et Limoges, soulignant les limites de l'union des gauches sur certains territoires, contrairement aux métropoles comme Paris ou Lyon."
   },
   {
     "id": 39,
     "test_id": 1,
-    "category": "Anglais",
-    "question": "Identify the grammatically INACCURATE sentence regarding countable and uncountable nouns:",
+    "category": "Culture Générale",
+    "question": "Quel événement tragique a marqué la campagne des municipales 2026 le 14 février ?",
     "options": [
-      "A) He gave me some valuable equipment.",
-      "B) We bought a lot of new equipment.",
-      "C) The new equipment are arriving tomorrow.",
-      "D) She carries too much equipment.",
-      "E) I need a piece of equipment."
+      "A) Un attentat terroriste à Paris",
+      "B) Le décès de Quentin Deranque",
+      "C) La démission du Premier ministre",
+      "D) Une catastrophe naturelle en Provence",
+      "E) L'assassinat d'un candidat à Marseille"
     ],
-    "correct_answer": "C",
-    "explanation": "Le mot \"equipment\" est indénombrable en anglais. Il ne prend jamais de 's' au pluriel et le verbe qui l'accompagne doit être conjugué au singulier (ex: The equipment IS arriving). L'option C est donc incorrecte."
+    "correct_answer": "B",
+    "explanation": "Le décès de Quentin Deranque le 14 février 2026 a provoqué une onde de choc politique et exacerbé les tensions préexistantes durant la campagne des municipales."
   },
   {
     "id": 40,
     "test_id": 1,
-    "category": "Logique",
-    "question": "Une entreprise place un excédent de 49000 euros à un taux d'intérêts simples de 5 % par an. Au bout de combien de mois la valeur totale du compte s'élèvera-t-elle à 51450 euros ?",
+    "category": "Culture Générale",
+    "question": "Combien d'inscrits comportait le corps électoral lors des municipales françaises de mars 2026 ?",
     "options": [
-      "A) 15 mois",
-      "B) 20 mois",
-      "C) 12 mois",
-      "D) 24 mois",
-      "E) 28 mois"
+      "A) 35 millions",
+      "B) 42 millions",
+      "C) 48,5 millions",
+      "D) 52 millions",
+      "E) 55 millions"
     ],
     "correct_answer": "C",
-    "explanation": "Intérêts purs = 51450 - 49000 = 2450€. Intérêts pour 1 an = 49000 × 5% = 2450€. Il faut donc 1 an(s), soit 12 mois."
+    "explanation": "Le corps électoral comprenait 48 474 213 inscrits pour les municipales des 15 et 22 mars 2026."
   },
   {
     "id": 41,
     "test_id": 1,
-    "category": "Logique",
-    "question": "Une entreprise place un excédent de 19000 euros à un taux d'intérêts simples de 3 % par an. Au bout de combien de mois la valeur totale du compte s'élèvera-t-elle à 19855 euros ?",
+    "category": "Culture Générale",
+    "question": "Quel détroit stratégique a été au cœur des tensions géopolitiques liées aux ultimatums américains envers l'Iran ?",
     "options": [
-      "A) 18 mois",
-      "B) 12 mois",
-      "C) 15 mois",
-      "D) 20 mois",
-      "E) 24 mois"
+      "A) Le détroit de Gibraltar",
+      "B) Le détroit de Malacca",
+      "C) Le détroit de Bab-el-Mandeb",
+      "D) Le détroit d'Ormuz",
+      "E) Le canal de Suez"
     ],
-    "correct_answer": "A",
-    "explanation": "Intérêts purs = 19855 - 19000 = 855€. Intérêts pour 1 an = 19000 × 3% = 570€. Il faut donc 1.5 an(s), soit 18 mois."
+    "correct_answer": "D",
+    "explanation": "Le détroit d'Ormuz, artère névralgique du commerce maritime mondial (transit de 20% du pétrole mondial), a été au centre des tensions entre les États-Unis et l'Iran sous l'administration Trump."
   },
   {
     "id": 42,
     "test_id": 1,
-    "category": "Logique",
-    "question": "L'action d'une entreprise subit une violente décote de 10 %. De quel pourcentage exact l'action devra-t-elle augmenter pour retrouver sa valeur initiale ?",
+    "category": "Culture Générale",
+    "question": "Quel ministre des Finances français a orchestré les mesures d'urgence face à la crise du pouvoir d'achat en 2025-2026 ?",
     "options": [
-      "A) 10 %",
-      "B) 15 %",
-      "C) 11.11 %",
-      "D) 21 %",
-      "E) 26.11 %"
+      "A) Bruno Le Maire",
+      "B) Gabriel Attal",
+      "C) Sébastien Lecornu",
+      "D) Michel Barnier",
+      "E) Gérald Darmanin"
     ],
     "correct_answer": "C",
-    "explanation": "Une baisse de 10 % correspond à un coefficient de 0.9. L'augmentation requise est l'inverse : 1/0.9 = 1.1111111111111112, soit une hausse de 11.11 %."
+    "explanation": "Sébastien Lecornu, ministre des Finances, a dû pallier l'augmentation des coûts de l'énergie et soutenir les secteurs agricole et artisanal face à la grogne sociale."
   },
   {
     "id": 43,
     "test_id": 1,
     "category": "Culture Générale",
-    "question": "Qui a remporté l'élection présidentielle américaine en 2024 ?",
+    "question": "Quelle progression en pourcentage le marché mondial du M&A a-t-il enregistrée en 2025 par rapport à 2024 ?",
     "options": [
-      "A) Joe Biden",
-      "B) Donald Trump",
-      "C) Kamala Harris",
-      "D) Ron DeSantis",
-      "E) Nikki Haley"
+      "A) 10 à 15 %",
+      "B) 20 à 25 %",
+      "C) 30 à 35 %",
+      "D) 40 à 41 %",
+      "E) 50 à 55 %"
     ],
-    "correct_answer": "B",
-    "explanation": "La bonne réponse est Donald Trump."
+    "correct_answer": "D",
+    "explanation": "Le volume global des transactions M&A a progressé de 40 à 41 % en 2025 par rapport à 2024, atteignant 4 900 milliards de dollars."
   },
   {
     "id": 44,
     "test_id": 1,
-    "category": "Français",
-    "question": "Identifiez l'unique proposition grammaticalement irréprochable concernant l'accord du participe passé :",
+    "category": "Culture Générale",
+    "question": "Quel facteur a principalement alimenté la frénésie du marché des fusions-acquisitions en 2025 ?",
     "options": [
-      "A) les décisions que nous avons prise sont magnifiques.",
-      "B) Ils se sont parlé longuement.",
-      "C) les décisions qu'elle a fait pour réussir.",
-      "D) les décisions, il en a beaucoup prises.",
-      "E) Nous avons prises les décisions."
+      "A) La hausse des taux d'intérêt",
+      "B) La crise immobilière mondiale",
+      "C) L'intelligence artificielle et l'assouplissement antitrust",
+      "D) La transition énergétique exclusivement",
+      "E) La pandémie de Covid-19"
     ],
-    "correct_answer": "B",
-    "explanation": "La règle des verbes pronominaux (se parler) implique que le 'se' est un COI (parler 'à' quelqu'un), donc le participe passé reste invariable. Avec le pronom 'en', le participe passé ne s'accorde pas."
+    "correct_answer": "C",
+    "explanation": "L'IA est devenue le moteur central des décisions d'allocation de capital, combinée à un assouplissement des doctrines antitrust favorisant les méga-transactions."
   },
   {
     "id": 45,
     "test_id": 1,
     "category": "Culture Générale",
-    "question": "Quel pays a rejoint l'OTAN en 2024 devenant le 32ème membre ?",
+    "question": "Combien coûte le passage du Score IAE-Message pour la session 2026 ?",
     "options": [
-      "A) La Finlande",
-      "B) La Suède",
-      "C) L'Ukraine",
-      "D) La Géorgie",
-      "E) La Serbie"
+      "A) 30 euros",
+      "B) 35 euros",
+      "C) 42 euros",
+      "D) 50 euros",
+      "E) 65 euros"
     ],
-    "correct_answer": "B",
-    "explanation": "La bonne réponse est La Suède."
+    "correct_answer": "C",
+    "explanation": "L'accès au test standardisé Score IAE-Message nécessite un investissement de 42 euros par passage pour la session 2026."
   },
   {
     "id": 46,
     "test_id": 1,
-    "category": "Logique",
-    "question": "L'action d'une entreprise subit une violente décote de 50 %. De quel pourcentage exact l'action devra-t-elle augmenter pour retrouver sa valeur initiale ?",
+    "category": "Culture Générale",
+    "question": "Combien de formations universitaires en gestion utilisent le Score IAE-Message comme instrument d'évaluation ?",
     "options": [
-      "A) 50 %",
-      "B) 100 %",
-      "C) 55 %",
-      "D) 110 %",
-      "E) 115 %"
+      "A) Plus de 100",
+      "B) Plus de 200",
+      "C) Plus de 350",
+      "D) Plus de 500",
+      "E) Plus de 700"
     ],
-    "correct_answer": "B",
-    "explanation": "Une baisse de 50 % correspond à un coefficient de 0.5. L'augmentation requise est l'inverse : 1/0.5 = 2, soit une hausse de 100 %."
+    "correct_answer": "C",
+    "explanation": "Le Score IAE-Message est utilisé par plus de 350 formations universitaires en gestion et management, de la licence au master."
   },
   {
     "id": 47,
     "test_id": 1,
-    "category": "Logique",
-    "question": "Une entreprise place un excédent de 26000 euros à un taux d'intérêts simples de 2 % par an. Au bout de combien de mois la valeur totale du compte s'élèvera-t-elle à 26780 euros ?",
+    "category": "Culture Générale",
+    "question": "Quel club de football français a créé la sensation en se qualifiant pour la finale de la Coupe de France avec une victoire 4-1 ?",
     "options": [
-      "A) 12 mois",
-      "B) 15 mois",
-      "C) 20 mois",
-      "D) 24 mois",
-      "E) 18 mois"
+      "A) L'Olympique de Marseille contre Lyon",
+      "B) Le Paris Saint-Germain contre Monaco",
+      "C) Le Racing Club de Lens contre Toulouse",
+      "D) Le LOSC Lille contre Rennes",
+      "E) l'OGC Nice contre Strasbourg"
     ],
-    "correct_answer": "E",
-    "explanation": "Intérêts purs = 26780 - 26000 = 780€. Intérêts pour 1 an = 26000 × 2% = 520€. Il faut donc 1.5 an(s), soit 18 mois."
+    "correct_answer": "C",
+    "explanation": "Le RC Lens a créé la sensation en se qualifiant pour la finale de la Coupe de France après une victoire écrasante (4-1) face à Toulouse."
   },
   {
     "id": 48,
     "test_id": 1,
-    "category": "Anglais",
-    "question": "Identify the grammatically INACCURATE sentence regarding countable and uncountable nouns:",
+    "category": "Culture Générale",
+    "question": "Quel pays africain a validé une qualification historique pour la Coupe du Monde FIFA 2026 après 52 ans d'attente ?",
     "options": [
-      "A) He gave me some valuable advice.",
-      "B) We bought a lot of new advice.",
-      "C) The new advice are arriving tomorrow.",
-      "D) She carries too much advice.",
-      "E) I need a piece of advice."
+      "A) Le Cameroun",
+      "B) Le Nigeria",
+      "C) La Côte d'Ivoire",
+      "D) La République Démocratique du Congo",
+      "E) Le Sénégal"
     ],
-    "correct_answer": "C",
-    "explanation": "Le mot \"advice\" est indénombrable en anglais. Il ne prend jamais de 's' au pluriel et le verbe qui l'accompagne doit être conjugué au singulier (ex: The advice IS arriving). L'option C est donc incorrecte."
+    "correct_answer": "D",
+    "explanation": "La RDC a mis fin à 52 ans d'attente en validant sa qualification pour la Coupe du Monde 2026, un événement historique pour le football congolais."
   },
   {
     "id": 49,
     "test_id": 1,
-    "category": "Français",
-    "question": "Identifiez l'unique proposition grammaticalement irréprochable concernant l'accord du participe passé :",
+    "category": "Culture Générale",
+    "question": "Quelle athlète française a remporté une médaille de bronze en ski de bosses aux JO de Milano-Cortina 2026 ?",
     "options": [
-      "A) les pommes que nous avons mangée sont magnifiques.",
-      "B) Ils se sont parlé longuement.",
-      "C) les pommes qu'elle a fait pour réussir.",
-      "D) les pommes, il en a beaucoup mangées.",
-      "E) Nous avons mangées les pommes."
+      "A) Tessa Worley",
+      "B) Perrine Laffont",
+      "C) Julia Simon",
+      "D) Alexia Fabre",
+      "E) Chloé Trespeuch"
     ],
     "correct_answer": "B",
-    "explanation": "La règle des verbes pronominaux (se parler) implique que le 'se' est un COI (parler 'à' quelqu'un), donc le participe passé reste invariable. Avec le pronom 'en', le participe passé ne s'accorde pas."
+    "explanation": "Perrine Laffont, championne olympique de ski de bosses à PyeongChang 2018, a décroché le bronze à Milano-Cortina 2026."
   },
   {
     "id": 50,
     "test_id": 1,
-    "category": "Logique",
-    "question": "Un véhicule de livraison effectue un trajet aller-retour. À l'aller, le trafic permet de maintenir une vitesse de 60 km/h. Au retour, sur la même distance, la route autorise une vitesse de 110 km/h. Quelle est la vitesse moyenne exacte sur la totalité du parcours ?",
+    "category": "Culture Générale",
+    "question": "Quel duo français a remporté le bronze en snowboard cross par équipes mixtes à Milano-Cortina 2026 ?",
     "options": [
-      "A) 85 km/h",
-      "B) 72 km/h",
-      "C) 77.6 km/h",
-      "D) 80 km/h",
-      "E) 84 km/h"
+      "A) Nelly Moenne Loccoz et Pierre Vaultier",
+      "B) Loan Bozzolo et Léa Casta",
+      "C) Chloe Trespeuch et Merlin Surget",
+      "D) Julia Pereira et Eliot Grondin",
+      "E) Lucile Lefèvre et Adam Lambert"
     ],
-    "correct_answer": "C",
-    "explanation": "L'approche rigoureuse nécessite la moyenne harmonique : (2 × 60 × 110) / (60 + 110) = 77.6 km/h. La moyenne arithmétique de 85 est un piège classique."
+    "correct_answer": "B",
+    "explanation": "Le duo Loan Bozzolo et Léa Casta a décroché le bronze en snowboard cross par équipes mixtes, contribuant à la moisson historique de 23 médailles françaises."
   },
   {
     "id": 51,
     "test_id": 1,
-    "category": "Culture Générale",
-    "question": "Qui a remporté l'élection présidentielle américaine en 2024 ?",
+    "category": "Français",
+    "question": "Quelle phrase contient une erreur d'accord du participe passé ?",
     "options": [
-      "A) Joe Biden",
-      "B) Kamala Harris",
-      "C) Ron DeSantis",
-      "D) Nikki Haley",
-      "E) Donald Trump"
+      "A) Les résultats que nous avons obtenus confirment notre hypothèse",
+      "B) Des pommes, j'en ai mangé trois ce matin",
+      "C) Les lettres qu'elle a écrites ont été envoyées hier",
+      "D) Des erreurs, il en a commises beaucoup",
+      "E) Les rapports que le directeur a lus sont confidentiels"
     ],
-    "correct_answer": "E",
-    "explanation": "La bonne réponse est Donald Trump."
+    "correct_answer": "D",
+    "explanation": "Le pronom « en » neutralise l'accord du participe passé avec l'auxiliaire avoir. On écrit « il en a commis » (invariable), jamais « commises ». La règle : quand le COD est « en », le participe reste invariable."
   },
   {
     "id": 52,
     "test_id": 1,
-    "category": "Logique",
-    "question": "L'action d'une entreprise subit une violente décote de 20 %. De quel pourcentage exact l'action devra-t-elle augmenter pour retrouver sa valeur initiale ?",
+    "category": "Français",
+    "question": "Quelle phrase utilise correctement la locution conjonctive « après que » ?",
     "options": [
-      "A) 25 %",
-      "B) 20 %",
-      "C) 35 %",
-      "D) 40 %"
+      "A) Après qu'il soit parti, nous avons rangé la salle",
+      "B) Après qu'il ait terminé son discours, le public a applaudi",
+      "C) Après qu'elle a réussi son examen, elle a fêté sa victoire",
+      "D) Après qu'ils soient revenus, la réunion a repris",
+      "E) Après qu'il ait compris la situation, il a réagi"
     ],
-    "correct_answer": "A",
-    "explanation": "Une baisse de 20 % correspond à un coefficient de 0.8. L'augmentation requise est l'inverse : 1/0.8 = 1.25, soit une hausse de 25 %."
+    "correct_answer": "C",
+    "explanation": "« Après que » exige l'indicatif (l'action est accomplie et certaine). On dit « après qu'elle a réussi », pas « après qu'elle ait réussi ». C'est « avant que » et « bien que » qui commandent le subjonctif."
   },
   {
     "id": 53,
     "test_id": 1,
-    "category": "Logique",
-    "question": "Une entreprise place un excédent de 13000 euros à un taux d'intérêts simples de 3 % par an. Au bout de combien de mois la valeur totale du compte s'élèvera-t-elle à 13585 euros ?",
+    "category": "Français",
+    "question": "Identifiez la phrase contenant un pléonasme :",
     "options": [
-      "A) 12 mois",
-      "B) 15 mois",
-      "C) 18 mois",
-      "D) 20 mois",
-      "E) 24 mois"
+      "A) Il a prévu les conséquences de cette décision",
+      "B) Ils ont collaboré ensemble sur ce projet stratégique",
+      "C) L'entreprise a réduit ses coûts de production",
+      "D) Le directeur a finalisé le rapport annuel",
+      "E) La croissance économique s'est accélérée ce trimestre"
     ],
-    "correct_answer": "C",
-    "explanation": "Intérêts purs = 13585 - 13000 = 585€. Intérêts pour 1 an = 13000 × 3% = 390€. Il faut donc 1.5 an(s), soit 18 mois."
+    "correct_answer": "B",
+    "explanation": "« Collaborer ensemble » est un pléonasme : collaborer signifie déjà « travailler ensemble ». Autres pléonasmes classiques : « prévoir à l'avance », « s'avérer vrai », « au jour d'aujourd'hui »."
   },
   {
     "id": 54,
     "test_id": 1,
-    "category": "Logique",
-    "question": "L'action d'une entreprise subit une violente décote de 25 %. De quel pourcentage exact l'action devra-t-elle augmenter pour retrouver sa valeur initiale ?",
+    "category": "Français",
+    "question": "Quel mot est correctement orthographié ?",
     "options": [
-      "A) 25 %",
-      "B) 33.33 %",
-      "C) 30 %",
-      "D) 43 %",
-      "E) 48.33 %"
+      "A) Appercevoir",
+      "B) Aggraver",
+      "C) Atterir",
+      "D) Nourrir",
+      "E) Aparaître"
     ],
-    "correct_answer": "B",
-    "explanation": "Une baisse de 25 % correspond à un coefficient de 0.75. L'augmentation requise est l'inverse : 1/0.75 = 1.3333333333333333, soit une hausse de 33.33 %."
+    "correct_answer": "D",
+    "explanation": "« Nourrir » prend deux r. Attention : « apercevoir » (un seul p), « aggraver » (deux g), « atterrir » (deux t, deux r), « apparaître » (deux p). Le redoublement consonantique est un piège classique du SIM."
   },
   {
     "id": 55,
     "test_id": 1,
-    "category": "Anglais",
-    "question": "Identify the grammatically INACCURATE sentence regarding countable and uncountable nouns:",
+    "category": "Français",
+    "question": "Dans quelle phrase l'homophone est-il correctement employé ?",
     "options": [
-      "A) He gave me some valuable information.",
-      "B) We bought a lot of new information.",
-      "C) The new information are arriving tomorrow.",
-      "D) She carries too much information.",
-      "E) I need a piece of information."
+      "A) Il est sensé connaître les règles du jeu",
+      "B) Elle est censée arriver avant midi",
+      "C) Ce raisonnement n'est pas censé du tout",
+      "D) Un individu censé réfléchit avant d'agir",
+      "E) Cette décision est tout à fait censée"
     ],
-    "correct_answer": "C",
-    "explanation": "Le mot \"information\" est indénombrable en anglais. Il ne prend jamais de 's' au pluriel et le verbe qui l'accompagne doit être conjugué au singulier (ex: The information IS arriving). L'option C est donc incorrecte."
+    "correct_answer": "B",
+    "explanation": "« Censé » = supposé (censé + infinitif). « Sensé » = qui a du bon sens. « Elle est censée arriver » = elle est supposée arriver. Les options C, D et E confondent les deux : un raisonnement est « sensé » (= raisonnable)."
   },
   {
     "id": 56,
     "test_id": 1,
-    "category": "Anglais",
-    "question": "Identify the grammatically INACCURATE sentence regarding countable and uncountable nouns:",
+    "category": "Français",
+    "question": "Quelle phrase est grammaticalement correcte ?",
     "options": [
-      "A) He gave me some valuable information.",
-      "B) We bought a lot of new information.",
-      "C) The new information are arriving tomorrow.",
-      "D) She carries too much information.",
-      "E) I need a piece of information."
+      "A) Davantage de précisions seraient les bienvenues",
+      "B) D'avantage de précisions seraient les bienvenues",
+      "C) Il faudrait davantage d'avantages fiscaux",
+      "D) Les deux options A et C sont correctes",
+      "E) Aucune des propositions n'est correcte"
     ],
-    "correct_answer": "C",
-    "explanation": "Le mot \"information\" est indénombrable en anglais. Il ne prend jamais de 's' au pluriel et le verbe qui l'accompagne doit être conjugué au singulier (ex: The information IS arriving). L'option C est donc incorrecte."
+    "correct_answer": "D",
+    "explanation": "« Davantage » = adverbe signifiant « plus ». « D'avantage(s) » = complément du nom « avantage ». Option A : « davantage de précisions » = plus de précisions ✓. Option C : « davantage d'avantages » = plus d'avantages ✓."
   },
   {
     "id": 57,
     "test_id": 1,
-    "category": "Logique",
-    "question": "Un véhicule de livraison effectue un trajet aller-retour. À l'aller, le trafic permet de maintenir une vitesse de 80 km/h. Au retour, sur la même distance, la route autorise une vitesse de 110 km/h. Quelle est la vitesse moyenne exacte sur la totalité du parcours ?",
+    "category": "Français",
+    "question": "Identifiez la phrase sans faute d'orthographe :",
     "options": [
-      "A) 95 km/h",
-      "B) 87 km/h",
-      "C) 92.6 km/h",
-      "D) 95 km/h",
-      "E) 99 km/h"
+      "A) Il a fait preuve d'un atermoiement inexplicable",
+      "B) Le gouvernement a pris des mesures draconniennes",
+      "C) Cette situation est particulièrement embarassante",
+      "D) Le professeur a fait une remarque pertinante",
+      "E) L'orateur s'est exprimé avec véhémence"
     ],
-    "correct_answer": "C",
-    "explanation": "L'approche rigoureuse nécessite la moyenne harmonique : (2 × 80 × 110) / (80 + 110) = 92.6 km/h. La moyenne arithmétique de 95 est un piège classique."
+    "correct_answer": "E",
+    "explanation": "« Véhémence » est correct. Erreurs : « atermoiement » (correct), mais « draconiennes » (un seul n), « embarrassante » (deux r), « pertinente » (e, pas a). L'option A est aussi correcte pour « atermoiement »."
   },
   {
     "id": 58,
     "test_id": 1,
-    "category": "Culture Générale",
-    "question": "Quel pays a rejoint l'OTAN en 2024 devenant le 32ème membre ?",
+    "category": "Français",
+    "question": "Quelle phrase contient une erreur de concordance des temps ?",
     "options": [
-      "A) La Finlande",
-      "B) L'Ukraine",
-      "C) La Suède",
-      "D) La Géorgie",
-      "E) La Serbie"
+      "A) Si j'avais su, je serais venu plus tôt",
+      "B) Il souhaitait que nous puissions l'aider",
+      "C) Si j'aurais su, je ne serais pas venu",
+      "D) Il faudrait qu'il comprenne la situation",
+      "E) Elle exigea qu'on lui rendît des comptes"
     ],
     "correct_answer": "C",
-    "explanation": "La bonne réponse est La Suède."
+    "explanation": "Après « si » conditionnel, on n'utilise JAMAIS le conditionnel. La forme correcte est « Si j'avais su, je ne serais pas venu ». Le « si » appelle l'imparfait ou le plus-que-parfait, jamais le conditionnel."
   },
   {
     "id": 59,
     "test_id": 1,
     "category": "Français",
-    "question": "Identifiez l'unique proposition grammaticalement irréprochable concernant l'accord du participe passé :",
+    "question": "Quel est le pléonasme dans les propositions suivantes ?",
     "options": [
-      "A) les pommes que nous avons mangée sont magnifiques.",
-      "B) Ils se sont parlé longuement.",
-      "C) les pommes qu'elle a fait pour réussir.",
-      "D) les pommes, il en a beaucoup mangées.",
-      "E) Nous avons mangées les pommes."
+      "A) Monter en haut de l'escalier",
+      "B) Descendre du véhicule",
+      "C) Sortir de la salle de réunion",
+      "D) Entrer dans le bâtiment",
+      "E) Traverser le hall d'accueil"
     ],
-    "correct_answer": "B",
-    "explanation": "La règle des verbes pronominaux (se parler) implique que le 'se' est un COI (parler 'à' quelqu'un), donc le participe passé reste invariable. Avec le pronom 'en', le participe passé ne s'accorde pas."
+    "correct_answer": "A",
+    "explanation": "« Monter en haut » est un pléonasme : monter implique déjà un mouvement vers le haut. De même : « descendre en bas », « reculer en arrière », « prévoir à l'avance » sont des redondances vicieuses."
   },
   {
     "id": 60,
     "test_id": 1,
-    "category": "Culture Générale",
-    "question": "Qui a remporté l'élection présidentielle américaine en 2024 ?",
+    "category": "Français",
+    "question": "Dans quelle phrase le participe passé est-il correctement accordé ?",
     "options": [
-      "A) Joe Biden",
-      "B) Kamala Harris",
-      "C) Ron DeSantis",
-      "D) Donald Trump",
-      "E) Nikki Haley"
+      "A) Les fruits que j'ai achetée sont mûrs",
+      "B) La décision qu'ils ont prise est définitive",
+      "C) Les dossiers que nous avons envoyé sont complets",
+      "D) La proposition qu'il a faite sont intéressantes",
+      "E) Les erreurs que tu as commise sont graves"
     ],
-    "correct_answer": "D",
-    "explanation": "La bonne réponse est Donald Trump."
+    "correct_answer": "B",
+    "explanation": "Avec l'auxiliaire avoir, le participe s'accorde avec le COD antéposé. « La décision » (féminin singulier) est le COD antéposé → « prise ». Options A/C/E : erreurs d'accord en genre/nombre. Option D : faute d'accord du verbe « sont » avec le sujet singulier."
   },
   {
     "id": 61,
     "test_id": 1,
     "category": "Français",
-    "question": "Identifiez l'unique proposition grammaticalement irréprochable concernant l'accord du participe passé :",
+    "question": "Quelle phrase est exempte de faute ?",
     "options": [
-      "A) les décisions que nous avons prise sont magnifiques.",
-      "B) Ils se sont parlé longuement.",
-      "C) les décisions qu'elle a fait pour réussir.",
-      "D) les décisions, il en a beaucoup prises.",
-      "E) Nous avons prises les décisions."
+      "A) Malgré qu'il soit fatigué, il a terminé son travail",
+      "B) Bien qu'il soit fatigué, il a terminé son travail",
+      "C) Malgré qu'il est fatigué, il a terminé son travail",
+      "D) Nonobstant qu'il soit fatigué, il a travaillé",
+      "E) Quoique qu'il soit fatigué, il a terminé"
     ],
     "correct_answer": "B",
-    "explanation": "La règle des verbes pronominaux (se parler) implique que le 'se' est un COI (parler 'à' quelqu'un), donc le participe passé reste invariable. Avec le pronom 'en', le participe passé ne s'accorde pas."
+    "explanation": "« Malgré que » est considéré comme fautif dans le registre soutenu du SIM. On utilise « bien que » + subjonctif ou « malgré » + nom (malgré sa fatigue). « Bien qu'il soit fatigué » est la forme correcte."
   },
   {
     "id": 62,
     "test_id": 1,
-    "category": "Logique",
-    "question": "Un véhicule de livraison effectue un trajet aller-retour. À l'aller, le trafic permet de maintenir une vitesse de 60 km/h. Au retour, sur la même distance, la route autorise une vitesse de 100 km/h. Quelle est la vitesse moyenne exacte sur la totalité du parcours ?",
+    "category": "Français",
+    "question": "Quelle est la forme correcte du verbe « s'avérer » ?",
     "options": [
-      "A) 80 km/h",
-      "B) 70 km/h",
-      "C) 82 km/h",
-      "D) 78 km/h",
-      "E) 75 km/h"
+      "A) Cette hypothèse s'est avérée vraie",
+      "B) Cette hypothèse s'est avérée exacte",
+      "C) Cette hypothèse s'est avérée fausse",
+      "D) Les options B et C sont correctes",
+      "E) Aucune de ces propositions n'est correcte"
     ],
-    "correct_answer": "E",
-    "explanation": "L'approche rigoureuse nécessite la moyenne harmonique : (2 × 60 × 100) / (60 + 100) = 75 km/h. La moyenne arithmétique de 80 est un piège classique."
+    "correct_answer": "D",
+    "explanation": "« S'avérer vrai » est un pléonasme (s'avérer = se révéler vrai). En revanche, « s'avérer exact » et « s'avérer faux » sont acceptés par l'usage moderne. Le SIM sanctionne spécifiquement « s'avérer vrai »."
   },
   {
     "id": 63,
     "test_id": 1,
-    "category": "Culture Générale",
-    "question": "Qui a remporté l'élection présidentielle américaine en 2024 ?",
+    "category": "Français",
+    "question": "Identifiez la phrase correctement orthographiée :",
     "options": [
-      "A) Joe Biden",
-      "B) Kamala Harris",
-      "C) Donald Trump",
-      "D) Ron DeSantis",
-      "E) Nikki Haley"
+      "A) L'entreprise a réussi à acquérir de nouvelles parts de marché",
+      "B) L'entreprise a réussi à acquérir de nouvelles pars de marché",
+      "C) L'entreprise a réussi à aquerir de nouvelles parts de marché",
+      "D) L'entreprise a réussit à acquérir de nouvelles parts de marché",
+      "E) L'entreprise a réussis à acquérir de nouvelles parts de marché"
     ],
-    "correct_answer": "C",
-    "explanation": "La bonne réponse est Donald Trump."
+    "correct_answer": "A",
+    "explanation": "« Acquérir » (avec cq), « parts » (avec t), « réussi » (participe passé invariable ici car pas de COD antéposé). Les options B, C, D et E contiennent chacune une erreur orthographique."
   },
   {
     "id": 64,
     "test_id": 1,
-    "category": "Anglais",
-    "question": "Identify the grammatically INACCURATE sentence regarding countable and uncountable nouns:",
+    "category": "Français",
+    "question": "Quel mot complète correctement la phrase : « Il n'y a aucune raison _____ vous inquiéter » ?",
     "options": [
-      "A) He gave me some valuable furniture.",
-      "B) We bought a lot of new furniture.",
-      "C) The new furniture are arriving tomorrow.",
-      "D) She carries too much furniture.",
-      "E) I need a piece of furniture."
+      "A) de",
+      "B) pour",
+      "C) à",
+      "D) que",
+      "E) dont"
     ],
-    "correct_answer": "C",
-    "explanation": "Le mot \"furniture\" est indénombrable en anglais. Il ne prend jamais de 's' au pluriel et le verbe qui l'accompagne doit être conjugué au singulier (ex: The furniture IS arriving). L'option C est donc incorrecte."
+    "correct_answer": "A",
+    "explanation": "La construction est « aucune raison de + infinitif ». « Il n'y a aucune raison de vous inquiéter » est la forme normative. « Pour » serait grammaticalement possible mais moins soutenu."
   },
   {
     "id": 65,
     "test_id": 1,
-    "category": "Logique",
-    "question": "L'action d'une entreprise subit une violente décote de 25 %. De quel pourcentage exact l'action devra-t-elle augmenter pour retrouver sa valeur initiale ?",
+    "category": "Français",
+    "question": "Dans quelle phrase le mot « sans » est-il correctement utilisé ?",
     "options": [
-      "A) 25 %",
-      "B) 30 %",
-      "C) 43 %",
-      "D) 48.33 %",
-      "E) 33.33 %"
+      "A) Sans le savoir, il a commis une erreur irréparable",
+      "B) Sens le savoir, il a commis une erreur irréparable",
+      "C) S'en le savoir, il a commis une erreur irréparable",
+      "D) Sent le savoir, il a commis une erreur irréparable",
+      "E) Sang le savoir, il a commis une erreur irréparable"
     ],
-    "correct_answer": "E",
-    "explanation": "Une baisse de 25 % correspond à un coefficient de 0.75. L'augmentation requise est l'inverse : 1/0.75 = 1.3333333333333333, soit une hausse de 33.33 %."
+    "correct_answer": "A",
+    "explanation": "« Sans » est la préposition marquant la privation ou l'absence. Homophones : « sens » (verbe sentir ou nom), « s'en » (pronom réfléchi + en), « sent » (verbe sentir conjugué), « sang » (liquide corporel). Piège classique du SIM."
   },
   {
     "id": 66,
     "test_id": 1,
-    "category": "Anglais",
-    "question": "Identify the grammatically INACCURATE sentence regarding countable and uncountable nouns:",
+    "category": "Français",
+    "question": "Quel verbe pronominal a un participe passé invariable ?",
     "options": [
-      "A) He gave me some valuable luggage.",
-      "B) We bought a lot of new luggage.",
-      "C) The new luggage are arriving tomorrow.",
-      "D) She carries too much luggage.",
-      "E) I need a piece of luggage."
+      "A) Elles se sont regardées dans le miroir",
+      "B) Elles se sont lavé les mains",
+      "C) Elles se sont succédé à la direction",
+      "D) Les options B et C sont correctes",
+      "E) Aucune de ces propositions n'a un participe invariable"
     ],
-    "correct_answer": "C",
-    "explanation": "Le mot \"luggage\" est indénombrable en anglais. Il ne prend jamais de 's' au pluriel et le verbe qui l'accompagne doit être conjugué au singulier (ex: The luggage IS arriving). L'option C est donc incorrecte."
+    "correct_answer": "D",
+    "explanation": "Option B : « se laver les mains » → « les mains » est le COD, « se » est COI → invariable. Option C : « succéder à quelqu'un » → « se » est COI → invariable. Option A : « se regarder » → « se » est COD → accord (regardées)."
   },
   {
     "id": 67,
     "test_id": 1,
-    "category": "Anglais",
-    "question": "Identify the grammatically INACCURATE sentence regarding countable and uncountable nouns:",
+    "category": "Français",
+    "question": "Quelle phrase contient une erreur liée au redoublement consonantique ?",
     "options": [
-      "A) He gave me some valuable advice.",
-      "B) We bought a lot of new advice.",
-      "C) The new advice are arriving tomorrow.",
-      "D) She carries too much advice.",
-      "E) I need a piece of advice."
+      "A) Il faut appeler un taxi immédiatement",
+      "B) Le courrier a été acheminé correctement",
+      "C) Cette affaire nécessite un aprofondissement",
+      "D) Le comité a approuvé la décision finale",
+      "E) L'assemblée a applaudi chaleureusement"
     ],
     "correct_answer": "C",
-    "explanation": "Le mot \"advice\" est indénombrable en anglais. Il ne prend jamais de 's' au pluriel et le verbe qui l'accompagne doit être conjugué au singulier (ex: The advice IS arriving). L'option C est donc incorrecte."
+    "explanation": "On écrit « approfondissement » avec deux p (préfixe « ap- » devant p → « app- »). De même : appeler (deux p), approuver (deux p), applaudir (deux p). Le redoublement après le préfixe « a- » est systématique devant p."
   },
   {
     "id": 68,
     "test_id": 1,
-    "category": "Culture Générale",
-    "question": "Quel est le nom du nouveau Premier ministre français nommé début 2024 (avant la dissolution) ?",
+    "category": "Français",
+    "question": "Identifiez la phrase dans laquelle « quelque » est correctement orthographié :",
     "options": [
-      "A) Élisabeth Borne",
-      "B) Jean Castex",
-      "C) Gabriel Attal",
-      "D) Edouard Philippe",
-      "E) Gérald Darmanin"
+      "A) Quelques soient vos raisons, je ne changerai pas d'avis",
+      "B) Quelles que soient vos raisons, je ne changerai pas d'avis",
+      "C) Quelque soient vos raisons, je ne changerai pas d'avis",
+      "D) Quel que soient vos raisons, je ne changerai pas d'avis",
+      "E) Quels que soient vos raisons, je ne changerai pas d'avis"
     ],
-    "correct_answer": "C",
-    "explanation": "La bonne réponse est Gabriel Attal."
+    "correct_answer": "B",
+    "explanation": "Devant le verbe être au subjonctif, on utilise « quel(le)(s) que » en deux mots, accordé avec le sujet. « Vos raisons » étant féminin pluriel → « quelles que soient vos raisons »."
   },
   {
     "id": 69,
     "test_id": 1,
     "category": "Français",
-    "question": "Identifiez l'unique proposition grammaticalement irréprochable concernant l'accord du participe passé :",
+    "question": "Quelle phrase est correcte concernant l'usage de « pallier » ?",
     "options": [
-      "A) les pommes que nous avons mangée sont magnifiques.",
-      "B) Ils se sont parlé longuement.",
-      "C) les pommes qu'elle a fait pour réussir.",
-      "D) les pommes, il en a beaucoup mangées.",
-      "E) Nous avons mangées les pommes."
+      "A) Il faut pallier à ce problème rapidement",
+      "B) Il faut pallier ce problème rapidement",
+      "C) Il faut palier à ce problème rapidement",
+      "D) Il faut palier ce problème rapidement",
+      "E) Il faut pallié à ce problème rapidement"
     ],
     "correct_answer": "B",
-    "explanation": "La règle des verbes pronominaux (se parler) implique que le 'se' est un COI (parler 'à' quelqu'un), donc le participe passé reste invariable. Avec le pronom 'en', le participe passé ne s'accorde pas."
+    "explanation": "« Pallier » est un verbe transitif direct : on pallie quelque chose (pas « à » quelque chose). De plus, il prend deux l. « Pallier à » est une faute fréquente par analogie avec « remédier à »."
   },
   {
     "id": 70,
     "test_id": 1,
-    "category": "Logique",
-    "question": "Un véhicule de livraison effectue un trajet aller-retour. À l'aller, le trafic permet de maintenir une vitesse de 80 km/h. Au retour, sur la même distance, la route autorise une vitesse de 120 km/h. Quelle est la vitesse moyenne exacte sur la totalité du parcours ?",
+    "category": "Français",
+    "question": "Dans quelle phrase le subjonctif est-il obligatoire ?",
     "options": [
-      "A) 100 km/h",
-      "B) 91 km/h",
-      "C) 103 km/h",
-      "D) 99 km/h",
-      "E) 96 km/h"
+      "A) Je pense qu'il viendra demain",
+      "B) Il est certain qu'elle réussira",
+      "C) Je doute qu'il puisse terminer à temps",
+      "D) J'espère qu'il comprendra la situation",
+      "E) Je suis sûr qu'il acceptera notre offre"
     ],
-    "correct_answer": "E",
-    "explanation": "L'approche rigoureuse nécessite la moyenne harmonique : (2 × 80 × 120) / (80 + 120) = 96 km/h. La moyenne arithmétique de 100 est un piège classique."
+    "correct_answer": "C",
+    "explanation": "Le verbe « douter » exprime l'incertitude et commande le subjonctif. « Penser » (affirmatif), « espérer », « être certain/sûr » appellent l'indicatif. Attention : « je ne pense pas qu'il vienne » → la forme négative de penser prend le subjonctif."
   },
   {
     "id": 71,
     "test_id": 1,
-    "category": "Logique",
-    "question": "Un véhicule de livraison effectue un trajet aller-retour. À l'aller, le trafic permet de maintenir une vitesse de 60 km/h. Au retour, sur la même distance, la route autorise une vitesse de 110 km/h. Quelle est la vitesse moyenne exacte sur la totalité du parcours ?",
+    "category": "Français",
+    "question": "Quelle phrase contient une erreur avec le pronom relatif ?",
     "options": [
-      "A) 85 km/h",
-      "B) 72 km/h",
-      "C) 84 km/h",
-      "D) 80 km/h",
-      "E) 77.6 km/h"
+      "A) Le projet dont je vous ai parlé a été approuvé",
+      "B) La personne à qui j'ai écrit m'a répondu",
+      "C) Le livre que j'ai lu était passionnant",
+      "D) La raison pour laquelle il est parti reste floue",
+      "E) C'est le problème auquel je m'attendais à"
     ],
     "correct_answer": "E",
-    "explanation": "L'approche rigoureuse nécessite la moyenne harmonique : (2 × 60 × 110) / (60 + 110) = 77.6 km/h. La moyenne arithmétique de 85 est un piège classique."
+    "explanation": "« S'attendre à » + pronom relatif → « auquel je m'attendais » (sans « à » final, car il est déjà dans « auquel »). La préposition ne se répète pas quand elle est intégrée dans le pronom relatif composé."
   },
   {
     "id": 72,
     "test_id": 1,
     "category": "Français",
-    "question": "Identifiez l'unique proposition grammaticalement irréprochable concernant l'accord du participe passé :",
+    "question": "Quel est l'emploi correct de « voire » ?",
     "options": [
-      "A) les pommes que nous avons mangée sont magnifiques.",
-      "B) Ils se sont parlé longuement.",
-      "C) les pommes qu'elle a fait pour réussir.",
-      "D) les pommes, il en a beaucoup mangées.",
-      "E) Nous avons mangées les pommes."
+      "A) Il est compétent, voir exceptionnel",
+      "B) Il est compétent, voire exceptionnel",
+      "C) Il est compétent, voire même exceptionnel",
+      "D) Les options B et C sont correctes",
+      "E) Aucune option n'est correcte"
     ],
     "correct_answer": "B",
-    "explanation": "La règle des verbes pronominaux (se parler) implique que le 'se' est un COI (parler 'à' quelqu'un), donc le participe passé reste invariable. Avec le pronom 'en', le participe passé ne s'accorde pas."
+    "explanation": "« Voire » (adverbe = et même) s'écrit avec un e final. « Voir » est le verbe. « Voire même » est un pléonasme (voire signifie déjà « et même »), à éviter dans un registre soutenu comme le SIM."
   },
   {
     "id": 73,
     "test_id": 1,
-    "category": "Logique",
-    "question": "Une entreprise place un excédent de 49000 euros à un taux d'intérêts simples de 5 % par an. Au bout de combien de mois la valeur totale du compte s'élèvera-t-elle à 53900 euros ?",
+    "category": "Français",
+    "question": "Quelle orthographe est correcte ?",
     "options": [
-      "A) 24 mois",
-      "B) 12 mois",
-      "C) 15 mois",
-      "D) 20 mois",
-      "E) 17 mois"
+      "A) Il a fait une erreur innacceptable",
+      "B) Il a fait une erreur inacceptable",
+      "C) Il a fait une erreur innacèptable",
+      "D) Il a fait une erreur innaceptable",
+      "E) Il a fait une erreur inaccèptable"
     ],
-    "correct_answer": "A",
-    "explanation": "Intérêts purs = 53900 - 49000 = 4900€. Intérêts pour 1 an = 49000 × 5% = 2450€. Il faut donc 2 an(s), soit 24 mois."
+    "correct_answer": "B",
+    "explanation": "« Inacceptable » : le préfixe « in- » ne double pas le n devant a. Attention à ne pas confondre avec « innocent », « innover » (deux n). Règle : « in- » + consonne ≠ doublement, sauf devant n ou m."
   },
   {
     "id": 74,
     "test_id": 1,
-    "category": "Culture Générale",
-    "question": "Qui a remporté l'élection présidentielle américaine en 2024 ?",
+    "category": "Français",
+    "question": "Identifiez la phrase où « tout » est correctement accordé :",
     "options": [
-      "A) Joe Biden",
-      "B) Kamala Harris",
-      "C) Ron DeSantis",
-      "D) Nikki Haley",
-      "E) Donald Trump"
+      "A) Elles sont tout étonnées de cette nouvelle",
+      "B) Elles sont toutes étonnées de cette nouvelle",
+      "C) Elles sont tout heureuses de cette nouvelle",
+      "D) Les options A et C sont correctes",
+      "E) Les options A, B et C sont toutes correctes"
     ],
-    "correct_answer": "E",
-    "explanation": "La bonne réponse est Donald Trump."
+    "correct_answer": "D",
+    "explanation": "« Tout » adverbe est invariable devant un adjectif féminin commençant par une voyelle ou un h muet : « tout étonnées », « tout heureuses ». Il varie uniquement devant un adjectif féminin commençant par une consonne ou un h aspiré : « toutes contentes », « toutes honteuses »."
   },
   {
     "id": 75,
     "test_id": 1,
-    "category": "Logique",
-    "question": "Un véhicule de livraison effectue un trajet aller-retour. À l'aller, le trafic permet de maintenir une vitesse de 70 km/h. Au retour, sur la même distance, la route autorise une vitesse de 120 km/h. Quelle est la vitesse moyenne exacte sur la totalité du parcours ?",
+    "category": "Français",
+    "question": "Quelle phrase utilise correctement « quoique » et « quoi que » ?",
     "options": [
-      "A) 95 km/h",
-      "B) 83 km/h",
-      "C) 95 km/h",
-      "D) 91 km/h",
-      "E) 88.4 km/h"
+      "A) Quoiqu'il fasse, il échoue toujours",
+      "B) Quoi qu'il soit intelligent, il manque de rigueur",
+      "C) Quoi qu'il fasse, il échoue toujours",
+      "D) Quoique qu'il fasse, il échoue toujours",
+      "E) Quoi qu'il soit, il manque de rigueur"
     ],
-    "correct_answer": "E",
-    "explanation": "L'approche rigoureuse nécessite la moyenne harmonique : (2 × 70 × 120) / (70 + 120) = 88.4 km/h. La moyenne arithmétique de 95 est un piège classique."
+    "correct_answer": "C",
+    "explanation": "« Quoi que » (en deux mots) = quelle que soit la chose que → « quoi qu'il fasse ». « Quoique » (en un mot) = bien que → « quoiqu'il soit intelligent ». L'option A confond les deux : il faudrait « quoi qu'il fasse »."
   },
   {
     "id": 76,
     "test_id": 1,
     "category": "Français",
-    "question": "Identifiez l'unique proposition grammaticalement irréprochable concernant l'accord du participe passé :",
+    "question": "Quelle phrase ne contient aucune erreur ?",
     "options": [
-      "A) les chansons que nous avons entendue sont magnifiques.",
-      "B) Ils se sont parlé longuement.",
-      "C) les chansons qu'elle a fait pour réussir.",
-      "D) les chansons, il en a beaucoup entendues.",
-      "E) Nous avons entendues les chansons."
+      "A) Les enfants que j'ai vu jouer dans la cour sont rentrés",
+      "B) Les enfants que j'ai vus jouer dans la cour sont rentrés",
+      "C) Les enfants que j'ai vus jouaient dans la cour",
+      "D) Les options A et C sont correctes",
+      "E) Aucune proposition n'est correcte"
     ],
-    "correct_answer": "B",
-    "explanation": "La règle des verbes pronominaux (se parler) implique que le 'se' est un COI (parler 'à' quelqu'un), donc le participe passé reste invariable. Avec le pronom 'en', le participe passé ne s'accorde pas."
+    "correct_answer": "D",
+    "explanation": "Participe passé + infinitif : si le COD fait l'action de l'infinitif → accord. Les enfants jouent → accord (vus). MAIS « vu jouer » sans COD faisant l'action reste invariable. Option A : « vu jouer » (les enfants font l'action) → il faudrait « vus ». Option C : pas d'infinitif, « vus » s'accorde avec le COD antéposé."
   },
   {
     "id": 77,
     "test_id": 1,
     "category": "Français",
-    "question": "Identifiez l'unique proposition grammaticalement irréprochable concernant l'accord du participe passé :",
+    "question": "Identifiez la phrase contenant le pléonasme « prévoir à l'avance » :",
     "options": [
-      "A) les fleurs que nous avons cueillie sont magnifiques.",
-      "B) Ils se sont parlé longuement.",
-      "C) les fleurs qu'elle a fait pour réussir.",
-      "D) les fleurs, il en a beaucoup cueillies.",
-      "E) Nous avons cueillies les fleurs."
+      "A) Le directeur a prévu les risques potentiels",
+      "B) Il faut anticiper les changements à venir",
+      "C) Nous devons prévoir à l'avance les fluctuations du marché",
+      "D) L'analyste a prédit une hausse des cours",
+      "E) Le rapport prévoit une croissance modérée"
     ],
-    "correct_answer": "B",
-    "explanation": "La règle des verbes pronominaux (se parler) implique que le 'se' est un COI (parler 'à' quelqu'un), donc le participe passé reste invariable. Avec le pronom 'en', le participe passé ne s'accorde pas."
+    "correct_answer": "C",
+    "explanation": "« Prévoir à l'avance » est un pléonasme : prévoir signifie déjà « voir avant que cela n'arrive ». On dit simplement « prévoir les fluctuations »."
   },
   {
     "id": 78,
     "test_id": 1,
-    "category": "Logique",
-    "question": "Un véhicule de livraison effectue un trajet aller-retour. À l'aller, le trafic permet de maintenir une vitesse de 40 km/h. Au retour, sur la même distance, la route autorise une vitesse de 80 km/h. Quelle est la vitesse moyenne exacte sur la totalité du parcours ?",
+    "category": "Français",
+    "question": "Quel participe passé est correctement accordé dans un verbe pronominal ?",
     "options": [
-      "A) 60 km/h",
-      "B) 53.3 km/h",
-      "C) 48 km/h",
-      "D) 56 km/h",
-      "E) 60 km/h"
+      "A) Elles se sont rendues compte de leur erreur",
+      "B) Elles se sont rendu compte de leur erreur",
+      "C) Elles se sont aperçues de la situation",
+      "D) Les options B et C sont correctes",
+      "E) Aucune proposition n'est correcte"
     ],
-    "correct_answer": "B",
-    "explanation": "L'approche rigoureuse nécessite la moyenne harmonique : (2 × 40 × 80) / (40 + 80) = 53.3 km/h. La moyenne arithmétique de 60 est un piège classique."
+    "correct_answer": "D",
+    "explanation": "« Se rendre compte » : « compte » est le COD, « se » est COI → invariable (rendu). « S'apercevoir de » : verbe essentiellement pronominal → accord avec le sujet (aperçues). Piège classique au SIM."
   },
   {
     "id": 79,
     "test_id": 1,
-    "category": "Anglais",
-    "question": "Identify the grammatically INACCURATE sentence regarding countable and uncountable nouns:",
+    "category": "Français",
+    "question": "Quelle phrase utilise correctement le mot « conséquent » ?",
     "options": [
-      "A) He gave me some valuable information.",
-      "B) We bought a lot of new information.",
-      "C) The new information are arriving tomorrow.",
-      "D) She carries too much information.",
-      "E) I need a piece of information."
+      "A) Par conséquent, nous devons revoir notre stratégie",
+      "B) Ce projet est conséquent, il nécessite un budget important",
+      "C) L'investissement est très conséquent cette année",
+      "D) Les options A, B et C sont toutes correctes",
+      "E) Seule l'option A est correcte"
     ],
-    "correct_answer": "C",
-    "explanation": "Le mot \"information\" est indénombrable en anglais. Il ne prend jamais de 's' au pluriel et le verbe qui l'accompagne doit être conjugué au singulier (ex: The information IS arriving). L'option C est donc incorrecte."
+    "correct_answer": "E",
+    "explanation": "« Conséquent » signifie « qui agit avec logique », PAS « important/considérable ». « Par conséquent » (= en conséquence) est correct. Dire « un budget conséquent » pour « important » est un barbarisme de sens fréquemment testé au SIM."
   },
   {
     "id": 80,
     "test_id": 1,
-    "category": "Logique",
-    "question": "Un véhicule de livraison effectue un trajet aller-retour. À l'aller, le trafic permet de maintenir une vitesse de 50 km/h. Au retour, sur la même distance, la route autorise une vitesse de 70 km/h. Quelle est la vitesse moyenne exacte sur la totalité du parcours ?",
+    "category": "Français",
+    "question": "Quelle forme verbale complète correctement : « Il faut que nous _____ ce dossier avant vendredi » ?",
     "options": [
-      "A) 60 km/h",
-      "B) 53 km/h",
-      "C) 58.3 km/h",
-      "D) 61 km/h",
-      "E) 65 km/h"
+      "A) finissons",
+      "B) finissions",
+      "C) finirons",
+      "D) finirions",
+      "E) avons fini"
     ],
-    "correct_answer": "C",
-    "explanation": "L'approche rigoureuse nécessite la moyenne harmonique : (2 × 50 × 70) / (50 + 70) = 58.3 km/h. La moyenne arithmétique de 60 est un piège classique."
+    "correct_answer": "B",
+    "explanation": "Après « il faut que », le subjonctif est obligatoire. « Finissions » est le subjonctif présent de « finir » à la 1re personne du pluriel. Les autres options sont à l'indicatif ou au conditionnel."
   },
   {
     "id": 81,
     "test_id": 1,
-    "category": "Logique",
-    "question": "Une entreprise place un excédent de 15000 euros à un taux d'intérêts simples de 4 % par an. Au bout de combien de mois la valeur totale du compte s'élèvera-t-elle à 16200 euros ?",
+    "category": "Français",
+    "question": "Dans quelle phrase « leur » est-il correctement employé ?",
     "options": [
-      "A) 12 mois",
-      "B) 15 mois",
-      "C) 24 mois",
-      "D) 20 mois",
-      "E) 14 mois"
+      "A) Leurs enfants jouent dans le jardin",
+      "B) Je leur ai donné les documents",
+      "C) Ces livres sont les leurs",
+      "D) Toutes les options sont correctes",
+      "E) Seules les options A et B sont correctes"
     ],
-    "correct_answer": "C",
-    "explanation": "Intérêts purs = 16200 - 15000 = 1200€. Intérêts pour 1 an = 15000 × 4% = 600€. Il faut donc 2 an(s), soit 24 mois."
+    "correct_answer": "D",
+    "explanation": "« Leur » adjectif possessif pluriel (A), pronom personnel COI invariable (B), et pronom possessif avec article « les leurs » (C) sont tous corrects. Les trois emplois sont distincts et valides."
   },
   {
     "id": 82,
     "test_id": 1,
-    "category": "Logique",
-    "question": "Un véhicule de livraison effectue un trajet aller-retour. À l'aller, le trafic permet de maintenir une vitesse de 70 km/h. Au retour, sur la même distance, la route autorise une vitesse de 120 km/h. Quelle est la vitesse moyenne exacte sur la totalité du parcours ?",
+    "category": "Français",
+    "question": "Identifiez l'erreur orthographique :",
     "options": [
-      "A) 95 km/h",
-      "B) 83 km/h",
-      "C) 91 km/h",
-      "D) 88.4 km/h",
-      "E) 95 km/h"
+      "A) Un dilemme cornélien",
+      "B) Un dilème cornélien",
+      "C) Une alternative difficile",
+      "D) Un choix cornélien",
+      "E) Une situation paradoxale"
     ],
-    "correct_answer": "D",
-    "explanation": "L'approche rigoureuse nécessite la moyenne harmonique : (2 × 70 × 120) / (70 + 120) = 88.4 km/h. La moyenne arithmétique de 95 est un piège classique."
+    "correct_answer": "B",
+    "explanation": "« Dilemme » s'écrit avec deux m. « Dilème » est une faute fréquente. Le mot vient du grec « dilemma » (double proposition). C'est un classique du redoublement consonantique."
   },
   {
     "id": 83,
     "test_id": 1,
-    "category": "Anglais",
-    "question": "Identify the grammatically INACCURATE sentence regarding countable and uncountable nouns:",
+    "category": "Français",
+    "question": "Quelle phrase emploie correctement « parmi » et « malgré » ?",
     "options": [
-      "A) He gave me some valuable luggage.",
-      "B) We bought a lot of new luggage.",
-      "C) The new luggage are arriving tomorrow.",
-      "D) She carries too much luggage.",
-      "E) I need a piece of luggage."
+      "A) Parmis les candidats, plusieurs étaient qualifiés",
+      "B) Malgrés les difficultés, il a persévéré",
+      "C) Parmi les solutions proposées, aucune n'est viable",
+      "D) Malgré que le temps soit mauvais, il est sorti",
+      "E) Parmis les options, choisissez la meilleure"
     ],
     "correct_answer": "C",
-    "explanation": "Le mot \"luggage\" est indénombrable en anglais. Il ne prend jamais de 's' au pluriel et le verbe qui l'accompagne doit être conjugué au singulier (ex: The luggage IS arriving). L'option C est donc incorrecte."
+    "explanation": "« Parmi » ne prend JAMAIS de s final (contrairement à « hormis »). « Malgré » ne prend jamais de s. L'option D utilise « malgré que », considéré comme fautif au SIM."
   },
   {
     "id": 84,
     "test_id": 1,
-    "category": "Culture Générale",
-    "question": "Où se sont déroulés les Jeux Olympiques d'été en 2024 ?",
+    "category": "Français",
+    "question": "Quel est le féminin correct de « docteur » dans un contexte professionnel ?",
     "options": [
-      "A) Los Angeles",
-      "B) Paris",
-      "C) Tokyo",
-      "D) Londres",
-      "E) Pékin"
+      "A) Docteure",
+      "B) Doctoresse",
+      "C) Doctrice",
+      "D) Les options A et B sont acceptées",
+      "E) Aucune forme féminine n'existe"
     ],
-    "correct_answer": "B",
-    "explanation": "La bonne réponse est Paris."
+    "correct_answer": "D",
+    "explanation": "« Docteure » (forme épicène recommandée par l'Académie) et « doctoresse » (forme traditionnelle) sont toutes deux acceptées. L'usage contemporain privilégie « docteure »."
   },
   {
     "id": 85,
     "test_id": 1,
     "category": "Français",
-    "question": "Identifiez l'unique proposition grammaticalement irréprochable concernant l'accord du participe passé :",
+    "question": "Quelle phrase est correcte ?",
     "options": [
-      "A) les chansons que nous avons entendue sont magnifiques.",
-      "B) Ils se sont parlé longuement.",
-      "C) les chansons qu'elle a fait pour réussir.",
-      "D) les chansons, il en a beaucoup entendues.",
-      "E) Nous avons entendues les chansons."
+      "A) Je me rappelle de cette réunion",
+      "B) Je me souviens de cette réunion",
+      "C) Je me rappelle cette réunion",
+      "D) Les options B et C sont correctes",
+      "E) Toutes les propositions sont correctes"
     ],
-    "correct_answer": "B",
-    "explanation": "La règle des verbes pronominaux (se parler) implique que le 'se' est un COI (parler 'à' quelqu'un), donc le participe passé reste invariable. Avec le pronom 'en', le participe passé ne s'accorde pas."
+    "correct_answer": "D",
+    "explanation": "« Se rappeler » est transitif direct : on se rappelle quelque chose (pas « de » quelque chose). « Se souvenir » est transitif indirect : on se souvient de quelque chose. « Se rappeler de » est une faute fréquente."
   },
   {
     "id": 86,
     "test_id": 1,
-    "category": "Culture Générale",
-    "question": "Quel pays africain a intégré les BRICS début 2024 ?",
+    "category": "Français",
+    "question": "Identifiez la phrase où « dû » est correctement accentué :",
     "options": [
-      "A) L'Égypte (et l'Éthiopie)",
-      "B) Le Nigéria",
-      "C) Le Kenya",
-      "D) Le Maroc",
-      "E) L'Angola"
+      "A) Il a du partir en urgence",
+      "B) Il a dû partir en urgence",
+      "C) Le montant du au fournisseur est élevé",
+      "D) Les options B et C sont correctes",
+      "E) Seule l'option B est correcte"
     ],
-    "correct_answer": "A",
-    "explanation": "La bonne réponse est L'Égypte (et l'Éthiopie)."
+    "correct_answer": "E",
+    "explanation": "Le participe passé de devoir prend un accent circonflexe au masculin singulier uniquement : « dû ». Mais « due », « dus », « dues » n'en prennent pas. L'adjectif « dû à » prend aussi l'accent au masculin singulier. Option C devrait être « dû »."
   },
   {
     "id": 87,
     "test_id": 1,
-    "category": "Logique",
-    "question": "Une entreprise place un excédent de 45000 euros à un taux d'intérêts simples de 3 % par an. Au bout de combien de mois la valeur totale du compte s'élèvera-t-elle à 46350 euros ?",
+    "category": "Français",
+    "question": "Quelle phrase utilise correctement « quand » et « quant » ?",
     "options": [
-      "A) 15 mois",
-      "B) 20 mois",
-      "C) 12 mois",
-      "D) 24 mois",
-      "E) 16 mois"
+      "A) Quand à moi, je refuse cette proposition",
+      "B) Quant à moi, je refuse cette proposition",
+      "C) Quant il pleut, je reste à la maison",
+      "D) Quand à la question du budget, elle sera traitée demain",
+      "E) Quant bien même il viendrait, je refuserais"
     ],
-    "correct_answer": "C",
-    "explanation": "Intérêts purs = 46350 - 45000 = 1350€. Intérêts pour 1 an = 45000 × 3% = 1350€. Il faut donc 1 an(s), soit 12 mois."
+    "correct_answer": "B",
+    "explanation": "« Quant à » = en ce qui concerne. « Quand » = lorsque (conjonction de temps). « Quand bien même » (concessif). Les options A et D confondent « quand/quant ». L'option E devrait être « quand bien même »."
   },
   {
     "id": 88,
     "test_id": 1,
-    "category": "Anglais",
-    "question": "Identify the grammatically INACCURATE sentence regarding countable and uncountable nouns:",
+    "category": "Français",
+    "question": "Quel mot complète : « Cette mesure est susceptible _____ améliorer la situation » ?",
     "options": [
-      "A) He gave me some valuable luggage.",
-      "B) We bought a lot of new luggage.",
-      "C) The new luggage are arriving tomorrow.",
-      "D) She carries too much luggage.",
-      "E) I need a piece of luggage."
+      "A) d'",
+      "B) à",
+      "C) pour",
+      "D) de",
+      "E) que"
     ],
-    "correct_answer": "C",
-    "explanation": "Le mot \"luggage\" est indénombrable en anglais. Il ne prend jamais de 's' au pluriel et le verbe qui l'accompagne doit être conjugué au singulier (ex: The luggage IS arriving). L'option C est donc incorrecte."
+    "correct_answer": "A",
+    "explanation": "« Susceptible de » + infinitif est la construction correcte. « D' » est l'élision de « de » devant voyelle. On ne dit jamais « susceptible à » ni « susceptible pour »."
   },
   {
     "id": 89,
     "test_id": 1,
-    "category": "Culture Générale",
-    "question": "Quel est le nom du nouveau Premier ministre français nommé début 2024 (avant la dissolution) ?",
+    "category": "Français",
+    "question": "Quelle phrase contient une faute d'orthographe lexicale ?",
     "options": [
-      "A) Élisabeth Borne",
-      "B) Jean Castex",
-      "C) Gabriel Attal",
-      "D) Edouard Philippe",
-      "E) Gérald Darmanin"
+      "A) Le comité a entériné la proposition à l'unanimité",
+      "B) L'assemblée a ratifié le traité international",
+      "C) Le conseil a homologué les résultats du scrutin",
+      "D) Le parlement a promulgué une nouvelle loi",
+      "E) Le gouvernement a pronnoncé la dissolution"
     ],
-    "correct_answer": "C",
-    "explanation": "La bonne réponse est Gabriel Attal."
+    "correct_answer": "E",
+    "explanation": "On écrit « prononcé » avec un seul n. « Pronnoncé » est une faute de redoublement consonantique. Les autres verbes (entériner, ratifier, homologuer, promulguer) sont correctement orthographiés."
   },
   {
     "id": 90,
     "test_id": 1,
-    "category": "Culture Générale",
-    "question": "Quel pays africain a intégré les BRICS début 2024 ?",
+    "category": "Français",
+    "question": "Quelle expression est correcte ?",
     "options": [
-      "A) Le Nigéria",
-      "B) Le Kenya",
-      "C) L'Égypte (et l'Éthiopie)",
-      "D) Le Maroc",
-      "E) L'Angola"
+      "A) Faire long feux",
+      "B) Faire long feu",
+      "C) Tirer à boules rouges",
+      "D) Tirer à boulets rouges",
+      "E) Les options B et D sont correctes"
     ],
-    "correct_answer": "C",
-    "explanation": "La bonne réponse est L'Égypte (et l'Éthiopie)."
+    "correct_answer": "E",
+    "explanation": "« Faire long feu » (sans s à feu) = ne pas aboutir. « Tirer à boulets rouges » (avec boulets, pas boules) = critiquer violemment. Les erreurs portent sur le nombre ou le mot exact dans l'expression figée."
   },
   {
     "id": 91,
     "test_id": 1,
     "category": "Français",
-    "question": "Identifiez l'unique proposition grammaticalement irréprochable concernant l'accord du participe passé :",
+    "question": "Dans quelle phrase « ci-joint » est-il correctement accordé ?",
     "options": [
-      "A) les pommes que nous avons mangée sont magnifiques.",
-      "B) Ils se sont parlé longuement.",
-      "C) les pommes qu'elle a fait pour réussir.",
-      "D) les pommes, il en a beaucoup mangées.",
-      "E) Nous avons mangées les pommes."
+      "A) Ci-jointes les pièces demandées",
+      "B) Veuillez trouver ci-joint les pièces demandées",
+      "C) Les pièces ci-jointes sont conformes",
+      "D) Toutes les options sont correctes",
+      "E) Seules les options B et C sont correctes"
     ],
-    "correct_answer": "B",
-    "explanation": "La règle des verbes pronominaux (se parler) implique que le 'se' est un COI (parler 'à' quelqu'un), donc le participe passé reste invariable. Avec le pronom 'en', le participe passé ne s'accorde pas."
+    "correct_answer": "D",
+    "explanation": "« Ci-joint » est invariable en début de phrase (A), avant le nom sans déterminant, et avec « veuillez trouver » (B). Il s'accorde quand il est épithète après le nom (C). Les trois cas sont des règles distinctes."
   },
   {
     "id": 92,
     "test_id": 1,
-    "category": "Logique",
-    "question": "Une entreprise place un excédent de 32000 euros à un taux d'intérêts simples de 4 % par an. Au bout de combien de mois la valeur totale du compte s'élèvera-t-elle à 34560 euros ?",
+    "category": "Français",
+    "question": "Quelle est la bonne orthographe ?",
     "options": [
-      "A) 12 mois",
-      "B) 24 mois",
-      "C) 15 mois",
-      "D) 20 mois",
-      "E) 28 mois"
+      "A) Ils ont acquis une grande expérience",
+      "B) Ils ont acquit une grande expérience",
+      "C) Ils ont acqui une grande expérience",
+      "D) Ils ont acquise une grande expérience",
+      "E) Ils ont acqi une grande expérience"
     ],
-    "correct_answer": "B",
-    "explanation": "Intérêts purs = 34560 - 32000 = 2560€. Intérêts pour 1 an = 32000 × 4% = 1280€. Il faut donc 2 an(s), soit 24 mois."
+    "correct_answer": "A",
+    "explanation": "Le participe passé de « acquérir » est « acquis » (avec un s). À ne pas confondre avec « acquit » (nom masculin dans « par acquit de conscience »). Erreur fréquente au SIM."
   },
   {
     "id": 93,
     "test_id": 1,
     "category": "Français",
-    "question": "Identifiez l'unique proposition grammaticalement irréprochable concernant l'accord du participe passé :",
+    "question": "Identifiez la phrase correcte :",
     "options": [
-      "A) les chansons que nous avons entendue sont magnifiques.",
-      "B) Ils se sont parlé longuement.",
-      "C) les chansons qu'elle a fait pour réussir.",
-      "D) les chansons, il en a beaucoup entendues.",
-      "E) Nous avons entendues les chansons."
+      "A) Autant pour moi, j'ai fait une erreur",
+      "B) Au temps pour moi, j'ai fait une erreur",
+      "C) Les deux orthographes sont acceptées",
+      "D) Aucune des deux n'est correcte",
+      "E) Seule l'option A est universellement acceptée"
     ],
-    "correct_answer": "B",
-    "explanation": "La règle des verbes pronominaux (se parler) implique que le 'se' est un COI (parler 'à' quelqu'un), donc le participe passé reste invariable. Avec le pronom 'en', le participe passé ne s'accorde pas."
+    "correct_answer": "C",
+    "explanation": "Le débat « au temps pour moi / autant pour moi » divise les linguistes. L'Académie française recommande « au temps » (référence militaire), mais « autant » est largement accepté. Les deux sont considérés valides."
   },
   {
     "id": 94,
     "test_id": 1,
-    "category": "Logique",
-    "question": "Une entreprise place un excédent de 47000 euros à un taux d'intérêts simples de 3 % par an. Au bout de combien de mois la valeur totale du compte s'élèvera-t-elle à 49820 euros ?",
+    "category": "Français",
+    "question": "Quelle construction est correcte avec le verbe « convenir » ?",
     "options": [
-      "A) 12 mois",
-      "B) 24 mois",
-      "C) 15 mois",
-      "D) 20 mois",
-      "E) 26 mois"
+      "A) La date qui a été convenue est le 15 mars",
+      "B) La date dont nous avons convenu est le 15 mars",
+      "C) La date que nous avons convenus est le 15 mars",
+      "D) La date à laquelle nous avons convenue est le 15 mars",
+      "E) La date où nous avons convenus est le 15 mars"
     ],
     "correct_answer": "B",
-    "explanation": "Intérêts purs = 49820 - 47000 = 2820€. Intérêts pour 1 an = 47000 × 3% = 1410€. Il faut donc 2 an(s), soit 24 mois."
+    "explanation": "« Convenir de quelque chose » → auxiliaire être dans le sens de « être approprié » mais auxiliaire avoir dans le sens de « se mettre d'accord ». Avec avoir : « dont nous avons convenu » (convenu invariable car COI avec « de »)."
   },
   {
     "id": 95,
     "test_id": 1,
-    "category": "Logique",
-    "question": "Une entreprise place un excédent de 16000 euros à un taux d'intérêts simples de 5 % par an. Au bout de combien de mois la valeur totale du compte s'élèvera-t-elle à 16800 euros ?",
+    "category": "Français",
+    "question": "Quel est le pluriel correct de « un garde-manger » ?",
     "options": [
-      "A) 15 mois",
-      "B) 20 mois",
-      "C) 24 mois",
-      "D) 35 mois",
-      "E) 12 mois"
+      "A) Des gardes-mangers",
+      "B) Des garde-mangers",
+      "C) Des gardes-manger",
+      "D) Des garde-manger",
+      "E) Des gardes-mangés"
     ],
-    "correct_answer": "E",
-    "explanation": "Intérêts purs = 16800 - 16000 = 800€. Intérêts pour 1 an = 16000 × 5% = 800€. Il faut donc 1 an(s), soit 12 mois."
+    "correct_answer": "D",
+    "explanation": "« Garde-manger » : garde = verbe (il garde), manger = verbe. Deux verbes → invariable au pluriel. On écrit « des garde-manger ». Règle : dans les noms composés verbe + verbe ou verbe + complément, les verbes restent invariables."
   },
   {
     "id": 96,
     "test_id": 1,
-    "category": "Anglais",
-    "question": "Identify the grammatically INACCURATE sentence regarding countable and uncountable nouns:",
+    "category": "Français",
+    "question": "Quelle phrase est correcte ?",
     "options": [
-      "A) He gave me some valuable equipment.",
-      "B) We bought a lot of new equipment.",
-      "C) The new equipment are arriving tomorrow.",
-      "D) She carries too much equipment.",
-      "E) I need a piece of equipment."
+      "A) Quelque soit le résultat, nous accepterons",
+      "B) Quel que soit le résultat, nous accepterons",
+      "C) Quelques soient les résultats, nous accepterons",
+      "D) Quels que soient le résultat, nous accepterons",
+      "E) Quel qu'il soit le résultat, nous accepterons"
     ],
-    "correct_answer": "C",
-    "explanation": "Le mot \"equipment\" est indénombrable en anglais. Il ne prend jamais de 's' au pluriel et le verbe qui l'accompagne doit être conjugué au singulier (ex: The equipment IS arriving). L'option C est donc incorrecte."
+    "correct_answer": "B",
+    "explanation": "« Quel que » + être au subjonctif : quel s'accorde avec le sujet du verbe être. « Le résultat » = masculin singulier → « quel que soit ». Au pluriel : « quels que soient les résultats »."
   },
   {
     "id": 97,
     "test_id": 1,
-    "category": "Logique",
-    "question": "L'action d'une entreprise subit une violente décote de 20 %. De quel pourcentage exact l'action devra-t-elle augmenter pour retrouver sa valeur initiale ?",
+    "category": "Français",
+    "question": "Identifiez la phrase sans barbarisme :",
     "options": [
-      "A) 25 %",
-      "B) 20 %",
-      "C) 35 %",
-      "D) 40 %"
+      "A) Cette décision n'est pas très opportune",
+      "B) Cette décision est très opportuniste",
+      "C) Il a agi de manière très conséquente",
+      "D) Son discours était très impactant",
+      "E) Le résultat est très performant"
     ],
     "correct_answer": "A",
-    "explanation": "Une baisse de 20 % correspond à un coefficient de 0.8. L'augmentation requise est l'inverse : 1/0.8 = 1.25, soit une hausse de 25 %."
+    "explanation": "« Opportun(e) » = qui vient à propos. « Opportuniste » = qui profite des circonstances (sens péjoratif différent). « Impactant » est un anglicisme. « Conséquent » ≠ important. « Performant » s'applique aux personnes/machines, pas aux résultats."
   },
   {
     "id": 98,
     "test_id": 1,
-    "category": "Logique",
-    "question": "Un véhicule de livraison effectue un trajet aller-retour. À l'aller, le trafic permet de maintenir une vitesse de 60 km/h. Au retour, sur la même distance, la route autorise une vitesse de 100 km/h. Quelle est la vitesse moyenne exacte sur la totalité du parcours ?",
+    "category": "Français",
+    "question": "Quelle phrase emploie correctement « en » avec le participe passé ?",
     "options": [
-      "A) 80 km/h",
-      "B) 70 km/h",
-      "C) 82 km/h",
-      "D) 78 km/h",
-      "E) 75 km/h"
+      "A) Des livres, j'en ai lus plusieurs",
+      "B) Des livres, j'en ai lu plusieurs",
+      "C) Des livres, j'en ai lues plusieurs",
+      "D) Des livres, j'en ai lue plusieurs",
+      "E) Des livres, j'en ai lis plusieurs"
     ],
-    "correct_answer": "E",
-    "explanation": "L'approche rigoureuse nécessite la moyenne harmonique : (2 × 60 × 100) / (60 + 100) = 75 km/h. La moyenne arithmétique de 80 est un piège classique."
+    "correct_answer": "B",
+    "explanation": "Le pronom « en » neutralise systématiquement l'accord du participe passé avec avoir. On écrit toujours « j'en ai lu », « j'en ai mangé », « j'en ai vu », etc. C'est une règle absolue au SIM."
   },
   {
     "id": 99,
     "test_id": 1,
-    "category": "Logique",
-    "question": "Une entreprise place un excédent de 49000 euros à un taux d'intérêts simples de 3 % par an. Au bout de combien de mois la valeur totale du compte s'élèvera-t-elle à 51205 euros ?",
+    "category": "Culture Générale",
+    "question": "Quelle est la durée de validité des résultats du Score IAE-Message ?",
     "options": [
-      "A) 12 mois",
-      "B) 18 mois",
-      "C) 15 mois",
-      "D) 20 mois",
-      "E) 24 mois"
+      "A) 1 rentrée universitaire",
+      "B) 2 rentrées universitaires",
+      "C) 3 rentrées universitaires",
+      "D) 5 rentrées universitaires",
+      "E) Validité illimitée"
     ],
-    "correct_answer": "B",
-    "explanation": "Intérêts purs = 51205 - 49000 = 2205€. Intérêts pour 1 an = 49000 × 3% = 1470€. Il faut donc 1.5 an(s), soit 18 mois."
+    "correct_answer": "C",
+    "explanation": "Les résultats du Score IAE-Message certifient les compétences du candidat pour une durée de trois rentrées universitaires consécutives."
   },
   {
     "id": 100,
     "test_id": 1,
-    "category": "Logique",
-    "question": "Une entreprise place un excédent de 23000 euros à un taux d'intérêts simples de 6 % par an. Au bout de combien de mois la valeur totale du compte s'élèvera-t-elle à 24380 euros ?",
+    "category": "Culture Générale",
+    "question": "Quel est le nombre total de questions et le score maximal du Score IAE-Message ?",
     "options": [
-      "A) 12 mois",
-      "B) 15 mois",
-      "C) 20 mois",
-      "D) 24 mois",
-      "E) 24 mois"
+      "A) 100 questions, 200 points",
+      "B) 150 questions, 300 points",
+      "C) 170 questions, 400 points",
+      "D) 200 questions, 500 points",
+      "E) 120 questions, 240 points"
     ],
-    "correct_answer": "A",
-    "explanation": "Intérêts purs = 24380 - 23000 = 1380€. Intérêts pour 1 an = 23000 × 6% = 1380€. Il faut donc 1 an(s), soit 12 mois."
+    "correct_answer": "C",
+    "explanation": "Le test se compose de 170 QCM totalisant un score maximal de 400 points, répartis en 4 piliers : culture générale (50), français (50), logique (20), anglais (50)."
   },
   {
     "id": 101,
     "test_id": 1,
     "category": "Logique",
-    "question": "L'action d'une entreprise subit une violente décote de 40 %. De quel pourcentage exact l'action devra-t-elle augmenter pour retrouver sa valeur initiale ?",
+    "question": "Quelle est la somme des 50 premiers entiers naturels (de 1 à 50) ?",
     "options": [
-      "A) 40 %",
-      "B) 45 %",
-      "C) 66.67 %",
-      "D) 77 %",
-      "E) 81.67 %"
+      "A) 1 225",
+      "B) 1 275",
+      "C) 1 325",
+      "D) 1 250",
+      "E) 1 300"
     ],
-    "correct_answer": "C",
-    "explanation": "Une baisse de 40 % correspond à un coefficient de 0.6. L'augmentation requise est l'inverse : 1/0.6 = 1.6666666666666667, soit une hausse de 66.67 %."
+    "correct_answer": "B",
+    "explanation": "Formule de la somme d'une suite arithmétique : S = n(n+1)/2. Pour n = 50 : S = 50 × 51 / 2 = 2 550 / 2 = 1 275. Cette formule permet de calculer instantanément sans additionner terme à terme."
   },
   {
     "id": 102,
     "test_id": 1,
-    "category": "Français",
-    "question": "Identifiez l'unique proposition grammaticalement irréprochable concernant l'accord du participe passé :",
+    "category": "Logique",
+    "question": "Un capital de 10 000 € est placé à intérêts composés au taux annuel de 5 %. Quelle est sa valeur après 2 ans ?",
     "options": [
-      "A) les décisions que nous avons prise sont magnifiques.",
-      "B) Ils se sont parlé longuement.",
-      "C) les décisions qu'elle a fait pour réussir.",
-      "D) les décisions, il en a beaucoup prises.",
-      "E) Nous avons prises les décisions."
+      "A) 11 000 €",
+      "B) 11 025 €",
+      "C) 10 500 €",
+      "D) 11 050 €",
+      "E) 10 250 €"
     ],
     "correct_answer": "B",
-    "explanation": "La règle des verbes pronominaux (se parler) implique que le 'se' est un COI (parler 'à' quelqu'un), donc le participe passé reste invariable. Avec le pronom 'en', le participe passé ne s'accorde pas."
+    "explanation": "Formule des intérêts composés : Cn = C₀ × (1 + t)ⁿ. C₂ = 10 000 × (1,05)² = 10 000 × 1,1025 = 11 025 €. La différence avec les intérêts simples (11 000 €) vient des intérêts sur intérêts : 500 × 0,05 = 25 €."
   },
   {
     "id": 103,
     "test_id": 1,
-    "category": "Français",
-    "question": "Identifiez l'unique proposition grammaticalement irréprochable concernant l'accord du participe passé :",
+    "category": "Logique",
+    "question": "Un produit augmente de 20 % puis diminue de 10 %. Quelle est l'évolution globale ?",
     "options": [
-      "A) les décisions que nous avons prise sont magnifiques.",
-      "B) Ils se sont parlé longuement.",
-      "C) les décisions qu'elle a fait pour réussir.",
-      "D) les décisions, il en a beaucoup prises.",
-      "E) Nous avons prises les décisions."
+      "A) +10 %",
+      "B) +8 %",
+      "C) +12 %",
+      "D) +9 %",
+      "E) +11 %"
     ],
     "correct_answer": "B",
-    "explanation": "La règle des verbes pronominaux (se parler) implique que le 'se' est un COI (parler 'à' quelqu'un), donc le participe passé reste invariable. Avec le pronom 'en', le participe passé ne s'accorde pas."
+    "explanation": "On multiplie les coefficients : 1,20 × 0,90 = 1,08, soit une hausse globale de 8 %. Les pourcentages ne s'additionnent JAMAIS : +20 % puis −10 % ≠ +10 %. Il faut toujours multiplier les coefficients multiplicateurs."
   },
   {
     "id": 104,
     "test_id": 1,
-    "category": "Culture Générale",
-    "question": "Quel pays a rejoint l'OTAN en 2024 devenant le 32ème membre ?",
+    "category": "Logique",
+    "question": "On lance un dé équilibré à 6 faces. Quelle est la probabilité d'obtenir un nombre premier ?",
     "options": [
-      "A) La Finlande",
-      "B) L'Ukraine",
-      "C) La Géorgie",
-      "D) La Suède",
-      "E) La Serbie"
+      "A) 1/6",
+      "B) 1/3",
+      "C) 1/2",
+      "D) 2/3",
+      "E) 5/6"
     ],
-    "correct_answer": "D",
-    "explanation": "La bonne réponse est La Suède."
+    "correct_answer": "C",
+    "explanation": "Les nombres premiers parmi {1, 2, 3, 4, 5, 6} sont : 2, 3 et 5 (attention : 1 n'est pas premier). P = 3/6 = 1/2. Rappel : un nombre premier est divisible uniquement par 1 et par lui-même."
   },
   {
     "id": 105,
     "test_id": 1,
-    "category": "Culture Générale",
-    "question": "Quelle technologie est au cœur du produit ChatGPT d'OpenAI ?",
+    "category": "Logique",
+    "question": "Trouvez le terme suivant de la suite : 2, 3, 5, 8, 13, ?",
     "options": [
-      "A) La Blockchain",
-      "B) Les LLM (Large Language Models)",
-      "C) L'informatique quantique",
-      "D) Le Cloud Computing",
-      "E) La Réalité Virtuelle"
+      "A) 18",
+      "B) 20",
+      "C) 21",
+      "D) 19",
+      "E) 22"
     ],
-    "correct_answer": "B",
-    "explanation": "La bonne réponse est Les LLM (Large Language Models)."
+    "correct_answer": "C",
+    "explanation": "Suite de Fibonacci : chaque terme = somme des deux précédents. 2+3=5, 3+5=8, 5+8=13, 8+13=21. Cette suite apparaît fréquemment au SIM et dans les tests de logique."
   },
   {
     "id": 106,
     "test_id": 1,
     "category": "Logique",
-    "question": "Un véhicule de livraison effectue un trajet aller-retour. À l'aller, le trafic permet de maintenir une vitesse de 80 km/h. Au retour, sur la même distance, la route autorise une vitesse de 100 km/h. Quelle est la vitesse moyenne exacte sur la totalité du parcours ?",
+    "question": "Dans un triangle rectangle, les deux côtés de l'angle droit mesurent 5 cm et 12 cm. Quelle est la longueur de l'hypoténuse ?",
     "options": [
-      "A) 90 km/h",
-      "B) 83 km/h",
-      "C) 95 km/h",
-      "D) 91 km/h",
-      "E) 88.9 km/h"
+      "A) 15 cm",
+      "B) 17 cm",
+      "C) 13 cm",
+      "D) 14 cm",
+      "E) 11 cm"
     ],
-    "correct_answer": "E",
-    "explanation": "L'approche rigoureuse nécessite la moyenne harmonique : (2 × 80 × 100) / (80 + 100) = 88.9 km/h. La moyenne arithmétique de 90 est un piège classique."
+    "correct_answer": "C",
+    "explanation": "Théorème de Pythagore : h² = a² + b². h² = 25 + 144 = 169. h = √169 = 13. Le triplet (5, 12, 13) est un triplet pythagoricien fondamental à mémoriser, comme (3, 4, 5) et (8, 15, 17)."
   },
   {
     "id": 107,
     "test_id": 1,
     "category": "Logique",
-    "question": "L'action d'une entreprise subit une violente décote de 40 %. De quel pourcentage exact l'action devra-t-elle augmenter pour retrouver sa valeur initiale ?",
+    "question": "Si 30 ouvriers construisent un mur en 12 jours, combien de jours faudra-t-il à 20 ouvriers pour le même mur ?",
     "options": [
-      "A) 40 %",
-      "B) 45 %",
-      "C) 77 %",
-      "D) 81.67 %",
-      "E) 66.67 %"
+      "A) 15 jours",
+      "B) 16 jours",
+      "C) 18 jours",
+      "D) 8 jours",
+      "E) 20 jours"
     ],
-    "correct_answer": "E",
-    "explanation": "Une baisse de 40 % correspond à un coefficient de 0.6. L'augmentation requise est l'inverse : 1/0.6 = 1.6666666666666667, soit une hausse de 66.67 %."
+    "correct_answer": "C",
+    "explanation": "Règle de trois inversée (grandeurs inversement proportionnelles). 30 × 12 = 360 homme-jours. Pour 20 ouvriers : 360 / 20 = 18 jours. Plus il y a d'ouvriers, moins il faut de temps."
   },
   {
     "id": 108,
     "test_id": 1,
-    "category": "Culture Générale",
-    "question": "Quelle entreprise a dépassé temporairement la capitalisation d'Apple en 2024 grâce à l'IA ?",
+    "category": "Logique",
+    "question": "Un train part de Paris à 9h00 à 120 km/h. Un autre part de Lyon (480 km) à 9h00 en direction de Paris à 80 km/h. À quelle heure se croisent-ils ?",
     "options": [
-      "A) Microsoft",
-      "B) Tesla",
-      "C) Nvidia",
-      "D) Amazon",
-      "E) Meta"
+      "A) 11h00",
+      "B) 11h24",
+      "C) 11h30",
+      "D) 12h00",
+      "E) 11h20"
     ],
-    "correct_answer": "C",
-    "explanation": "La bonne réponse est Nvidia."
+    "correct_answer": "B",
+    "explanation": "Problème de croisement : vitesses s'additionnent. Vitesse relative = 120 + 80 = 200 km/h. Temps = 480/200 = 2,4 heures = 2h24min. Départ à 9h00 → croisement à 11h24."
   },
   {
     "id": 109,
     "test_id": 1,
-    "category": "Culture Générale",
-    "question": "Quelle technologie est au cœur du produit ChatGPT d'OpenAI ?",
+    "category": "Logique",
+    "question": "Combien de combinaisons de 3 éléments peut-on former à partir d'un ensemble de 7 éléments ?",
     "options": [
-      "A) La Blockchain",
-      "B) L'informatique quantique",
-      "C) Le Cloud Computing",
-      "D) Les LLM (Large Language Models)",
-      "E) La Réalité Virtuelle"
+      "A) 21",
+      "B) 35",
+      "C) 42",
+      "D) 210",
+      "E) 120"
     ],
-    "correct_answer": "D",
-    "explanation": "La bonne réponse est Les LLM (Large Language Models)."
+    "correct_answer": "B",
+    "explanation": "Combinaisons C(7,3) = 7! / (3! × 4!) = (7×6×5) / (3×2×1) = 210/6 = 35. L'ordre n'a pas d'importance (contrairement aux arrangements). Formule indispensable pour les problèmes de tirage."
   },
   {
     "id": 110,
     "test_id": 1,
     "category": "Logique",
-    "question": "Une entreprise place un excédent de 48000 euros à un taux d'intérêts simples de 3 % par an. Au bout de combien de mois la valeur totale du compte s'élèvera-t-elle à 50880 euros ?",
+    "question": "Un cycliste parcourt 45 km en 1h30. Quelle est sa vitesse moyenne en km/h ?",
     "options": [
-      "A) 12 mois",
-      "B) 15 mois",
-      "C) 20 mois",
-      "D) 24 mois",
-      "E) 13 mois"
+      "A) 25 km/h",
+      "B) 28 km/h",
+      "C) 30 km/h",
+      "D) 32 km/h",
+      "E) 35 km/h"
     ],
-    "correct_answer": "D",
-    "explanation": "Intérêts purs = 50880 - 48000 = 2880€. Intérêts pour 1 an = 48000 × 3% = 1440€. Il faut donc 2 an(s), soit 24 mois."
+    "correct_answer": "C",
+    "explanation": "V = D/T. 1h30 = 1,5 heure. V = 45/1,5 = 30 km/h. Astuce calcul mental : diviser par 1,5 = multiplier par 2/3. 45 × 2/3 = 30."
   },
   {
     "id": 111,
     "test_id": 1,
     "category": "Logique",
-    "question": "Une entreprise place un excédent de 48000 euros à un taux d'intérêts simples de 3 % par an. Au bout de combien de mois la valeur totale du compte s'élèvera-t-elle à 50880 euros ?",
+    "question": "Un article à 80 € subit deux baisses successives de 10 % puis 20 %. Quel est le prix final ?",
     "options": [
-      "A) 12 mois",
-      "B) 15 mois",
-      "C) 20 mois",
-      "D) 38 mois",
-      "E) 24 mois"
+      "A) 56 €",
+      "B) 57,60 €",
+      "C) 54,40 €",
+      "D) 60 €",
+      "E) 58 €"
     ],
-    "correct_answer": "E",
-    "explanation": "Intérêts purs = 50880 - 48000 = 2880€. Intérêts pour 1 an = 48000 × 3% = 1440€. Il faut donc 2 an(s), soit 24 mois."
+    "correct_answer": "B",
+    "explanation": "Coefficients multiplicateurs : 0,90 × 0,80 = 0,72. Prix final = 80 × 0,72 = 57,60 €. Attention : deux baisses de 10 % et 20 % ne font PAS une baisse de 30 % (qui donnerait 56 €)."
   },
   {
     "id": 112,
     "test_id": 1,
-    "category": "Culture Générale",
-    "question": "Quelle entreprise a dépassé temporairement la capitalisation d'Apple en 2024 grâce à l'IA ?",
+    "category": "Logique",
+    "question": "Quelle est l'aire d'un trapèze dont les bases mesurent 8 cm et 12 cm, et la hauteur 5 cm ?",
     "options": [
-      "A) Microsoft",
-      "B) Tesla",
-      "C) Amazon",
-      "D) Nvidia",
-      "E) Meta"
+      "A) 40 cm²",
+      "B) 50 cm²",
+      "C) 60 cm²",
+      "D) 48 cm²",
+      "E) 45 cm²"
     ],
-    "correct_answer": "D",
-    "explanation": "La bonne réponse est Nvidia."
+    "correct_answer": "B",
+    "explanation": "Aire du trapèze = (B + b) × h / 2 = (12 + 8) × 5 / 2 = 20 × 5 / 2 = 100/2 = 50 cm². Formule essentielle à mémoriser pour le SIM."
   },
   {
     "id": 113,
     "test_id": 1,
-    "category": "Culture Générale",
-    "question": "Quelle technologie est au cœur du produit ChatGPT d'OpenAI ?",
+    "category": "Logique",
+    "question": "Trouvez le nombre manquant : 2, 3, 5, 7, 11, 13, ?",
     "options": [
-      "A) La Blockchain",
-      "B) L'informatique quantique",
-      "C) Le Cloud Computing",
-      "D) Les LLM (Large Language Models)",
-      "E) La Réalité Virtuelle"
+      "A) 15",
+      "B) 16",
+      "C) 17",
+      "D) 19",
+      "E) 14"
     ],
-    "correct_answer": "D",
-    "explanation": "La bonne réponse est Les LLM (Large Language Models)."
+    "correct_answer": "C",
+    "explanation": "Suite des nombres premiers : 2, 3, 5, 7, 11, 13, 17, 19, 23… Un nombre premier n'est divisible que par 1 et lui-même. 14 (2×7), 15 (3×5), 16 (2⁴) ne sont pas premiers."
   },
   {
     "id": 114,
     "test_id": 1,
-    "category": "Culture Générale",
-    "question": "Où se sont déroulés les Jeux Olympiques d'été en 2024 ?",
+    "category": "Logique",
+    "question": "Deux événements indépendants A et B ont des probabilités P(A) = 1/3 et P(B) = 1/4. Quelle est P(A ∩ B) ?",
     "options": [
-      "A) Los Angeles",
-      "B) Paris",
-      "C) Tokyo",
-      "D) Londres",
-      "E) Pékin"
+      "A) 7/12",
+      "B) 1/7",
+      "C) 1/12",
+      "D) 1/2",
+      "E) 5/12"
     ],
-    "correct_answer": "B",
-    "explanation": "La bonne réponse est Paris."
+    "correct_answer": "C",
+    "explanation": "Pour des événements indépendants : P(A ∩ B) = P(A) × P(B) = 1/3 × 1/4 = 1/12. Ne pas confondre avec P(A ∪ B) = P(A) + P(B) − P(A ∩ B) = 1/3 + 1/4 − 1/12 = 6/12 = 1/2."
   },
   {
     "id": 115,
     "test_id": 1,
-    "category": "Culture Générale",
-    "question": "Quelle entreprise a dépassé temporairement la capitalisation d'Apple en 2024 grâce à l'IA ?",
+    "category": "Logique",
+    "question": "Un chiffre d'affaires passe de 200 000 € à 230 000 €. Quel est le taux de variation ?",
     "options": [
-      "A) Microsoft",
-      "B) Tesla",
-      "C) Amazon",
-      "D) Meta",
-      "E) Nvidia"
+      "A) +30 %",
+      "B) +13 %",
+      "C) +15 %",
+      "D) +17 %",
+      "E) +20 %"
     ],
-    "correct_answer": "E",
-    "explanation": "La bonne réponse est Nvidia."
+    "correct_answer": "C",
+    "explanation": "Taux de variation = (VF − VI) / VI × 100 = (230 000 − 200 000) / 200 000 × 100 = 30 000/200 000 × 100 = 15 %. Formule fondamentale pour les évolutions économiques au SIM."
   },
   {
     "id": 116,
     "test_id": 1,
-    "category": "Anglais",
-    "question": "Identify the grammatically INACCURATE sentence regarding countable and uncountable nouns:",
+    "category": "Logique",
+    "question": "Quel est le volume d'un cylindre de rayon 3 cm et de hauteur 10 cm ? (π ≈ 3,14)",
     "options": [
-      "A) He gave me some valuable equipment.",
-      "B) We bought a lot of new equipment.",
-      "C) The new equipment are arriving tomorrow.",
-      "D) She carries too much equipment.",
-      "E) I need a piece of equipment."
+      "A) 94,2 cm³",
+      "B) 282,6 cm³",
+      "C) 188,4 cm³",
+      "D) 314 cm³",
+      "E) 251,2 cm³"
     ],
-    "correct_answer": "C",
-    "explanation": "Le mot \"equipment\" est indénombrable en anglais. Il ne prend jamais de 's' au pluriel et le verbe qui l'accompagne doit être conjugué au singulier (ex: The equipment IS arriving). L'option C est donc incorrecte."
+    "correct_answer": "B",
+    "explanation": "Volume du cylindre = π × r² × h = 3,14 × 9 × 10 = 3,14 × 90 = 282,6 cm³. Formule à retenir : V = πr²h."
   },
   {
     "id": 117,
     "test_id": 1,
     "category": "Logique",
-    "question": "Une entreprise place un excédent de 44000 euros à un taux d'intérêts simples de 2 % par an. Au bout de combien de mois la valeur totale du compte s'élèvera-t-elle à 45760 euros ?",
+    "question": "Quelle est la lettre manquante dans la suite : A, C, F, J, O, ?",
     "options": [
-      "A) 12 mois",
-      "B) 15 mois",
-      "C) 20 mois",
-      "D) 39 mois",
-      "E) 24 mois"
+      "A) S",
+      "B) T",
+      "C) U",
+      "D) V",
+      "E) R"
     ],
-    "correct_answer": "E",
-    "explanation": "Intérêts purs = 45760 - 44000 = 1760€. Intérêts pour 1 an = 44000 × 2% = 880€. Il faut donc 2 an(s), soit 24 mois."
+    "correct_answer": "C",
+    "explanation": "Conversion en chiffres : A=1, C=3, F=6, J=10, O=15. Les écarts sont +2, +3, +4, +5 → prochain écart +6 : 15+6=21=U. La suite des écarts est arithmétique (raison +1)."
   },
   {
     "id": 118,
     "test_id": 1,
     "category": "Culture Générale",
-    "question": "Quelle entreprise a dépassé temporairement la capitalisation d'Apple en 2024 grâce à l'IA ?",
+    "question": "Quelle biathlète française a offert l'or au relais féminin de biathlon aux JO de Milano-Cortina 2026 ?",
     "options": [
-      "A) Microsoft",
-      "B) Nvidia",
-      "C) Tesla",
-      "D) Amazon",
-      "E) Meta"
+      "A) Anaïs Chevalier-Bouchet",
+      "B) Justine Braisaz-Bouchet",
+      "C) Julia Simon",
+      "D) Lou Jeanmonnot",
+      "E) Chloé Chevalier"
     ],
-    "correct_answer": "B",
-    "explanation": "La bonne réponse est Nvidia."
+    "correct_answer": "C",
+    "explanation": "Julia Simon a été déterminante dans le sacre du relais féminin de biathlon, offrant l'or à l'équipe de France lors des JO de Milano-Cortina 2026."
   },
   {
     "id": 119,
     "test_id": 1,
     "category": "Culture Générale",
-    "question": "Quel pays africain a intégré les BRICS début 2024 ?",
+    "question": "Quel skiathlete français a remporté une médaille aux JO de Milano-Cortina 2026 ?",
     "options": [
-      "A) Le Nigéria",
-      "B) Le Kenya",
-      "C) L'Égypte (et l'Éthiopie)",
-      "D) Le Maroc",
-      "E) L'Angola"
+      "A) Maurice Manificat",
+      "B) Clément Parisse",
+      "C) Mathis Desloges",
+      "D) Hugo Lapalus",
+      "E) Richard Jouve"
     ],
     "correct_answer": "C",
-    "explanation": "La bonne réponse est L'Égypte (et l'Éthiopie)."
+    "explanation": "Mathis Desloges a remporté une médaille en skiathlon lors des JO de Milano-Cortina 2026, contribuant au palmarès historique de la France."
   },
   {
     "id": 120,
     "test_id": 1,
-    "category": "Français",
-    "question": "Identifiez l'unique proposition grammaticalement irréprochable concernant l'accord du participe passé :",
+    "category": "Culture Générale",
+    "question": "Quelle alliance politique a permis à la gauche de conserver Paris aux municipales 2026 ?",
     "options": [
-      "A) les chansons que nous avons entendue sont magnifiques.",
-      "B) Ils se sont parlé longuement.",
-      "C) les chansons qu'elle a fait pour réussir.",
-      "D) les chansons, il en a beaucoup entendues.",
-      "E) Nous avons entendues les chansons."
+      "A) LFI-PCF-EELV",
+      "B) PS-LFI-PCF",
+      "C) PS-Écologistes-PCF",
+      "D) PS-Renaissance-EELV",
+      "E) LFI-PS-Renaissance"
     ],
-    "correct_answer": "B",
-    "explanation": "La règle des verbes pronominaux (se parler) implique que le 'se' est un COI (parler 'à' quelqu'un), donc le participe passé reste invariable. Avec le pronom 'en', le participe passé ne s'accorde pas."
+    "correct_answer": "C",
+    "explanation": "L'alliance PS-Écologistes-PCF a permis la continuité de la gauche à Paris avec la victoire d'Emmanuel Grégoire, sans la participation de LFI dans la coalition parisienne."
   },
   {
     "id": 121,
     "test_id": 1,
-    "category": "Culture Générale",
-    "question": "Quel pays a rejoint l'OTAN en 2024 devenant le 32ème membre ?",
+    "category": "Anglais",
+    "question": "Choose the correct sentence: \"She has been working here _____ 2018.\"",
     "options": [
-      "A) La Finlande",
-      "B) L'Ukraine",
-      "C) La Géorgie",
-      "D) La Suède",
-      "E) La Serbie"
+      "A) for",
+      "B) since",
+      "C) during",
+      "D) ago",
+      "E) from"
     ],
-    "correct_answer": "D",
-    "explanation": "La bonne réponse est La Suède."
+    "correct_answer": "B",
+    "explanation": "« Since » indique le point de départ temporel (since 2018). « For » indique une durée totale (for six years). « During » s'utilise avec un nom (during the meeting). « Ago » s'emploie avec le Past Simple."
   },
   {
     "id": 122,
     "test_id": 1,
-    "category": "Culture Générale",
-    "question": "Où se sont déroulés les Jeux Olympiques d'été en 2024 ?",
+    "category": "Anglais",
+    "question": "Which sentence is correct?",
     "options": [
-      "A) Los Angeles",
-      "B) Paris",
-      "C) Tokyo",
-      "D) Londres",
-      "E) Pékin"
+      "A) I have seen him yesterday",
+      "B) I saw him yesterday",
+      "C) I have saw him yesterday",
+      "D) I did saw him yesterday",
+      "E) I was seeing him yesterday"
     ],
     "correct_answer": "B",
-    "explanation": "La bonne réponse est Paris."
+    "explanation": "« Yesterday » est un marqueur temporel précis du passé → Past Simple obligatoire. Le Present Perfect (have seen) ne peut PAS s'utiliser avec un moment précis et révolu du passé."
   },
   {
     "id": 123,
     "test_id": 1,
-    "category": "Français",
-    "question": "Identifiez l'unique proposition grammaticalement irréprochable concernant l'accord du participe passé :",
+    "category": "Anglais",
+    "question": "Select the correct translation of « actuellement » in English:",
     "options": [
-      "A) les décisions que nous avons prise sont magnifiques.",
-      "B) Ils se sont parlé longuement.",
-      "C) les décisions qu'elle a fait pour réussir.",
-      "D) les décisions, il en a beaucoup prises.",
-      "E) Nous avons prises les décisions."
+      "A) Actually",
+      "B) Currently",
+      "C) Presently",
+      "D) Both B and C are correct",
+      "E) All three (A, B, C) are correct"
     ],
-    "correct_answer": "B",
-    "explanation": "La règle des verbes pronominaux (se parler) implique que le 'se' est un COI (parler 'à' quelqu'un), donc le participe passé reste invariable. Avec le pronom 'en', le participe passé ne s'accorde pas."
+    "correct_answer": "D",
+    "explanation": "Faux-ami classique : « actually » = en réalité/en fait (PAS actuellement). « Currently » et « presently » signifient tous deux « actuellement ». C'est le piège le plus fréquent du SIM en anglais."
   },
   {
     "id": 124,
     "test_id": 1,
-    "category": "Logique",
-    "question": "Une entreprise place un excédent de 47000 euros à un taux d'intérêts simples de 2 % par an. Au bout de combien de mois la valeur totale du compte s'élèvera-t-elle à 48410 euros ?",
+    "category": "Anglais",
+    "question": "Which word correctly translates the French « assister à une réunion » ?",
     "options": [
-      "A) 12 mois",
-      "B) 18 mois",
-      "C) 15 mois",
-      "D) 20 mois",
-      "E) 24 mois"
+      "A) To assist a meeting",
+      "B) To attend a meeting",
+      "C) To help a meeting",
+      "D) To join a meeting",
+      "E) To participate a meeting"
     ],
     "correct_answer": "B",
-    "explanation": "Intérêts purs = 48410 - 47000 = 1410€. Intérêts pour 1 an = 47000 × 2% = 940€. Il faut donc 1.5 an(s), soit 18 mois."
+    "explanation": "Faux-ami : « to assist » = aider/secourir (pas assister à). « To attend » = assister à, être présent à. On dit « attend a meeting/conference/class ». C'est un piège récurrent du SIM."
   },
   {
     "id": 125,
     "test_id": 1,
     "category": "Anglais",
-    "question": "Identify the grammatically INACCURATE sentence regarding countable and uncountable nouns:",
+    "question": "The English word 'sensible' means:",
     "options": [
-      "A) He gave me some valuable information.",
-      "B) We bought a lot of new information.",
-      "C) The new information are arriving tomorrow.",
-      "D) She carries too much information.",
-      "E) I need a piece of information."
+      "A) Sensible (en français)",
+      "B) Sensitive",
+      "C) Reasonable / practical",
+      "D) Emotional",
+      "E) Sentimental"
     ],
     "correct_answer": "C",
-    "explanation": "Le mot \"information\" est indénombrable en anglais. Il ne prend jamais de 's' au pluriel et le verbe qui l'accompagne doit être conjugué au singulier (ex: The information IS arriving). L'option C est donc incorrecte."
+    "explanation": "Faux-ami : « sensible » en anglais = raisonnable, pratique, judicieux. « Sensitive » en anglais = sensible (en français). Piège systématique du SIM : ne jamais traduire « sensible » par « sensible »."
   },
   {
     "id": 126,
     "test_id": 1,
-    "category": "Logique",
-    "question": "L'action d'une entreprise subit une violente décote de 25 %. De quel pourcentage exact l'action devra-t-elle augmenter pour retrouver sa valeur initiale ?",
+    "category": "Anglais",
+    "question": "Choose the correct sentence:",
     "options": [
-      "A) 25 %",
-      "B) 30 %",
-      "C) 43 %",
-      "D) 48.33 %",
-      "E) 33.33 %"
+      "A) I look forward to hear from you",
+      "B) I look forward to hearing from you",
+      "C) I look forward hearing from you",
+      "D) I look forward to have heard from you",
+      "E) I look forward for hearing from you"
     ],
-    "correct_answer": "E",
-    "explanation": "Une baisse de 25 % correspond à un coefficient de 0.75. L'augmentation requise est l'inverse : 1/0.75 = 1.3333333333333333, soit une hausse de 33.33 %."
+    "correct_answer": "B",
+    "explanation": "« Look forward to » : ici « to » est une préposition (pas un marqueur d'infinitif), donc le verbe qui suit prend la forme gérondif (-ing). « To hearing » est la seule forme correcte."
   },
   {
     "id": 127,
     "test_id": 1,
-    "category": "Logique",
-    "question": "L'action d'une entreprise subit une violente décote de 50 %. De quel pourcentage exact l'action devra-t-elle augmenter pour retrouver sa valeur initiale ?",
+    "category": "Anglais",
+    "question": "Identify the correct sentence about indirect questions:",
     "options": [
-      "A) 50 %",
-      "B) 55 %",
-      "C) 110 %",
-      "D) 100 %",
-      "E) 115 %"
+      "A) I wonder what time is it",
+      "B) I wonder what time it is",
+      "C) I wonder what time is it?",
+      "D) I wonder what is it time",
+      "E) I wonder it is what time"
     ],
-    "correct_answer": "D",
-    "explanation": "Une baisse de 50 % correspond à un coefficient de 0.5. L'augmentation requise est l'inverse : 1/0.5 = 2, soit une hausse de 100 %."
+    "correct_answer": "B",
+    "explanation": "Dans une question indirecte, il n'y a PAS d'inversion verbe-sujet. On dit « I wonder what time it is » (pas « what time is it »). La question indirecte garde l'ordre sujet-verbe."
   },
   {
     "id": 128,
     "test_id": 1,
-    "category": "Culture Générale",
-    "question": "Quel est le nom du nouveau Premier ministre français nommé début 2024 (avant la dissolution) ?",
+    "category": "Anglais",
+    "question": "Which sentence correctly uses an uncountable noun?",
     "options": [
-      "A) Élisabeth Borne",
-      "B) Gabriel Attal",
-      "C) Jean Castex",
-      "D) Edouard Philippe",
-      "E) Gérald Darmanin"
+      "A) She gave me many advices",
+      "B) She gave me a lot of advice",
+      "C) She gave me several advices",
+      "D) She gave me two advices",
+      "E) She gave me advices"
     ],
     "correct_answer": "B",
-    "explanation": "La bonne réponse est Gabriel Attal."
+    "explanation": "« Advice » est indénombrable en anglais : jamais de pluriel (advices ✗). On dit « a lot of advice », « some advice », ou « a piece of advice ». Même règle pour information, furniture, luggage, equipment."
   },
   {
     "id": 129,
     "test_id": 1,
-    "category": "Français",
-    "question": "Identifiez l'unique proposition grammaticalement irréprochable concernant l'accord du participe passé :",
+    "category": "Anglais",
+    "question": "Choose the correct sentence:",
     "options": [
-      "A) les fleurs que nous avons cueillie sont magnifiques.",
-      "B) Ils se sont parlé longuement.",
-      "C) les fleurs qu'elle a fait pour réussir.",
-      "D) les fleurs, il en a beaucoup cueillies.",
-      "E) Nous avons cueillies les fleurs."
+      "A) The furnitures are new",
+      "B) The furniture is new",
+      "C) These furnitures look expensive",
+      "D) I bought new furnitures",
+      "E) Some furnitures were damaged"
     ],
     "correct_answer": "B",
-    "explanation": "La règle des verbes pronominaux (se parler) implique que le 'se' est un COI (parler 'à' quelqu'un), donc le participe passé reste invariable. Avec le pronom 'en', le participe passé ne s'accorde pas."
+    "explanation": "« Furniture » est strictement indénombrable : pas de pluriel, verbe au singulier. « The furniture is new ». Pour quantifier : « a piece of furniture », « some furniture »."
   },
   {
     "id": 130,
     "test_id": 1,
     "category": "Anglais",
-    "question": "Identify the grammatically INACCURATE sentence regarding countable and uncountable nouns:",
+    "question": "Select the correct form: \"He _____ here for ten years.\"",
     "options": [
-      "A) He gave me some valuable luggage.",
-      "B) We bought a lot of new luggage.",
-      "C) The new luggage are arriving tomorrow.",
-      "D) She carries too much luggage.",
-      "E) I need a piece of luggage."
+      "A) works",
+      "B) worked",
+      "C) has worked",
+      "D) is working",
+      "E) was working"
     ],
     "correct_answer": "C",
-    "explanation": "Le mot \"luggage\" est indénombrable en anglais. Il ne prend jamais de 's' au pluriel et le verbe qui l'accompagne doit être conjugué au singulier (ex: The luggage IS arriving). L'option C est donc incorrecte."
+    "explanation": "« For ten years » avec une action qui continue dans le présent → Present Perfect. « He has worked here for ten years » = il travaille ici depuis 10 ans (et continue). Le Past Simple (worked) impliquerait qu'il n'y travaille plus."
   },
   {
     "id": 131,
     "test_id": 1,
     "category": "Anglais",
-    "question": "Identify the grammatically INACCURATE sentence regarding countable and uncountable nouns:",
+    "question": "Which sentence is grammatically correct?",
     "options": [
-      "A) He gave me some valuable luggage.",
-      "B) We bought a lot of new luggage.",
-      "C) The new luggage are arriving tomorrow.",
-      "D) She carries too much luggage.",
-      "E) I need a piece of luggage."
+      "A) She suggested me to go home",
+      "B) She suggested that I go home",
+      "C) She suggested me going home",
+      "D) She suggested for me to go home",
+      "E) She suggested I to go home"
     ],
-    "correct_answer": "C",
-    "explanation": "Le mot \"luggage\" est indénombrable en anglais. Il ne prend jamais de 's' au pluriel et le verbe qui l'accompagne doit être conjugué au singulier (ex: The luggage IS arriving). L'option C est donc incorrecte."
+    "correct_answer": "B",
+    "explanation": "« Suggest » ne prend jamais d'objet indirect + infinitif. On dit « suggest that + subject + base form » (subjonctif anglais). « She suggested that I go home » est correct."
   },
   {
     "id": 132,
     "test_id": 1,
-    "category": "Culture Générale",
-    "question": "Quelle technologie est au cœur du produit ChatGPT d'OpenAI ?",
+    "category": "Anglais",
+    "question": "The word 'eventually' in English means:",
     "options": [
-      "A) La Blockchain",
-      "B) L'informatique quantique",
-      "C) Les LLM (Large Language Models)",
-      "D) Le Cloud Computing",
-      "E) La Réalité Virtuelle"
+      "A) Éventuellement",
+      "B) Finalement / en fin de compte",
+      "C) Possiblement",
+      "D) Par hasard",
+      "E) Parfois"
     ],
-    "correct_answer": "C",
-    "explanation": "La bonne réponse est Les LLM (Large Language Models)."
+    "correct_answer": "B",
+    "explanation": "Faux-ami : « eventually » = finalement, en fin de compte (PAS éventuellement). « Éventuellement » se traduit par « possibly » ou « perhaps ». Piège fréquent pour les francophones."
   },
   {
     "id": 133,
     "test_id": 1,
-    "category": "Culture Générale",
-    "question": "Quel est le nom du nouveau Premier ministre français nommé début 2024 (avant la dissolution) ?",
+    "category": "Anglais",
+    "question": "Choose the correct sentence:",
     "options": [
-      "A) Élisabeth Borne",
-      "B) Jean Castex",
-      "C) Gabriel Attal",
-      "D) Edouard Philippe",
-      "E) Gérald Darmanin"
+      "A) Despite of the rain, we went out",
+      "B) Despite the rain, we went out",
+      "C) Despite it rained, we went out",
+      "D) Despite to rain, we went out",
+      "E) Despite that it rained, we went out"
     ],
-    "correct_answer": "C",
-    "explanation": "La bonne réponse est Gabriel Attal."
+    "correct_answer": "B",
+    "explanation": "« Despite » est suivi directement d'un nom (sans « of »). On dit « despite the rain » ou « in spite of the rain ». « Despite of » est incorrect. Pour une proposition : « despite the fact that it rained »."
   },
   {
     "id": 134,
     "test_id": 1,
-    "category": "Culture Générale",
-    "question": "Quelle entreprise a dépassé temporairement la capitalisation d'Apple en 2024 grâce à l'IA ?",
+    "category": "Anglais",
+    "question": "Which is the correct passive form of 'They build houses'?",
     "options": [
-      "A) Microsoft",
-      "B) Tesla",
-      "C) Nvidia",
-      "D) Amazon",
-      "E) Meta"
+      "A) Houses are build by them",
+      "B) Houses are built by them",
+      "C) Houses are being build by them",
+      "D) Houses were builded by them",
+      "E) Houses have build by them"
     ],
-    "correct_answer": "C",
-    "explanation": "La bonne réponse est Nvidia."
+    "correct_answer": "B",
+    "explanation": "Passif : be + participe passé. « Build » → « built » (verbe irrégulier, pas « builded »). Present passive : « Houses are built ». Le participe passé de build est built, pas build."
   },
   {
     "id": 135,
     "test_id": 1,
-    "category": "Culture Générale",
-    "question": "Qui a remporté l'élection présidentielle américaine en 2024 ?",
+    "category": "Anglais",
+    "question": "Complete: \"If I _____ rich, I would travel the world.\"",
     "options": [
-      "A) Joe Biden",
-      "B) Kamala Harris",
-      "C) Ron DeSantis",
-      "D) Donald Trump",
-      "E) Nikki Haley"
+      "A) am",
+      "B) was",
+      "C) were",
+      "D) would be",
+      "E) had been"
     ],
-    "correct_answer": "D",
-    "explanation": "La bonne réponse est Donald Trump."
+    "correct_answer": "C",
+    "explanation": "Conditionnel de type 2 (irréel du présent) : If + past subjunctive + would. On utilise « were » pour tous les sujets dans le subjonctif hypothétique (If I were, if he were). « Was » est toléré à l'oral mais « were » est la forme correcte du SIM."
   },
   {
     "id": 136,
     "test_id": 1,
-    "category": "Culture Générale",
-    "question": "Où se sont déroulés les Jeux Olympiques d'été en 2024 ?",
+    "category": "Anglais",
+    "question": "Choose the correct sentence with 'used to':",
     "options": [
-      "A) Paris",
-      "B) Los Angeles",
-      "C) Tokyo",
-      "D) Londres",
-      "E) Pékin"
+      "A) I am used to work late",
+      "B) I am used to working late",
+      "C) I used to working late",
+      "D) I am use to working late",
+      "E) I am used working late"
     ],
-    "correct_answer": "A",
-    "explanation": "La bonne réponse est Paris."
+    "correct_answer": "B",
+    "explanation": "« Be used to + gerund (-ing) » = être habitué à. « Used to + infinitif » = avoir l'habitude de (dans le passé). « I am used to working late » = je suis habitué à travailler tard."
   },
   {
     "id": 137,
     "test_id": 1,
-    "category": "Logique",
-    "question": "Un véhicule de livraison effectue un trajet aller-retour. À l'aller, le trafic permet de maintenir une vitesse de 50 km/h. Au retour, sur la même distance, la route autorise une vitesse de 90 km/h. Quelle est la vitesse moyenne exacte sur la totalité du parcours ?",
+    "category": "Anglais",
+    "question": "Which sentence has correct subject-verb agreement?",
     "options": [
-      "A) 70 km/h",
-      "B) 59 km/h",
-      "C) 67 km/h",
-      "D) 64.3 km/h",
-      "E) 71 km/h"
+      "A) The team are ready for the presentation",
+      "B) The news are shocking",
+      "C) Mathematics are my favorite subject",
+      "D) The information is confidential",
+      "E) The luggage are heavy"
     ],
     "correct_answer": "D",
-    "explanation": "L'approche rigoureuse nécessite la moyenne harmonique : (2 × 50 × 90) / (50 + 90) = 64.3 km/h. La moyenne arithmétique de 70 est un piège classique."
+    "explanation": "« Information » est indénombrable → singulier. « News », « mathematics », et « luggage » sont aussi indénombrables → singulier. « The team is/are » : les deux sont acceptés (BrE/AmE). Mais « the information is » est la seule certitude."
   },
   {
     "id": 138,
     "test_id": 1,
-    "category": "Logique",
-    "question": "Un véhicule de livraison effectue un trajet aller-retour. À l'aller, le trafic permet de maintenir une vitesse de 50 km/h. Au retour, sur la même distance, la route autorise une vitesse de 90 km/h. Quelle est la vitesse moyenne exacte sur la totalité du parcours ?",
+    "category": "Anglais",
+    "question": "Select the correct relative pronoun: \"The report _____ I read was very informative.\"",
     "options": [
-      "A) 70 km/h",
-      "B) 59 km/h",
-      "C) 67 km/h",
-      "D) 64.3 km/h",
-      "E) 71 km/h"
+      "A) who",
+      "B) whom",
+      "C) which",
+      "D) whose",
+      "E) where"
     ],
-    "correct_answer": "D",
-    "explanation": "L'approche rigoureuse nécessite la moyenne harmonique : (2 × 50 × 90) / (50 + 90) = 64.3 km/h. La moyenne arithmétique de 70 est un piège classique."
+    "correct_answer": "C",
+    "explanation": "« Which » s'utilise pour les choses/objets. « Who/whom » pour les personnes. « Whose » pour la possession. « The report which I read » est correct (that serait aussi acceptable)."
   },
   {
     "id": 139,
     "test_id": 1,
-    "category": "Français",
-    "question": "Identifiez l'unique proposition grammaticalement irréprochable concernant l'accord du participe passé :",
+    "category": "Anglais",
+    "question": "Choose the correct form: \"She insisted _____ paying the bill.\"",
     "options": [
-      "A) les lettres que nous avons écrite sont magnifiques.",
-      "B) Ils se sont parlé longuement.",
-      "C) les lettres qu'elle a fait pour réussir.",
-      "D) les lettres, il en a beaucoup écrites.",
-      "E) Nous avons écrites les lettres."
+      "A) to",
+      "B) on",
+      "C) for",
+      "D) in",
+      "E) at"
     ],
     "correct_answer": "B",
-    "explanation": "La règle des verbes pronominaux (se parler) implique que le 'se' est un COI (parler 'à' quelqu'un), donc le participe passé reste invariable. Avec le pronom 'en', le participe passé ne s'accorde pas."
+    "explanation": "« Insist on + gerund » est la construction correcte. « She insisted on paying ». Le verbe insist est toujours suivi de la préposition « on » quand suivi d'une action. Autre construction : « insist that + subject + verb »."
   },
   {
     "id": 140,
     "test_id": 1,
-    "category": "Culture Générale",
-    "question": "Où se sont déroulés les Jeux Olympiques d'été en 2024 ?",
+    "category": "Anglais",
+    "question": "What does 'comprehensive' mean in English?",
     "options": [
-      "A) Los Angeles",
-      "B) Tokyo",
-      "C) Paris",
-      "D) Londres",
-      "E) Pékin"
+      "A) Compréhensif (indulgent)",
+      "B) Complet / exhaustif",
+      "C) Sympathique",
+      "D) Intelligent",
+      "E) Compatible"
     ],
-    "correct_answer": "C",
-    "explanation": "La bonne réponse est Paris."
+    "correct_answer": "B",
+    "explanation": "Faux-ami : « comprehensive » = complet, exhaustif, détaillé (PAS compréhensif). « Compréhensif » en français se traduit par « understanding » ou « sympathetic ». Piège classique du SIM."
   },
   {
     "id": 141,
     "test_id": 1,
-    "category": "Logique",
-    "question": "Une entreprise place un excédent de 42000 euros à un taux d'intérêts simples de 5 % par an. Au bout de combien de mois la valeur totale du compte s'élèvera-t-elle à 46200 euros ?",
+    "category": "Anglais",
+    "question": "Choose the correct sentence:",
     "options": [
-      "A) 12 mois",
-      "B) 15 mois",
-      "C) 20 mois",
-      "D) 24 mois",
-      "E) 31 mois"
+      "A) He suggested to postpone the meeting",
+      "B) He suggested postponing the meeting",
+      "C) He suggested us to postpone the meeting",
+      "D) He suggested us postponing the meeting",
+      "E) He suggested for postponing the meeting"
     ],
-    "correct_answer": "D",
-    "explanation": "Intérêts purs = 46200 - 42000 = 4200€. Intérêts pour 1 an = 42000 × 5% = 2100€. Il faut donc 2 an(s), soit 24 mois."
+    "correct_answer": "B",
+    "explanation": "« Suggest » est suivi du gérondif (-ing) ou de « that + subject + verb ». Jamais « suggest to do » ou « suggest someone to do ». « He suggested postponing » est correct."
   },
   {
     "id": 142,
     "test_id": 1,
     "category": "Anglais",
-    "question": "Identify the grammatically INACCURATE sentence regarding countable and uncountable nouns:",
+    "question": "Identify the error: \"Each of the students have completed their assignment.\"",
     "options": [
-      "A) He gave me some valuable luggage.",
-      "B) We bought a lot of new luggage.",
-      "C) The new luggage are arriving tomorrow.",
-      "D) She carries too much luggage.",
-      "E) I need a piece of luggage."
+      "A) Each",
+      "B) of the students",
+      "C) have",
+      "D) their",
+      "E) assignment"
     ],
     "correct_answer": "C",
-    "explanation": "Le mot \"luggage\" est indénombrable en anglais. Il ne prend jamais de 's' au pluriel et le verbe qui l'accompagne doit être conjugué au singulier (ex: The luggage IS arriving). L'option C est donc incorrecte."
+    "explanation": "« Each » est singulier → le verbe doit être au singulier : « Each of the students has completed ». « Have » est incorrect car « each » renvoie à chaque individu pris séparément."
   },
   {
     "id": 143,
     "test_id": 1,
-    "category": "Logique",
-    "question": "Un véhicule de livraison effectue un trajet aller-retour. À l'aller, le trafic permet de maintenir une vitesse de 70 km/h. Au retour, sur la même distance, la route autorise une vitesse de 100 km/h. Quelle est la vitesse moyenne exacte sur la totalité du parcours ?",
+    "category": "Anglais",
+    "question": "Complete: \"I wish I _____ more time to study.\"",
     "options": [
-      "A) 85 km/h",
-      "B) 77 km/h",
-      "C) 85 km/h",
-      "D) 82.4 km/h",
-      "E) 89 km/h"
+      "A) have",
+      "B) had",
+      "C) would have",
+      "D) having",
+      "E) will have"
     ],
-    "correct_answer": "D",
-    "explanation": "L'approche rigoureuse nécessite la moyenne harmonique : (2 × 70 × 100) / (70 + 100) = 82.4 km/h. La moyenne arithmétique de 85 est un piège classique."
+    "correct_answer": "B",
+    "explanation": "« I wish + past simple » exprime un souhait irréel au présent. « I wish I had » = si seulement j'avais. Pour un regret passé : « I wish I had had ». Pour une situation future souhaitée : « I wish + would »."
   },
   {
     "id": 144,
     "test_id": 1,
-    "category": "Logique",
-    "question": "L'action d'une entreprise subit une violente décote de 40 %. De quel pourcentage exact l'action devra-t-elle augmenter pour retrouver sa valeur initiale ?",
+    "category": "Anglais",
+    "question": "Which phrase correctly uses 'neither...nor'?",
     "options": [
-      "A) 66.67 %",
-      "B) 40 %",
-      "C) 45 %",
-      "D) 77 %",
-      "E) 81.67 %"
+      "A) Neither the CEO or the CFO attended",
+      "B) Neither the CEO nor the CFO attended",
+      "C) Neither the CEO and the CFO attended",
+      "D) Neither the CEO but the CFO attended",
+      "E) Neither the CEO not the CFO attended"
     ],
-    "correct_answer": "A",
-    "explanation": "Une baisse de 40 % correspond à un coefficient de 0.6. L'augmentation requise est l'inverse : 1/0.6 = 1.6666666666666667, soit une hausse de 66.67 %."
+    "correct_answer": "B",
+    "explanation": "La corrélation est toujours « neither...nor » (jamais neither...or/and/but). De même : « either...or », « both...and », « not only...but also ». Ces paires sont figées en anglais."
   },
   {
     "id": 145,
     "test_id": 1,
     "category": "Anglais",
-    "question": "Identify the grammatically INACCURATE sentence regarding countable and uncountable nouns:",
+    "question": "The English word 'actually' is best translated as:",
     "options": [
-      "A) He gave me some valuable furniture.",
-      "B) We bought a lot of new furniture.",
-      "C) The new furniture are arriving tomorrow.",
-      "D) She carries too much furniture.",
-      "E) I need a piece of furniture."
+      "A) Actuellement",
+      "B) En fait / en réalité",
+      "C) Récemment",
+      "D) Effectivement",
+      "E) Activement"
     ],
-    "correct_answer": "C",
-    "explanation": "Le mot \"furniture\" est indénombrable en anglais. Il ne prend jamais de 's' au pluriel et le verbe qui l'accompagne doit être conjugué au singulier (ex: The furniture IS arriving). L'option C est donc incorrecte."
+    "correct_answer": "B",
+    "explanation": "« Actually » = en fait, en réalité. C'est le faux-ami le plus testé au SIM. « Actuellement » = currently. Ne jamais confondre les deux. Cette erreur est systématiquement proposée comme distracteur dans les QCM."
   },
   {
     "id": 146,
     "test_id": 1,
-    "category": "Logique",
-    "question": "Une entreprise place un excédent de 26000 euros à un taux d'intérêts simples de 5 % par an. Au bout de combien de mois la valeur totale du compte s'élèvera-t-elle à 28600 euros ?",
+    "category": "Anglais",
+    "question": "Complete: \"She has been living here _____ five years.\"",
     "options": [
-      "A) 12 mois",
-      "B) 15 mois",
-      "C) 20 mois",
-      "D) 24 mois",
-      "E) 39 mois"
+      "A) since",
+      "B) for",
+      "C) during",
+      "D) ago",
+      "E) in"
     ],
-    "correct_answer": "D",
-    "explanation": "Intérêts purs = 28600 - 26000 = 2600€. Intérêts pour 1 an = 26000 × 5% = 1300€. Il faut donc 2 an(s), soit 24 mois."
+    "correct_answer": "B",
+    "explanation": "« For » indique une durée totale (for five years = pendant cinq ans). « Since » indique un point de départ précis (since 2019). Ne jamais confondre les deux : for + durée, since + date/moment."
   },
   {
     "id": 147,
     "test_id": 1,
-    "category": "Culture Générale",
-    "question": "Quel pays a rejoint l'OTAN en 2024 devenant le 32ème membre ?",
+    "category": "Anglais",
+    "question": "Which sentence is correct?",
     "options": [
-      "A) La Finlande",
-      "B) L'Ukraine",
-      "C) La Géorgie",
-      "D) La Serbie",
-      "E) La Suède"
+      "A) He told me that he will come",
+      "B) He told me that he would come",
+      "C) He told me that he comes",
+      "D) He told me that he is coming",
+      "E) He told me that he shall come"
     ],
-    "correct_answer": "E",
-    "explanation": "La bonne réponse est La Suède."
+    "correct_answer": "B",
+    "explanation": "Discours indirect : le verbe introducteur au passé (told) entraîne la concordance des temps → will devient would. « He told me that he would come » est correct."
   },
   {
     "id": 148,
     "test_id": 1,
-    "category": "Logique",
-    "question": "L'action d'une entreprise subit une violente décote de 10 %. De quel pourcentage exact l'action devra-t-elle augmenter pour retrouver sa valeur initiale ?",
+    "category": "Anglais",
+    "question": "What does 'to pretend' mean in English?",
     "options": [
-      "A) 10 %",
-      "B) 15 %",
-      "C) 21 %",
-      "D) 26.11 %",
-      "E) 11.11 %"
+      "A) Prétendre (affirmer)",
+      "B) Faire semblant",
+      "C) Prêter",
+      "D) Présenter",
+      "E) Prédire"
     ],
-    "correct_answer": "E",
-    "explanation": "Une baisse de 10 % correspond à un coefficient de 0.9. L'augmentation requise est l'inverse : 1/0.9 = 1.1111111111111112, soit une hausse de 11.11 %."
+    "correct_answer": "B",
+    "explanation": "Faux-ami : « to pretend » = faire semblant (PAS prétendre/affirmer). « Prétendre » en français = to claim. « He pretends to be sick » = il fait semblant d'être malade."
   },
   {
     "id": 149,
     "test_id": 1,
-    "category": "Logique",
-    "question": "Une entreprise place un excédent de 34000 euros à un taux d'intérêts simples de 6 % par an. Au bout de combien de mois la valeur totale du compte s'élèvera-t-elle à 36040 euros ?",
+    "category": "Anglais",
+    "question": "Choose the correct preposition: \"The manager is responsible _____ the project.\"",
     "options": [
-      "A) 12 mois",
-      "B) 15 mois",
-      "C) 20 mois",
-      "D) 24 mois",
-      "E) 19 mois"
+      "A) of",
+      "B) about",
+      "C) for",
+      "D) to",
+      "E) on"
     ],
-    "correct_answer": "A",
-    "explanation": "Intérêts purs = 36040 - 34000 = 2040€. Intérêts pour 1 an = 34000 × 6% = 2040€. Il faut donc 1 an(s), soit 12 mois."
+    "correct_answer": "C",
+    "explanation": "« Responsible for » est la construction correcte (responsable de). Ne pas confondre avec « responsible to someone » (qui rend des comptes à quelqu'un). Préposition fixe à mémoriser."
   },
   {
     "id": 150,
     "test_id": 1,
-    "category": "Culture Générale",
-    "question": "Quel pays africain a intégré les BRICS début 2024 ?",
+    "category": "Anglais",
+    "question": "Select the correct sentence:",
     "options": [
-      "A) Le Nigéria",
-      "B) Le Kenya",
-      "C) Le Maroc",
-      "D) L'Égypte (et l'Éthiopie)",
-      "E) L'Angola"
+      "A) The equipments are expensive",
+      "B) The equipment is expensive",
+      "C) These equipments need maintenance",
+      "D) We ordered new equipments",
+      "E) All equipments must be checked"
     ],
-    "correct_answer": "D",
-    "explanation": "La bonne réponse est L'Égypte (et l'Éthiopie)."
+    "correct_answer": "B",
+    "explanation": "« Equipment » est indénombrable : pas de pluriel, verbe au singulier. On dit « the equipment is » et « a piece of equipment ». Même règle que furniture, luggage, advice, information."
   },
   {
     "id": 151,
     "test_id": 1,
-    "category": "Français",
-    "question": "Identifiez l'unique proposition grammaticalement irréprochable concernant l'accord du participe passé :",
+    "category": "Anglais",
+    "question": "Which is correct? \"She succeeded _____ passing the exam.\"",
     "options": [
-      "A) les pommes que nous avons mangée sont magnifiques.",
-      "B) Ils se sont parlé longuement.",
-      "C) les pommes qu'elle a fait pour réussir.",
-      "D) les pommes, il en a beaucoup mangées.",
-      "E) Nous avons mangées les pommes."
+      "A) to",
+      "B) in",
+      "C) at",
+      "D) for",
+      "E) on"
     ],
     "correct_answer": "B",
-    "explanation": "La règle des verbes pronominaux (se parler) implique que le 'se' est un COI (parler 'à' quelqu'un), donc le participe passé reste invariable. Avec le pronom 'en', le participe passé ne s'accorde pas."
+    "explanation": "« Succeed in + gerund » est la construction correcte. « She succeeded in passing ». À ne pas confondre avec « manage to + infinitif » qui a un sens similaire mais une construction différente."
   },
   {
     "id": 152,
     "test_id": 1,
-    "category": "Culture Générale",
-    "question": "Quel pays africain a intégré les BRICS début 2024 ?",
+    "category": "Anglais",
+    "question": "What does 'to achieve' mean?",
     "options": [
-      "A) Le Nigéria",
-      "B) Le Kenya",
-      "C) L'Égypte (et l'Éthiopie)",
-      "D) Le Maroc",
-      "E) L'Angola"
+      "A) Achever (terminer)",
+      "B) Accomplir / atteindre (un objectif)",
+      "C) Acheter",
+      "D) Finir / arrêter",
+      "E) Mettre fin"
     ],
-    "correct_answer": "C",
-    "explanation": "La bonne réponse est L'Égypte (et l'Éthiopie)."
+    "correct_answer": "B",
+    "explanation": "Faux-ami : « to achieve » = accomplir, atteindre un objectif (PAS achever au sens de terminer/tuer). « To achieve a goal/target/success ». « Achever » se traduit par « to complete » ou « to finish »."
   },
   {
     "id": 153,
     "test_id": 1,
     "category": "Anglais",
-    "question": "Identify the grammatically INACCURATE sentence regarding countable and uncountable nouns:",
+    "question": "Choose the correct sentence:",
     "options": [
-      "A) He gave me some valuable information.",
-      "B) We bought a lot of new information.",
-      "C) The new information are arriving tomorrow.",
-      "D) She carries too much information.",
-      "E) I need a piece of information."
+      "A) I am agree with you",
+      "B) I agree with you",
+      "C) I am agreed with you",
+      "D) I do agree you",
+      "E) I agree to you"
     ],
-    "correct_answer": "C",
-    "explanation": "Le mot \"information\" est indénombrable en anglais. Il ne prend jamais de 's' au pluriel et le verbe qui l'accompagne doit être conjugué au singulier (ex: The information IS arriving). L'option C est donc incorrecte."
+    "correct_answer": "B",
+    "explanation": "« Agree » est un verbe, pas un adjectif : on ne dit PAS « I am agree » (erreur francophone classique). On dit « I agree with you ». Avec une proposition : « I agree to do something » ou « I agree that... »."
   },
   {
     "id": 154,
     "test_id": 1,
-    "category": "Logique",
-    "question": "L'action d'une entreprise subit une violente décote de 10 %. De quel pourcentage exact l'action devra-t-elle augmenter pour retrouver sa valeur initiale ?",
+    "category": "Anglais",
+    "question": "Complete: \"He apologized _____ being late.\"",
     "options": [
-      "A) 11.11 %",
-      "B) 10 %",
-      "C) 15 %",
-      "D) 21 %",
-      "E) 26.11 %"
+      "A) about",
+      "B) of",
+      "C) for",
+      "D) to",
+      "E) on"
     ],
-    "correct_answer": "A",
-    "explanation": "Une baisse de 10 % correspond à un coefficient de 0.9. L'augmentation requise est l'inverse : 1/0.9 = 1.1111111111111112, soit une hausse de 11.11 %."
+    "correct_answer": "C",
+    "explanation": "« Apologize for + gerund » est la construction correcte. « He apologized for being late ». On peut aussi dire « apologize to someone for something ». Préposition fixe au SIM."
   },
   {
     "id": 155,
     "test_id": 1,
-    "category": "Culture Générale",
-    "question": "Quel est le nom du nouveau Premier ministre français nommé début 2024 (avant la dissolution) ?",
+    "category": "Anglais",
+    "question": "Which sentence uses the correct tense?",
     "options": [
-      "A) Élisabeth Borne",
-      "B) Jean Castex",
-      "C) Edouard Philippe",
-      "D) Gabriel Attal",
-      "E) Gérald Darmanin"
+      "A) When I arrived, she already left",
+      "B) When I arrived, she has already left",
+      "C) When I arrived, she had already left",
+      "D) When I arrived, she already leaves",
+      "E) When I arrived, she will have left"
     ],
-    "correct_answer": "D",
-    "explanation": "La bonne réponse est Gabriel Attal."
+    "correct_answer": "C",
+    "explanation": "Past Perfect (had + past participle) pour une action antérieure à une autre action passée. Elle était déjà partie (action 1) quand je suis arrivé (action 2). Le Past Perfect marque l'antériorité dans le passé."
   },
   {
     "id": 156,
     "test_id": 1,
     "category": "Anglais",
-    "question": "Identify the grammatically INACCURATE sentence regarding countable and uncountable nouns:",
+    "question": "The word 'library' in English means:",
     "options": [
-      "A) He gave me some valuable luggage.",
-      "B) We bought a lot of new luggage.",
-      "C) The new luggage are arriving tomorrow.",
-      "D) She carries too much luggage.",
-      "E) I need a piece of luggage."
+      "A) Librairie (bookshop)",
+      "B) Bibliothèque",
+      "C) Libre-service",
+      "D) Magasin",
+      "E) Bureau"
     ],
-    "correct_answer": "C",
-    "explanation": "Le mot \"luggage\" est indénombrable en anglais. Il ne prend jamais de 's' au pluriel et le verbe qui l'accompagne doit être conjugué au singulier (ex: The luggage IS arriving). L'option C est donc incorrecte."
+    "correct_answer": "B",
+    "explanation": "Faux-ami classique : « library » = bibliothèque (PAS librairie). « Librairie » se traduit par « bookshop » (BrE) ou « bookstore » (AmE). Piège fréquent pour les francophones."
   },
   {
     "id": 157,
     "test_id": 1,
     "category": "Anglais",
-    "question": "Identify the grammatically INACCURATE sentence regarding countable and uncountable nouns:",
+    "question": "Choose the correct form: \"They made him _____ the report.\"",
     "options": [
-      "A) He gave me some valuable information.",
-      "B) We bought a lot of new information.",
-      "C) The new information are arriving tomorrow.",
-      "D) She carries too much information.",
-      "E) I need a piece of information."
+      "A) to rewrite",
+      "B) rewriting",
+      "C) rewrite",
+      "D) rewrote",
+      "E) to rewriting"
     ],
     "correct_answer": "C",
-    "explanation": "Le mot \"information\" est indénombrable en anglais. Il ne prend jamais de 's' au pluriel et le verbe qui l'accompagne doit être conjugué au singulier (ex: The information IS arriving). L'option C est donc incorrecte."
+    "explanation": "Après « make + object », on utilise l'infinitif sans « to » (bare infinitive). « They made him rewrite ». Exception : au passif, « to » revient : « He was made to rewrite ». Même règle avec « let »."
   },
   {
     "id": 158,
     "test_id": 1,
-    "category": "Logique",
-    "question": "Une entreprise place un excédent de 22000 euros à un taux d'intérêts simples de 5 % par an. Au bout de combien de mois la valeur totale du compte s'élèvera-t-elle à 24200 euros ?",
+    "category": "Anglais",
+    "question": "Complete: \"I'm not used _____ up early.\"",
     "options": [
-      "A) 12 mois",
-      "B) 15 mois",
-      "C) 24 mois",
-      "D) 20 mois",
-      "E) 17 mois"
+      "A) to get",
+      "B) to getting",
+      "C) getting",
+      "D) get",
+      "E) to got"
     ],
-    "correct_answer": "C",
-    "explanation": "Intérêts purs = 24200 - 22000 = 2200€. Intérêts pour 1 an = 22000 × 5% = 1100€. Il faut donc 2 an(s), soit 24 mois."
+    "correct_answer": "B",
+    "explanation": "« Be used to + gerund » = être habitué à. « I'm not used to getting up early » = je ne suis pas habitué à me lever tôt. Ici « to » est une préposition → gérondif obligatoire."
   },
   {
     "id": 159,
     "test_id": 1,
-    "category": "Logique",
-    "question": "Un véhicule de livraison effectue un trajet aller-retour. À l'aller, le trafic permet de maintenir une vitesse de 60 km/h. Au retour, sur la même distance, la route autorise une vitesse de 80 km/h. Quelle est la vitesse moyenne exacte sur la totalité du parcours ?",
+    "category": "Anglais",
+    "question": "Which is correct? \"Do you mind _____ the window?\"",
     "options": [
-      "A) 70 km/h",
-      "B) 63 km/h",
-      "C) 75 km/h",
-      "D) 71 km/h",
-      "E) 68.6 km/h"
+      "A) to open",
+      "B) open",
+      "C) opening",
+      "D) to opening",
+      "E) opened"
     ],
-    "correct_answer": "E",
-    "explanation": "L'approche rigoureuse nécessite la moyenne harmonique : (2 × 60 × 80) / (60 + 80) = 68.6 km/h. La moyenne arithmétique de 70 est un piège classique."
+    "correct_answer": "C",
+    "explanation": "« Mind + gerund » est la construction correcte. « Do you mind opening...? ». Les verbes enjoy, avoid, mind, suggest, consider, finish sont toujours suivis du gérondif (-ing)."
   },
   {
     "id": 160,
     "test_id": 1,
-    "category": "Logique",
-    "question": "Une entreprise place un excédent de 47000 euros à un taux d'intérêts simples de 3 % par an. Au bout de combien de mois la valeur totale du compte s'élèvera-t-elle à 49115 euros ?",
+    "category": "Anglais",
+    "question": "What does 'a résumé' mean in American English?",
     "options": [
-      "A) 12 mois",
-      "B) 15 mois",
-      "C) 20 mois",
-      "D) 18 mois",
-      "E) 24 mois"
+      "A) Un résumé de texte",
+      "B) Un CV (curriculum vitae)",
+      "C) Une synthèse",
+      "D) Un sommaire",
+      "E) Un compte-rendu"
     ],
-    "correct_answer": "D",
-    "explanation": "Intérêts purs = 49115 - 47000 = 2115€. Intérêts pour 1 an = 47000 × 3% = 1410€. Il faut donc 1.5 an(s), soit 18 mois."
+    "correct_answer": "B",
+    "explanation": "En anglais américain, « résumé » = CV (document de candidature). En anglais britannique, on utilise plutôt « CV ». Ne pas confondre avec « summary » (résumé de texte)."
   },
   {
     "id": 161,
     "test_id": 1,
-    "category": "Culture Générale",
-    "question": "Quelle entreprise a dépassé temporairement la capitalisation d'Apple en 2024 grâce à l'IA ?",
+    "category": "Anglais",
+    "question": "Choose the correct sentence:",
     "options": [
-      "A) Microsoft",
-      "B) Tesla",
-      "C) Nvidia",
-      "D) Amazon",
-      "E) Meta"
+      "A) He prevented me to leave",
+      "B) He prevented me from leaving",
+      "C) He prevented me leaving",
+      "D) He prevented that I leave",
+      "E) He prevented me of leaving"
     ],
-    "correct_answer": "C",
-    "explanation": "La bonne réponse est Nvidia."
+    "correct_answer": "B",
+    "explanation": "« Prevent someone from + gerund » est la construction correcte. « He prevented me from leaving ». La préposition « from » est obligatoire entre l'objet et le gérondif."
   },
   {
     "id": 162,
     "test_id": 1,
-    "category": "Logique",
-    "question": "Une entreprise place un excédent de 28000 euros à un taux d'intérêts simples de 6 % par an. Au bout de combien de mois la valeur totale du compte s'élèvera-t-elle à 29680 euros ?",
+    "category": "Anglais",
+    "question": "The word 'hazard' means:",
     "options": [
-      "A) 15 mois",
-      "B) 12 mois",
-      "C) 20 mois",
-      "D) 24 mois",
-      "E) 21 mois"
+      "A) Hasard (chance)",
+      "B) Danger / risque",
+      "C) Chance / luck",
+      "D) Coïncidence",
+      "E) Aventure"
     ],
     "correct_answer": "B",
-    "explanation": "Intérêts purs = 29680 - 28000 = 1680€. Intérêts pour 1 an = 28000 × 6% = 1680€. Il faut donc 1 an(s), soit 12 mois."
+    "explanation": "Faux-ami : « hazard » = danger, risque (PAS hasard). « Hasard » se traduit par « chance » ou « randomness ». « A health hazard » = un risque sanitaire. « By chance » = par hasard."
   },
   {
     "id": 163,
     "test_id": 1,
-    "category": "Logique",
-    "question": "Une entreprise place un excédent de 27000 euros à un taux d'intérêts simples de 2 % par an. Au bout de combien de mois la valeur totale du compte s'élèvera-t-elle à 27810 euros ?",
+    "category": "Anglais",
+    "question": "Which sentence correctly uses 'few' and 'a few'?",
     "options": [
-      "A) 12 mois",
-      "B) 15 mois",
-      "C) 20 mois",
-      "D) 18 mois",
-      "E) 24 mois"
+      "A) Few students passed, which was disappointing",
+      "B) A few students passed, which was disappointing",
+      "C) Few students passed, which was encouraging",
+      "D) Options A and C use 'few' correctly",
+      "E) Only option A uses 'few' correctly"
     ],
-    "correct_answer": "D",
-    "explanation": "Intérêts purs = 27810 - 27000 = 810€. Intérêts pour 1 an = 27000 × 2% = 540€. Il faut donc 1.5 an(s), soit 18 mois."
+    "correct_answer": "E",
+    "explanation": "« Few » (sans article) = très peu (connotation négative). « A few » = quelques (connotation positive). « Few students passed → disappointing » est logique (très peu, c'est décevant). L'option C est incohérente."
   },
   {
     "id": 164,
     "test_id": 1,
-    "category": "Logique",
-    "question": "L'action d'une entreprise subit une violente décote de 10 %. De quel pourcentage exact l'action devra-t-elle augmenter pour retrouver sa valeur initiale ?",
+    "category": "Anglais",
+    "question": "Complete: \"She denied _____ the money.\"",
     "options": [
-      "A) 10 %",
-      "B) 15 %",
-      "C) 21 %",
-      "D) 26.11 %",
-      "E) 11.11 %"
+      "A) to steal",
+      "B) stealing",
+      "C) to have stolen",
+      "D) to stealing",
+      "E) having steal"
     ],
-    "correct_answer": "E",
-    "explanation": "Une baisse de 10 % correspond à un coefficient de 0.9. L'augmentation requise est l'inverse : 1/0.9 = 1.1111111111111112, soit une hausse de 11.11 %."
+    "correct_answer": "B",
+    "explanation": "« Deny + gerund » est la construction correcte. « She denied stealing the money ». Les verbes deny, admit, avoid, enjoy, consider, suggest sont toujours suivis du gérondif."
   },
   {
     "id": 165,
     "test_id": 1,
-    "category": "Culture Générale",
-    "question": "Quelle technologie est au cœur du produit ChatGPT d'OpenAI ?",
+    "category": "Anglais",
+    "question": "What does 'to demand' mean in English?",
     "options": [
-      "A) Les LLM (Large Language Models)",
-      "B) La Blockchain",
-      "C) L'informatique quantique",
-      "D) Le Cloud Computing",
-      "E) La Réalité Virtuelle"
+      "A) Demander poliment",
+      "B) Exiger",
+      "C) Questionner",
+      "D) Solliciter",
+      "E) Requérir"
     ],
-    "correct_answer": "A",
-    "explanation": "La bonne réponse est Les LLM (Large Language Models)."
+    "correct_answer": "B",
+    "explanation": "Faux-ami : « to demand » = exiger (PAS demander poliment). « To ask » = demander. « To request » = demander formellement. « The workers demanded higher wages » = les ouvriers ont exigé des salaires plus élevés."
   },
   {
     "id": 166,
     "test_id": 1,
     "category": "Anglais",
-    "question": "Identify the grammatically INACCURATE sentence regarding countable and uncountable nouns:",
+    "question": "Choose the correct sentence:",
     "options": [
-      "A) He gave me some valuable advice.",
-      "B) We bought a lot of new advice.",
-      "C) The new advice are arriving tomorrow.",
-      "D) She carries too much advice.",
-      "E) I need a piece of advice."
+      "A) Can you tell me where is the station?",
+      "B) Can you tell me where the station is?",
+      "C) Can you tell me where is the station",
+      "D) Can you tell me the station is where?",
+      "E) Can you tell where is me the station?"
     ],
-    "correct_answer": "C",
-    "explanation": "Le mot \"advice\" est indénombrable en anglais. Il ne prend jamais de 's' au pluriel et le verbe qui l'accompagne doit être conjugué au singulier (ex: The advice IS arriving). L'option C est donc incorrecte."
+    "correct_answer": "B",
+    "explanation": "Question indirecte : pas d'inversion sujet-verbe. « Can you tell me where the station is? » (pas « where is the station »). La proposition interrogative indirecte garde l'ordre affirmatif sujet-verbe."
   },
   {
     "id": 167,
     "test_id": 1,
-    "category": "Culture Générale",
-    "question": "Quelle entreprise a dépassé temporairement la capitalisation d'Apple en 2024 grâce à l'IA ?",
+    "category": "Anglais",
+    "question": "Which is the correct comparative form?",
     "options": [
-      "A) Microsoft",
-      "B) Nvidia",
-      "C) Tesla",
-      "D) Amazon",
-      "E) Meta"
+      "A) This project is more better than the last one",
+      "B) This project is gooder than the last one",
+      "C) This project is better than the last one",
+      "D) This project is more good than the last one",
+      "E) This project is most better than the last one"
     ],
-    "correct_answer": "B",
-    "explanation": "La bonne réponse est Nvidia."
+    "correct_answer": "C",
+    "explanation": "« Good → better → best » est un comparatif irrégulier. On ne dit jamais « more good » ni « more better » (double comparatif). Autres irréguliers : bad → worse, far → further, little → less."
   },
   {
     "id": 168,
     "test_id": 1,
-    "category": "Français",
-    "question": "Identifiez l'unique proposition grammaticalement irréprochable concernant l'accord du participe passé :",
+    "category": "Anglais",
+    "question": "Complete: \"She is keen _____ learning new languages.\"",
     "options": [
-      "A) les pommes que nous avons mangée sont magnifiques.",
-      "B) Ils se sont parlé longuement.",
-      "C) les pommes qu'elle a fait pour réussir.",
-      "D) les pommes, il en a beaucoup mangées.",
-      "E) Nous avons mangées les pommes."
+      "A) to",
+      "B) for",
+      "C) on",
+      "D) about",
+      "E) in"
     ],
-    "correct_answer": "B",
-    "explanation": "La règle des verbes pronominaux (se parler) implique que le 'se' est un COI (parler 'à' quelqu'un), donc le participe passé reste invariable. Avec le pronom 'en', le participe passé ne s'accorde pas."
+    "correct_answer": "C",
+    "explanation": "« Keen on + gerund/noun » = passionné par, enthousiaste pour. « She is keen on learning ». Ne pas confondre avec « keen to + infinitif » (désireux de) : « She is keen to learn ». Les deux constructions sont possibles."
   },
   {
     "id": 169,
     "test_id": 1,
     "category": "Culture Générale",
-    "question": "Quelle technologie est au cœur du produit ChatGPT d'OpenAI ?",
+    "question": "Quel athlète français a remporté le bronze en biathlon masculin aux JO de Milano-Cortina 2026 ?",
     "options": [
-      "A) La Blockchain",
-      "B) L'informatique quantique",
-      "C) Le Cloud Computing",
-      "D) La Réalité Virtuelle",
-      "E) Les LLM (Large Language Models)"
+      "A) Simon Desthieux",
+      "B) Fabien Claude",
+      "C) Émilien Jacquelin",
+      "D) Quentin Fillon Maillet",
+      "E) Martin Fourcade"
     ],
-    "correct_answer": "E",
-    "explanation": "La bonne réponse est Les LLM (Large Language Models)."
+    "correct_answer": "C",
+    "explanation": "Émilien Jacquelin a obtenu la médaille de bronze en biathlon masculin aux JO de Milano-Cortina 2026, aux côtés de Lou Jeanmonnot qui a également décroché le bronze."
   },
   {
     "id": 170,
     "test_id": 1,
     "category": "Culture Générale",
-    "question": "Qui a remporté l'élection présidentielle américaine en 2024 ?",
+    "question": "Dans quel pays la Hongrie a-t-elle créé des dissensions au sein de l'OTAN en 2025-2026 ?",
     "options": [
-      "A) Joe Biden",
-      "B) Kamala Harris",
-      "C) Ron DeSantis",
-      "D) Nikki Haley",
-      "E) Donald Trump"
+      "A) La France",
+      "B) L'Allemagne",
+      "C) La Hongrie elle-même contestait la cohésion de l'alliance",
+      "D) Le Royaume-Uni",
+      "E) L'Italie"
     ],
-    "correct_answer": "E",
-    "explanation": "La bonne réponse est Donald Trump."
+    "correct_answer": "C",
+    "explanation": "La Hongrie a contribué aux dissensions internes de l'OTAN, tandis que les postures de l'administration américaine de Trump semaient également le doute sur la cohésion de l'alliance atlantique."
   }
 ]
