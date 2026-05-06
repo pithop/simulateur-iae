@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "test_id": 1,
+    "category": "Culture Générale",
+    "question": "Lors des élections municipales de mars 2026 en France, qui a été élu pour diriger la mairie de Paris, succédant ainsi à Anne Hidalgo et conservant la capitale sous la bannière de la gauche?",
+    "options": ["A) Rachida Dati", "B) Grégory Doucet", "C) Benoît Payan", "D) Emmanuel Grégoire", "E) Sophia Chikirou"],
+    "correct_answer": "D",
+    "explanation": "Emmanuel Grégoire s'est imposé avec plus de 50 % des suffrages face à ses concurrentes directes, Rachida Dati (droite) et Sophia Chikirou (LFI), actant la continuité de l'alliance PS-Écologistes-PCF à Paris."
+  },
+  {
+    "id": 2,
+    "test_id": 1,
+    "category": "Culture Générale",
+    "question": "Pour quels travaux de recherche l'Académie royale des sciences de Suède a-t-elle décerné le Prix Nobel de Chimie 2025 à Susumu Kitagawa, Richard Robson et Omar M. Yaghi?",
+    "options": ["A) L'invention et la synthèse des points quantiques (quantum dots).", "B) La découverte de la structure de l'ADN polymérase.", "C) L'élaboration des réseaux métallo-organiques (MOFs), matériaux poreux utilisés pour le stockage des gaz.", "D) Le développement de thérapies ciblant les cellules T régulatrices.", "E) Les avancées sur les théories de la destruction créatrice."],
+    "correct_answer": "C",
+    "explanation": "Les chercheurs ont été couronnés pour leur rôle pionnier dans la création des MOFs (Metal-Organic Frameworks), ouvrant des perspectives industrielles colossales pour la transition environnementale."
+  },
+  {
+    "id": 3,
+    "test_id": 1,
+    "category": "Culture Générale",
+    "question": "Dans le cadre de l'effervescence du marché des fusions-acquisitions (M&A) début 2026, quelle opération stratégique a vu le géant américain Cadence Design Systems renforcer ses capacités en cybersécurité embarquée?",
+    "options": ["A) Le rachat du logiciel allemand sevDesk.", "B) L'investissement massif de 100 milliards de dollars dans OpenAI.", "C) L'offre d'acquisition hostile sur Warner Bros Discovery.", "D) L'acquisition de la start-up rennaise Secure-IC.", "E) Le financement institutionnel de Trade Republic."],
+    "correct_answer": "D",
+    "explanation": "Cadence a ciblé Secure-IC pour internaliser des compétences critiques en IP de sécurité. L'acquisition de sevDesk a été opérée par le groupe français Cegid, et la dynamique autour d'OpenAI concerne Nvidia."
+  },
+  {
+    "id": 4,
+    "test_id": 1,
+    "category": "Culture Générale",
+    "question": "Quelle a été la performance historique de l'Équipe de France lors des Jeux Olympiques d'hiver de Milano-Cortina en février 2026?",
+    "options": ["A) Elle a remporté 15 médailles, égalant tout juste son précédent record de Sotchi.", "B) Elle a terminé première au classement final grâce à 10 médailles d'or en ski alpin.", "C) Elle a pulvérisé son record absolu en cumulant 23 médailles, dont 8 en or, la hissant à la 6e place mondiale.", "D) Elle n'a obtenu aucune médaille d'or, une première depuis 1994.", "E) Elle a refusé de participer à l'épreuve de relais mixte en biathlon."],
+    "correct_answer": "C",
+    "explanation": "La France a réalisé une moisson inédite de 23 médailles (8 or, 9 argent, 6 bronze), portée par les exploits de figures comme Quentin Fillon Maillet, Julia Simon, et le duo Cizeron/Fournier Beaudry."
+  },
+  {
+    "id": 5,
+    "test_id": 1,
+    "category": "Culture Générale",
+    "question": "Quel auteur a été récompensé par l'Académie Goncourt en 2025 pour son roman \"La Maison vide\"?",
+    "options": ["A) Adélaïde de Clermont-Tonnerre", "B) Emmanuel Carrère", "C) Nathacha Appanah", "D) Louis-Henri de la Rochefoucauld", "E) Laurent Mauvignier"],
+    "correct_answer": "E",
+    "explanation": "Laurent Mauvignier a remporté le prestigieux Prix Goncourt. Adélaïde de Clermont-Tonnerre a reçu le Renaudot, Emmanuel Carrère le Médicis, et Nathacha Appanah le Femina."
+  },
+  {
+    "id": 6,
+    "test_id": 1,
+    "category": "Français",
+    "question": "Identifiez l'unique proposition grammaticalement irréprochable :",
+    "options": ["A) Les cantatrices que nous avons entendu chanter ont livré une performance exceptionnelle.", "B) Les dossiers, le jury les a examinés avec une grande attention, et des erreurs, il en a remarquées plusieurs.", "C) Les efforts qu'elle a fait pour réussir sont remarquables.", "D) La cantatrice que nous avons entendue chanter a livré une performance exceptionnelle.", "E) Elles se sont parlées longuement avant la réunion."],
+    "correct_answer": "D",
+    "explanation": "La règle stipule que le participe passé suivi d'un infinitif s'accorde si le COD antéposé (\"la cantatrice\") fait l'action de l'infinitif (\"chanter\"). La cantatrice chantant bien, l'accord s'opère."
+  },
+  {
+    "id": 7,
+    "test_id": 1,
+    "category": "Français",
+    "question": "Quelle phrase est exempte de toute altération orthographique ou sémantique?",
+    "options": ["A) Il est censé résoudre ce problème sans atermoyer davantage.", "B) Le gouvernement a décidé d'agraver les sanctions contre la fraude fiscale.", "C) J'allais, sens le savoir, m'engager dans une négociation complexe.", "D) L'entreprise doit ce moderniser pour faire face à la concurrence.", "E) Au jour d'aujourd'hui, l'intelligence artificielle révolutionne les fusions-acquisitions."],
+    "correct_answer": "A",
+    "explanation": "L'usage de \"censé\" (supposé), de \"atermoyer\" (repousser, différer) et de \"davantage\" (adverbe) est parfait. Les autres options contiennent des erreurs (agraver -> aggraver, sens -> sans, ce -> se, Au jour d'aujourd'hui est un pléonasme)."
+  },
+  {
+    "id": 8,
+    "test_id": 1,
+    "category": "Logique",
+    "question": "Un véhicule de livraison effectue un trajet de 120 kilomètres pour relier un entrepôt à un client. À l'aller, le trafic permet de maintenir une vitesse de 60 km/h. Au retour, sur la même distance, la fluidité de la route autorise une vitesse de 90 km/h. Quelle est la vitesse moyenne exacte du véhicule sur la totalité de son parcours?",
+    "options": ["A) 75 km/h", "B) 72 km/h", "C) 80 km/h", "D) 65 km/h", "E) 78 km/h"],
+    "correct_answer": "B",
+    "explanation": "L'approche rigoureuse nécessite la moyenne harmonique ou la déconstruction par les durées. Temps aller : 2h. Temps retour : 1,33h. Distance totale : 240 km. Temps total : 10/3 d'heure. Vitesse moyenne = 240 / (10/3) = 72 km/h."
+  },
+  {
+    "id": 9,
+    "test_id": 1,
+    "category": "Logique",
+    "question": "Une entreprise place un excédent de trésorerie de 15 000 euros sur un compte rémunéré à un taux d'intérêts simples de 3 % par an. Au bout de combien de mois la valeur totale du compte (capital initial + intérêts) s'élèvera-t-elle à 15 675 euros?",
+    "options": ["A) 12 mois", "B) 15 mois", "C) 18 mois", "D) 20 mois", "E) 24 mois"],
+    "correct_answer": "C",
+    "explanation": "Le montant des intérêts purs générés est de 675 euros. Les intérêts pour un an (3% de 15 000) sont de 450 euros. Il faut donc 1,5 an (675 / 450) pour générer 675 euros. Converti en mois, 1,5 x 12 aboutit à 18 mois."
+  },
+  {
+    "id": 10,
+    "test_id": 1,
+    "category": "Logique",
+    "question": "L'action d'une entreprise subit une violente décote de 25 % lors d'une crise de marché. De quel pourcentage exact l'action devra-t-elle augmenter pour retrouver scrupuleusement sa valeur initiale?",
+    "options": ["A) 25 %", "B) 30 %", "C) 33,33 %", "D) 40 %", "E) 50 %"],
+    "correct_answer": "C",
+    "explanation": "Une baisse de 25 % équivaut à un coefficient multiplicateur de 0,75 (3/4). Pour que le produit des évolutions soit égal à 1, le CM de hausse doit être l'inverse de 3/4, soit 4/3. La fraction 4/3 correspond à une valeur de 1,3333, soit une augmentation de 33,33 %."
+  },
+  {
+    "id": 11,
+    "test_id": 1,
+    "category": "Anglais",
+    "question": "Select the grammatically correct completion for the following corporate statement: \"The board of directors strongly objects _______ the integration of the new financial software due to excessive costs.\"",
+    "options": ["A) against implementing", "B) to implement", "C) on implementing", "D) to implementing", "E) implementing"],
+    "correct_answer": "D",
+    "explanation": "La structure verbale anglaise \"to object\" est phrasale et exige la préposition \"to\". Ce \"to\" conserve ici sa nature prépositionnelle, ce qui contraint obligatoirement le verbe subséquent à adopter la forme du gérondif (-ing). Ainsi, \"to implementing\" est correct."
+  },
+  {
+    "id": 12,
+    "test_id": 1,
+    "category": "Anglais",
+    "question": "Identify the erroneous sentence regarding the use of countable and uncountable nouns:",
+    "options": ["A) He provided me with a highly valuable piece of advice.", "B) The new office furniture has finally been delivered.", "C) The economic news are not as disastrous as the analysts predicted.", "D) We need to purchase new equipment for the laboratory.", "E) She carried too much luggage for a short business trip."],
+    "correct_answer": "C",
+    "explanation": "En grammaire anglophone, le substantif \"news\" (les nouvelles, l'actualité) est strictement indénombrable. Malgré sa terminaison en \"s\", il requiert un accord verbal au singulier : \"The economic news is not...\""
+  }
+]
