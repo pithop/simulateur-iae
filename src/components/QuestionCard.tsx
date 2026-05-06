@@ -25,7 +25,8 @@ export default function QuestionCard({ question, selectedAnswer, onSelectAnswer,
   }, [question.id]);
 
   const isTestAnswered = mode === 'test' && selectedAnswer !== null;
-  const isRevealed = mode === 'revision' && showExplanation;
+  const isRevisionAnswered = mode === 'revision' && selectedAnswer !== null;
+  const isRevealed = mode === 'revision' && (showExplanation || isRevisionAnswered);
   const shouldShowExplanation = isTestAnswered || isRevealed;
 
   return (
@@ -61,18 +62,20 @@ export default function QuestionCard({ question, selectedAnswer, onSelectAnswer,
             if (isRevealed) {
               if (optionLetter === question.correct_answer) {
                 buttonClass += "border-green-500 bg-green-50 text-green-800 font-medium";
+              } else if (selectedAnswer === optionLetter) {
+                buttonClass += "border-red-500 bg-red-50 text-red-800";
               } else {
                 buttonClass += "border-gray-200 bg-white text-gray-400 opacity-60";
               }
             } else {
-              buttonClass += "border-gray-200 bg-white text-gray-700";
+              buttonClass += "border-gray-200 bg-white hover:border-indigo-400 hover:bg-indigo-50 text-gray-700 active:scale-[0.98] cursor-pointer";
             }
           }
 
           return (
             <button
               key={option}
-              disabled={mode === 'revision' || isTestAnswered}
+              disabled={mode === 'test' ? isTestAnswered : isRevealed}
               onClick={() => onSelectAnswer(optionLetter)}
               className={buttonClass}
             >
@@ -89,7 +92,7 @@ export default function QuestionCard({ question, selectedAnswer, onSelectAnswer,
             onClick={() => setShowExplanation(true)}
             className="w-full mt-4 py-4 font-bold text-white bg-indigo-600 rounded-xl hover:bg-indigo-700 transition-all shadow-md active:scale-[0.98]"
           >
-            Voir la réponse et l'explication
+            Ou Voir la réponse directement
           </button>
         )}
       </div>
